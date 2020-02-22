@@ -1,0 +1,3196 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tercera on FutStat.cat</title>
+    <link>/tags/tercera/</link>
+    <description>Recent content in Tercera on FutStat.cat</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>ca</language>
+    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/tercera/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tercera, Grup V</title>
+      <link>/projeccions/tercera/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projeccions/tercera/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;table class=&#34;table table-hover table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;&#34; colspan=&#34;1&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+2019-2020
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;&#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Projeccions
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;&#34; colspan=&#34;3&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Probabilitats
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;&#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Rànquings
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Club
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Punts
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+GD
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Campió
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Playoffs
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Descens
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Atacar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Defensar
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #c7ffd0 !important;&#34;&gt;
+Terrassa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+77.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+34.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+41%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+98%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #d1ffd9 !important;&#34;&gt;
+Hospitalet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+76.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+36.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+97%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #dbffe1 !important;&#34;&gt;
+Europa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #dbffe1 !important;&#34;&gt;
+74.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #dbffe1 !important;&#34;&gt;
+46.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #dbffe1 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #dbffe1 !important;&#34;&gt;
+94%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #dbffe1 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #dbffe1 !important;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #dbffe1 !important;&#34;&gt;
+10
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #e5ffe9 !important;&#34;&gt;
+Sant Andreu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
+70.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
+24.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
+5%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
+76%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilafranca
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+63.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Granollers
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+63.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilassar
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+61.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Mafumet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+60.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Peralada
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+55.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Figueres
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+54.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Manresa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+53.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Castelldefels
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+52.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+-3.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Horta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+51.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+-8.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Cerdanyola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+51.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Santfeliuenc
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+-13.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Banyoles
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+41.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+-16.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+19
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+S. Cristóbal
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+-19.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+23%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffe7e5 !important;&#34;&gt;
+Sants
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
+34.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
+-28.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
+72%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
+14
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
+18
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffdedb !important;&#34;&gt;
+Igualada
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+31.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+-35.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+91%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+17
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+19
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffd5d1 !important;&#34;&gt;
+Reus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+-114.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+100%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;tfoot&gt;
+&lt;tr&gt;
+&lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 22 Feb 2020, 18:12:20
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tfoot&gt;
+&lt;/table&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tercera, Grup V</title>
+      <link>/projeccions/tercera-partits/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projeccions/tercera-partits/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;table class=&#34;table table-hover table-responsive table&#34; style=&#34;margin-left: auto; margin-right: auto; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;position: sticky; top:0; background-color: #FFFFFF;&#34; colspan=&#34;1&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+2019-20
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;position: sticky; top:0; background-color: #FFFFFF;&#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Local
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hiddenposition: sticky; top:0; background-color: #FFFFFF;&#34; colspan=&#34;1&#34;&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;position: sticky; top:0; background-color: #FFFFFF;&#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Visitant
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Jornada
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Equip
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+G
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+E
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+G
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Equip
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilafranca
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+76%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Igualada
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Mafumet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Peralada
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Castelldefels
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Manresa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Horta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+58%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Hospitalet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Cerdanyola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Europa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Figueres
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Terrassa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sants
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Banyoles
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilassar
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Granollers
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Santfeliuenc
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sant Andreu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+S. Cristóbal
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Mafumet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Europa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+88%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sants
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Granollers
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+58%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Figueres
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilassar
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilafranca
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Banyoles
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Santfeliuenc
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Peralada
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+70%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Igualada
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sant Andreu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+72%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Horta
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Terrassa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+66%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Cerdanyola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Hospitalet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+72%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Castelldefels
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilafranca
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Peralada
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Mafumet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Manresa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Castelldefels
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sant Andreu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Horta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+58%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Banyoles
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Cerdanyola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Granollers
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sants
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+66%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Terrassa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Figueres
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilassar
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Igualada
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+S. Cristóbal
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Santfeliuenc
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+64%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Europa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+S. Cristóbal
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Peralada
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Manresa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+70%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Igualada
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Hospitalet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+58%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Mafumet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Banyoles
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Castelldefels
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Europa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+84%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Horta
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Granollers
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+78%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sants
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilassar
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Cerdanyola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Figueres
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilafranca
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Terrassa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+74%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Santfeliuenc
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilafranca
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+S. Cristóbal
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Mafumet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sant Andreu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Castelldefels
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Europa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Horta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+58%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Terrassa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Cerdanyola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Figueres
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sants
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilassar
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Peralada
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Manresa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Igualada
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+70%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Hospitalet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Santfeliuenc
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Granollers
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Manresa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+60%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+S. Cristóbal
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Hospitalet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+60%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Peralada
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Banyoles
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Mafumet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Granollers
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+72%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Horta
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilassar
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+62%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Santfeliuenc
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Cerdanyola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilafranca
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Figueres
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+74%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sants
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Terrassa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+70%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Castelldefels
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sant Andreu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+80%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Igualada
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilafranca
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Manresa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+S. Cristóbal
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+62%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Hospitalet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Mafumet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Europa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Castelldefels
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Granollers
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Horta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilassar
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sants
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Cerdanyola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Peralada
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sant Andreu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Igualada
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Banyoles
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Santfeliuenc
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Figueres
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Hospitalet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+62%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Manresa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Banyoles
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Peralada
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Europa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+90%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Igualada
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilassar
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Castelldefels
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Cerdanyola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Santfeliuenc
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sants
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilafranca
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Figueres
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+66%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Horta
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Terrassa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Mafumet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sant Andreu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+72%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+S. Cristóbal
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilafranca
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Hospitalet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Mafumet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Granollers
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Manresa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sant Andreu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Castelldefels
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Figueres
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+S. Cristóbal
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Banyoles
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Horta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Cerdanyola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Peralada
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Europa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Igualada
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Terrassa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Santfeliuenc
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sants
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Banyoles
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Manresa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Europa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+84%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+S. Cristóbal
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Granollers
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+82%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Igualada
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilassar
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Mafumet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Cerdanyola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Castelldefels
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sants
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Horta
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Terrassa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+58%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Peralada
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sant Andreu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Hospitalet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Santfeliuenc
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilafranca
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+35
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+S. Cristóbal
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+60%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Terrassa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+35
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilafranca
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sant Andreu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+35
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Mafumet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Figueres
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+35
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Manresa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Europa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+35
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Hospitalet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+78%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Banyoles
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+35
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Castelldefels
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+64%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sants
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+35
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Horta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Santfeliuenc
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+35
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Peralada
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Granollers
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+35
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Igualada
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilassar
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Banyoles
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sant Andreu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Europa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Hospitalet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Granollers
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+74%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+S. Cristóbal
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilassar
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Peralada
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Cerdanyola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Mafumet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Horta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilafranca
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Figueres
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+78%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Igualada
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Terrassa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+60%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Manresa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Santfeliuenc
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Castelldefels
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+37
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Banyoles
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilafranca
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+37
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Hospitalet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Terrassa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+37
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Manresa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Granollers
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+37
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+S. Cristóbal
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilassar
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+37
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Mafumet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+64%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sants
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+37
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Castelldefels
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Horta
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+37
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Peralada
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Figueres
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+37
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sant Andreu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Europa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+37
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Igualada
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Cerdanyola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Europa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+82%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Banyoles
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Granollers
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Hospitalet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilassar
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Manresa
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Cerdanyola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Peralada
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Vilafranca
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+60%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Castelldefels
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sants
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Igualada
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Figueres
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+S. Cristóbal
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Terrassa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sant Andreu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Santfeliuenc
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;&#34;&gt;
+Mafumet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;tfoot&gt;
+&lt;tr&gt;
+&lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 22 Feb 2020, 18:12:15
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tfoot&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

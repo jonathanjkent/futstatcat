@@ -1,0 +1,30 @@
+---
+date: "2020"
+external_link: null
+image:
+  caption: 
+  focal_point: Smart
+summary: Pròxims partits
+tags:
+- Tercera
+title: Tercera, Grup V, Partits
+---
+
+```{r echo=F}
+library(kableExtra)
+library(scales)
+library(tidyverse)
+partits.3aG5 <- read.csv("~/Google Drive/Futbol/games-3aG5.csv")
+
+partits.3aG5 <- partits.3aG5 %>% mutate(p1 = percent(p1, 2)) %>%
+  mutate(pd = percent(pd, 2)) %>%
+  mutate(p2 = percent(p2, 2))
+
+kable(partits.3aG5, digits = 1, align = "c", row.names = FALSE, col.names = c("Jornada", "Equip", "G", "E", "G", "Equip"))  %>%
+  kable_styling(bootstrap_options = c("hover", "responsive"), fixed_thead = T) %>%
+  add_header_above(c("2019-20" = 1, "Local" = 2, " " = 1, "Visitant" = 2), background = "white") %>%
+  column_spec(2, bold = T, color = "#303030") %>%
+  column_spec(6, bold = T, color = "#303030") %>%
+  kable_styling(fixed_thead = T) %>%
+  footnote(general = format(Sys.time(), "%d %b %Y, %X"), general_title = "Actualitzat:", footnote_as_chunk = T)
+```
