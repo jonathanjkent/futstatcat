@@ -3,12 +3,12 @@ date: "2020-01-02"
 external_link: null
 image:
   caption: 
-  focal_point: Center
+  focal_point: Smart
   preview_only: true
 summary: Projecció de la classificació
 tags:
 - Tercera
-title: Tercera, Grup V
+title: Tercera, Grup V | Classificació
 ---
 
 ```{r echo=F}

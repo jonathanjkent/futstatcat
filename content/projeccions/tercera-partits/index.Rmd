@@ -4,10 +4,11 @@ external_link: null
 image:
   caption: 
   focal_point: Smart
-summary: Pròxims partits
+  preview_only: true
+summary: Probabilitats dels pròxims partits
 tags:
 - Tercera
-title: Tercera, Grup V
+title: Tercera, Grup V | Partits
 ---
 
 ```{r echo=F}
@@ -20,6 +21,8 @@ kable(partits.3aG5, digits = 1, align = "c", row.names = FALSE, col.names = c("J
   add_header_above(c("2019-20" = 1, "Local" = 2, " " = 1, "Visitant" = 2), background = "white") %>%
   column_spec(2, bold = T, color = "#303030") %>%
   column_spec(6, bold = T, color = "#303030") %>%
+  row_spec(which((partits.3aG5$week %% 2) == 0), background = "#F9F9F9") %>%
+  row_spec(which((partits.3aG5$week %% 2) != 0), background = "white") %>%
   kable_styling(fixed_thead = T) %>%
   footnote(general = format(Sys.time(), "%d %b %Y, %X"), general_title = "Actualitzat:", footnote_as_chunk = T)
 ```

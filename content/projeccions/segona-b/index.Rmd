@@ -4,10 +4,11 @@ external_link: null
 image:
   caption: 
   focal_point: Smart
+  preview_only: true
 summary: Projecció de la classificació
 tags:
 - Segona B
-title: Segona B, Grup III
+title: Segona B, Grup III | Classificació
 ---
 
 ```{r echo=F}

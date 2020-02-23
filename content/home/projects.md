@@ -46,7 +46,7 @@ subtitle = "Projeccions i Probabilitats"
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -58,7 +58,7 @@ subtitle = "Projeccions i Probabilitats"
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+   color = "white"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
