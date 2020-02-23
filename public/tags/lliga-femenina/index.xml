@@ -81,7 +81,7 @@ Barcelona
 90.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-118.6
+118.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 100%
@@ -104,7 +104,7 @@ Barcelona
 Atlético
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-75.7
+75.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 43.2
@@ -156,7 +156,7 @@ Levante
 Athletic
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-57.5
+57.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 17.8
@@ -185,7 +185,7 @@ Deportivo
 54.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-12.4
+12.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -234,13 +234,10 @@ Real
 Rayo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-48.3
+47.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--1.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+-1.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -249,10 +246,13 @@ Rayo
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-9
+0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-8
+10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -260,10 +260,10 @@ Rayo
 Logroño
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-46.8
+46.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--6.3
+-6.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -301,10 +301,10 @@ Sevilla
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-10
+9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-7
+8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -338,7 +338,7 @@ Tacón
 Granadilla
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-38.4
+38.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -12.3
@@ -367,33 +367,7 @@ Madrid
 33.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--25.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-16%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-11
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-15
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Valencia
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-33.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--6.7
+-24.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -405,10 +379,10 @@ Valencia
 14%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-14
+11
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-6
+15
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -435,6 +409,32 @@ Real Betis
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 10
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Valencia
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+33.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+-6.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+14
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -471,7 +471,7 @@ Espanyol
 15.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
--46.0
+-46.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 0%
@@ -493,7 +493,7 @@ Espanyol
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 17:21:29
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 20:40:36
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -585,7 +585,7 @@ Deportivo
 68%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-14%
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 16%
@@ -628,7 +628,7 @@ Athletic
 18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-14%
+12%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Tacón
@@ -665,7 +665,7 @@ Valencia
 14%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-26%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 60%
@@ -712,26 +712,6 @@ Real Betis
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Sevilla
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-21
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Valencia
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-40%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-30%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-30%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Rayo
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -808,7 +788,7 @@ Granadilla
 30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-28%
+26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Valencia
@@ -868,7 +848,7 @@ Sevilla
 26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-52%
+50%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Levante
@@ -882,7 +862,7 @@ Levante
 Rayo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-54%
+52%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 26%
@@ -928,7 +908,7 @@ Espanyol
 26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-58%
+56%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Rayo
@@ -965,7 +945,7 @@ Levante
 6%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-16%
+18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 76%
@@ -1022,10 +1002,10 @@ Sevilla
 Valencia
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-56%
+54%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-30%
+32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 14%
@@ -1062,10 +1042,10 @@ Granadilla
 Rayo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-64%
+62%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-20%
+22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 16%
@@ -1162,10 +1142,10 @@ Real
 Atlético
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-78%
+76%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-16%
+18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 6%
@@ -1322,10 +1302,10 @@ Logroño
 Valencia
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-40%
+38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-30%
+32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 30%
@@ -1365,7 +1345,7 @@ Real Betis
 48%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-26%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 26%
@@ -1425,7 +1405,7 @@ Sporting
 48%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-32%
+34%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 18%
@@ -1465,7 +1445,7 @@ Rayo
 36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-26%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 36%
@@ -1482,7 +1462,7 @@ Real
 Barcelona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-98%
+96%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 2%
@@ -1568,7 +1548,7 @@ Granadilla
 28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-34%
+32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Rayo
@@ -1622,10 +1602,10 @@ Barcelona
 Valencia
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-44%
+42%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-26%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 30%
@@ -1722,13 +1702,13 @@ Madrid
 Tacón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-46%
+44%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-32%
+30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Rayo
@@ -1765,10 +1745,10 @@ Sevilla
 32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-28%
+30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-40%
+38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Athletic
@@ -1828,7 +1808,7 @@ Sporting
 34%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-40%
+38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Real Betis
@@ -1882,7 +1862,7 @@ Atlético
 Valencia
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-54%
+52%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 26%
@@ -1922,7 +1902,7 @@ Deportivo
 Granadilla
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-2%
+0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 6%
@@ -2025,7 +2005,7 @@ Atlético
 76%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-16%
+18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 8%
@@ -2068,7 +2048,7 @@ Logroño
 14%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-8%
+6%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Espanyol
@@ -2108,7 +2088,7 @@ Madrid
 24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-54%
+52%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Real
@@ -2122,10 +2102,10 @@ Real
 Deportivo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-66%
+64%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-18%
+20%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 16%
@@ -2145,7 +2125,7 @@ Levante
 78%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-14%
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 8%
@@ -2178,7 +2158,7 @@ Granadilla
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 17:21:26
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 20:40:33
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
