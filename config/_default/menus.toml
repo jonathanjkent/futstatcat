@@ -11,22 +11,22 @@
 [[main]]
   name = "Lliga Femenina"
   url = "tags/lliga-femenina/"
-  weight = 15
+  weight = 20
 
 [[main]]
   name = "Segona B"
   url = "tags/segona-b/"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Tercera"
   url = "tags/tercera/"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Primera Catalana"
   url = "tags/primera-catalana/"
-  weight = 40
+  weight = 50
 
 
 
