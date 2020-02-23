@@ -9,24 +9,25 @@
   weight = 10
 
 [[main]]
-  name = "Segona B, III"
-  url = "projeccions/segona-b/"
+  name = "Lliga Femenina"
+  url = "tags/lliga-feminina/"
+  weight = 15
+
+[[main]]
+  name = "Segona B"
+  url = "tags/segona-b/"
   weight = 20
 
 [[main]]
-  name = "Tercera, V"
-  url = "projeccions/tercera/"
+  name = "Tercera"
+  url = "tags/tercera/"
   weight = 30
 
 [[main]]
-  name = "Primera Catalana, I"
-  url = "projeccions/primera-cat1/"
+  name = "Primera Catalana"
+  url = "tags/primera-catalana/"
   weight = 40
 
-[[main]]
-  name = "Primera Catalana, II"
-  url = "projeccions/primera-cat2/"
-  weight = 50
 
 
 

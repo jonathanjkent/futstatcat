@@ -8,6 +8,8 @@ image:
 summary: Projecció de la classificació
 tags:
 - Segona B
+- Masculí
+- Classificació
 title: Segona B, Grup III | Classificació
 ---
 

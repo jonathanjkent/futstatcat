@@ -8,6 +8,8 @@ image:
 summary: Projecció de la classificació
 tags:
 - Primera Catalana
+- Masculí
+- Classificació
 title: Primera Catalana, Grup II | Classificació
 ---
 

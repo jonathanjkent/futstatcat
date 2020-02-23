@@ -24,6 +24,10 @@ subtitle = "Projeccions i Probabilitats"
   [[content.filter_button]]
     name = "Tot"
     tag = "*"
+
+  [[content.filter_button]]
+    name = "Lliga Femenina"
+    tag = "Lliga Femenina"
   
   [[content.filter_button]]
     name = "Segona B"
@@ -36,7 +40,7 @@ subtitle = "Projeccions i Probabilitats"
   [[content.filter_button]]
     name = "Primera Catalana"
     tag = "Primera Catalana"
-  
+    
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

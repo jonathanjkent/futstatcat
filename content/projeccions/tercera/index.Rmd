@@ -8,6 +8,8 @@ image:
 summary: Projecció de la classificació
 tags:
 - Tercera
+- Masculí
+- Classificació
 title: Tercera, Grup V | Classificació
 ---
 

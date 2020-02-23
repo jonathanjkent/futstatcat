@@ -6,10 +6,2185 @@
     <description>Recent content in Projeccions on FutStat.cat</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>ca</language>
-    <lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/projeccions/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lliga Femenina | Classificació</title>
+      <link>/projeccions/lliga-feminina/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projeccions/lliga-feminina/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;table class=&#34;table table-hover table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;&#34; colspan=&#34;1&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+2019-2020
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;&#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Projeccions
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;&#34; colspan=&#34;3&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Probabilitats
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;&#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Rànquings
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Club
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Punts
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+GD
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Campió
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+UEFA
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Descens
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Atacar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Defensar
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #c7ffd0 !important;&#34;&gt;
+Barcelona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+90.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+118.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+100%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+100%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #fffad1 !important;&#34;&gt;
+Atlético
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
+75.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
+43.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
+92%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Levante
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+69.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+35.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Athletic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+57.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+17.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Deportivo
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+54.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+12.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+12
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Real
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+53.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+14.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Rayo
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+48.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+-1.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Logroño
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+46.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+-6.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+13
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Sevilla
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+41.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+-0.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Tacón
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+40.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+-11.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+14
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Granadilla
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+38.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+-12.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+13
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+11
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Madrid
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+33.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+-25.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+11
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+15
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Valencia
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+33.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+-6.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+14
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Real Betis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+33.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+-10.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+12
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+10
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffdedb !important;&#34;&gt;
+Sporting
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+31.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+-25.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+16
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffd5d1 !important;&#34;&gt;
+Espanyol
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+15.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+-46.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+100%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+15
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+16
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;tfoot&gt;
+&lt;tr&gt;
+&lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 16:52:00
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tfoot&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lliga Femenina | Partits</title>
+      <link>/projeccions/lliga-feminina-partits/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projeccions/lliga-feminina-partits/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;table class=&#34;table table-responsive table&#34; style=&#34;margin-left: auto; margin-right: auto; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;position: sticky; top:0; background-color: #FFFFFF;&#34; colspan=&#34;1&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+2019-20
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;position: sticky; top:0; background-color: #FFFFFF;&#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Local
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hiddenposition: sticky; top:0; background-color: #FFFFFF;&#34; colspan=&#34;1&#34;&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;position: sticky; top:0; background-color: #FFFFFF;&#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Visitant
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Jornada
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Equip
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Guanyar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Empatar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Guanyar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Equip
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Madrid
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Rayo
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Deportivo
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Logroño
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Espanyol
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Granadilla
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Athletic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+70%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Tacón
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Real
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+4%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+86%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Barcelona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Valencia
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+60%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Atlético
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Levante
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+84%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+4%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sporting
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Real Betis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sevilla
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+21
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Valencia
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Rayo
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Barcelona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+100%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Madrid
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Tacón
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Deportivo
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sporting
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Logroño
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Granadilla
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Valencia
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Athletic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+86%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+4%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Espanyol
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Atlético
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Real
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sevilla
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Levante
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Rayo
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Real Betis
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Deportivo
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Atlético
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Espanyol
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+58%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Rayo
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Real Betis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Tacón
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Levante
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+76%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Barcelona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Madrid
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Logroño
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Real
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+58%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sevilla
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Valencia
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sporting
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Athletic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Granadilla
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Rayo
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+64%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Madrid
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Logroño
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Deportivo
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Granadilla
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+70%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Espanyol
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Tacón
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Athletic
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Barcelona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+96%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+4%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Real
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Atlético
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+78%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Valencia
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sporting
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Levante
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sevilla
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Real Betis
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Espanyol
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+4%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+82%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Atlético
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Athletic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+60%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Rayo
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Real
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Tacón
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Deportivo
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+4%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+94%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Barcelona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Levante
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+80%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Logroño
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Valencia
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sevilla
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Madrid
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sporting
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Real Betis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Granadilla
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Levante
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+86%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+4%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Madrid
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sevilla
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Deportivo
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sporting
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Espanyol
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Logroño
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Athletic
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Rayo
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Real
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Barcelona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+98%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Valencia
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Atlético
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+82%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Real Betis
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Tacón
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Granadilla
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Athletic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Atlético
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Granadilla
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Rayo
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Espanyol
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+58%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Tacón
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Real Betis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+94%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Barcelona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Valencia
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Logroño
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Deportivo
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Levante
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Madrid
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sevilla
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Real
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+74%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sporting
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Deportivo
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+78%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Madrid
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Tacón
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Rayo
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Barcelona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+100%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Espanyol
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sevilla
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Athletic
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Logroño
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Real
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Levante
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+74%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Valencia
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sporting
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Real Betis
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Atlético
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+82%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+4%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Granadilla
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Tacón
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+66%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Atlético
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Valencia
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Madrid
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Real
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Deportivo
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Granadilla
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+94%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Barcelona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Real Betis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Logroño
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Espanyol
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+80%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Levante
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Rayo
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sevilla
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Athletic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+74%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sporting
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Atlético
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+76%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Rayo
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sevilla
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Tacón
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Logroño
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+80%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Espanyol
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Barcelona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+94%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Athletic
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Madrid
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Real
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Deportivo
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+66%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Valencia
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Levante
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+78%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Real Betis
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sporting
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Granadilla
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;tfoot&gt;
+&lt;tr&gt;
+&lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 16:49:37
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tfoot&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Segona B, Grup III | Classificació</title>
@@ -78,7 +2253,7 @@ Defensar
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-75.3
+75.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 27.8
@@ -87,7 +2262,7 @@ Sabadell
 42%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-93.090%
+94%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 0%
@@ -110,10 +2285,10 @@ Castellón
 32.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-39%
+38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-92.010%
+92%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 0%
@@ -130,16 +2305,16 @@ Castellón
 Cornellà
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-70.7
+70.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
 18.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-9%
+8%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-62.670%
+62%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
 0%
@@ -162,10 +2337,10 @@ Villarreal
 15.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-3%
+4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-37.510%
+38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 0%
@@ -182,16 +2357,16 @@ Villarreal
 Barcelona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-68.1
+68.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 19.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-3%
+4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-39.950%
+40%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -208,7 +2383,7 @@ Barcelona
 Espanyol B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-67.7
+67.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 25.4
@@ -217,7 +2392,7 @@ Espanyol B
 2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-39.110%
+40%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -240,10 +2415,10 @@ Lleida
 17.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1%
+0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-17.450%
+18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -260,7 +2435,7 @@ Lleida
 Olot
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-65.1
+64.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 21.0
@@ -269,7 +2444,7 @@ Olot
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-17.790%
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -286,7 +2461,7 @@ Olot
 FC Andorra
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-57.5
+57.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 6.2
@@ -295,7 +2470,7 @@ FC Andorra
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0.300%
+0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -312,7 +2487,7 @@ FC Andorra
 Nucía
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-56.5
+56.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 4.8
@@ -321,7 +2496,7 @@ Nucía
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0.630%
+0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -338,7 +2513,7 @@ Nucía
 Levante
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-56.3
+56.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 1.7
@@ -347,7 +2522,7 @@ Levante
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0.580%
+0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -364,7 +2539,7 @@ Levante
 CD Ebro
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-52.8
+52.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -0.3
@@ -373,10 +2548,10 @@ CD Ebro
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-3.810%
+4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1%
+0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 9
@@ -399,10 +2574,10 @@ Gimnàstic
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-6.540%
+6%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-3%
+4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 7
@@ -425,10 +2600,10 @@ Llagostera
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-13.960%
+14%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-5%
+6%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 19
@@ -451,7 +2626,7 @@ Valencia
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-20.200%
+22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 20%
@@ -468,7 +2643,7 @@ Valencia
 Ejea
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-46.7
+46.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 -3.4
@@ -477,7 +2652,7 @@ Ejea
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-23.530%
+22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 22%
@@ -494,7 +2669,7 @@ Ejea
 Hércules
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-41.8
+41.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 -6.3
@@ -503,10 +2678,10 @@ Hércules
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-14.340%
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-74%
+72%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 15
@@ -529,10 +2704,10 @@ Badalona
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-10.540%
+10%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-83%
+84%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 20
@@ -546,7 +2721,7 @@ Badalona
 Orihuela
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-38.0
+37.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 -24.4
@@ -555,7 +2730,7 @@ Orihuela
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-3.020%
+2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 96%
@@ -572,7 +2747,7 @@ Orihuela
 AE Prat
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-37.7
+37.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 -21.9
@@ -581,10 +2756,10 @@ AE Prat
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-2.970%
+4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-95%
+96%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 18
@@ -597,7 +2772,7 @@ AE Prat
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 15:47:40
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 16:51:33
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -644,13 +2819,13 @@ Jornada
 Equip
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
-G
+Guanyar
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
-E
+Empatar
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
-G
+Guanyar
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Equip
@@ -3162,7 +5337,7 @@ Villarreal
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 15:47:37
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 16:49:30
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -3243,7 +5418,7 @@ Terrassa
 38.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-59%
+60%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 100%
@@ -3272,7 +5447,7 @@ L´Hospital
 34%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-99%
+98%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 0%
@@ -3298,7 +5473,7 @@ CE Europa
 4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-87%
+86%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
 0%
@@ -3315,16 +5490,16 @@ CE Europa
 Sant Andreu
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-70.7
+70.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 24.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-3%
+2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-77%
+76%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 0%
@@ -3341,7 +5516,7 @@ Sant Andreu
 Vilafranca
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-64.0
+64.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 16.6
@@ -3350,7 +5525,7 @@ Vilafranca
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-15%
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -3419,7 +5594,7 @@ Vilassar
 Pobla
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-58.1
+58.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 8.2
@@ -3428,7 +5603,7 @@ Pobla
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1%
+2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -3445,7 +5620,7 @@ Pobla
 Peralada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-57.7
+57.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 10.2
@@ -3454,7 +5629,7 @@ Peralada
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1%
+2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -3471,7 +5646,7 @@ Peralada
 Cerdanyola
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-54.6
+54.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 5.5
@@ -3497,7 +5672,7 @@ Cerdanyola
 CE Manresa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-53.2
+53.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 7.4
@@ -3549,7 +5724,7 @@ Figueres
 Castelldefe
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-52.1
+52.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -3.7
@@ -3575,7 +5750,7 @@ Castelldefe
 Horta
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-50.5
+50.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -9.9
@@ -3653,7 +5828,7 @@ Banyoles
 Cristobal
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-38.6
+38.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -19.7
@@ -3665,7 +5840,7 @@ Cristobal
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-19%
+20%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 17
@@ -3717,7 +5892,7 @@ Igualada
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-93%
+92%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 18
@@ -3756,7 +5931,7 @@ Reus
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 15:47:44
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 16:51:26
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -3803,13 +5978,13 @@ Jornada
 Equip
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
-G
+Guanyar
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
-E
+Empatar
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
-G
+Guanyar
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Equip
@@ -6201,7 +8376,7 @@ Banyoles
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 15:47:42
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 16:49:13
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -6285,7 +8460,7 @@ Girona
 100%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-0.00%
+0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 0%
@@ -6311,7 +8486,7 @@ FE Grama
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-51.47%
+52%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 0%
@@ -6328,7 +8503,7 @@ FE Grama
 UE Vic
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-64.2
+64.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 30.6
@@ -6337,7 +8512,7 @@ UE Vic
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-34.33%
+32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -6363,7 +8538,7 @@ Manlleu
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-9.45%
+10%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -6380,7 +8555,7 @@ Manlleu
 Palamós
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-58.6
+58.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 14.9
@@ -6389,7 +8564,7 @@ Palamós
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-3.17%
+4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -6406,7 +8581,7 @@ Palamós
 Guineueta
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-56.0
+56.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 20.2
@@ -6415,7 +8590,7 @@ Guineueta
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.10%
+2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -6432,7 +8607,7 @@ Guineueta
 Escola
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-54.9
+55.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 7.5
@@ -6441,7 +8616,7 @@ Escola
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0.49%
+0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -6467,7 +8642,7 @@ CF Lloret
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-4.27%
+4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 4%
@@ -6484,7 +8659,7 @@ CF Lloret
 UE Rubí
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-43.9
+44.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -12.9
@@ -6493,7 +8668,7 @@ UE Rubí
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-6.73%
+6%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 6%
@@ -6519,10 +8694,10 @@ Sabadell
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-9.16%
+8%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-9%
+8%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 11
@@ -6545,7 +8720,7 @@ L’Escala
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-8.32%
+8%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 8%
@@ -6562,7 +8737,7 @@ L’Escala
 Mollet
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-42.7
+42.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 2.1
@@ -6571,7 +8746,7 @@ Mollet
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-7.54%
+8%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 8%
@@ -6588,7 +8763,7 @@ Mollet
 Júpiter
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-40.9
+40.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -4.8
@@ -6597,10 +8772,10 @@ Júpiter
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-13.44%
+14%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-17%
+18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 14
@@ -6623,10 +8798,10 @@ Jonquera
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-18.77%
+20%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-41%
+40%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 17
@@ -6649,10 +8824,10 @@ UE Tona
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-16.69%
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-45%
+44%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 15
@@ -6666,7 +8841,7 @@ UE Tona
 Parets CF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-35.4
+35.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 -16.0
@@ -6675,10 +8850,10 @@ Parets CF
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-11.46%
+12%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-70%
+72%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 10
@@ -6701,10 +8876,10 @@ Llagostera
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-3.61%
+4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-93%
+94%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 16
@@ -6717,7 +8892,7 @@ Llagostera
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 15:47:33
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 16:51:42
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -6764,13 +8939,13 @@ Jornada
 Equip
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
-G
+Guanyar
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
-E
+Empatar
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
-G
+Guanyar
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Equip
@@ -8862,7 +11037,7 @@ Manlleu
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 15:47:27
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 16:49:40
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -8937,7 +11112,7 @@ Defensar
 Montañesa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-92.6
+92.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 68.8
@@ -8972,7 +11147,7 @@ Santboia
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-83%
+84%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 0%
@@ -8989,7 +11164,7 @@ Santboia
 Martinenc
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-68.9
+68.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 33.6
@@ -9015,7 +11190,7 @@ Martinenc
 Valls Ue
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-65.6
+65.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 19.4
@@ -9041,7 +11216,7 @@ Valls Ue
 FC Ascó
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-59.1
+59.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 19.1
@@ -9093,7 +11268,7 @@ CF Gavá
 Efac
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-58.6
+58.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 5.8
@@ -9145,7 +11320,7 @@ Sant Just
 Vilanova
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-56.3
+56.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 10.5
@@ -9154,7 +11329,7 @@ Vilanova
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1%
+0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -9235,7 +11410,7 @@ Mollerussa
 12%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-5%
+4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 15
@@ -9258,7 +11433,7 @@ Vidalet
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-21%
+22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 12%
@@ -9287,7 +11462,7 @@ Martorell
 34%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-21%
+22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 18
@@ -9336,7 +11511,7 @@ Alcarras
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-3%
+4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 96%
@@ -9404,7 +11579,7 @@ Catllar
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 15:47:35
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 16:51:36
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -9451,13 +11626,13 @@ Jornada
 Equip
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
-G
+Guanyar
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
-E
+Empatar
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
-G
+Guanyar
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Equip
@@ -11809,7 +13984,7 @@ Sant Just
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 15:47:31
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 16:49:44
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
