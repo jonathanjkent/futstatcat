@@ -110,7 +110,7 @@ Castellón
 26.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
-37%
+38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
 91%
@@ -136,10 +136,10 @@ Cornellá
 12.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #dbffe1 !important;&#34;&gt;
-8%
+9%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #dbffe1 !important;&#34;&gt;
-60%
+59%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #dbffe1 !important;&#34;&gt;
 0%
@@ -156,7 +156,7 @@ Cornellá
 Villarreal B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
-70.0
+70.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
 10.6
@@ -165,7 +165,7 @@ Villarreal B
 7%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
-51%
+52%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
 0%
@@ -188,7 +188,7 @@ Barça B
 13.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2%
+3%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 37%
@@ -208,13 +208,13 @@ Barça B
 Espanyol B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-67.8
+67.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 19.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-3%
+2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 38%
@@ -243,7 +243,7 @@ Lleida
 1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16%
+15%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0%
@@ -260,16 +260,16 @@ Lleida
 Olot
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-64.9
+65.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 15.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1%
+0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-15%
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0%
@@ -286,7 +286,7 @@ Olot
 Andorra
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-59.9
+59.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 2.7
@@ -364,7 +364,7 @@ At. Levante
 Gimnàstic de Tarragona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-51.4
+51.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 -3.2
@@ -383,32 +383,6 @@ Gimnàstic de Tarragona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 16
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
-Ebro
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-50.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
--7.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-12
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-15
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -439,10 +413,36 @@ Llagostera
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Ebro
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+50.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+-7.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
 Mestalla
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.1
+48.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 -4.0
@@ -454,7 +454,7 @@ Mestalla
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-6%
+5%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 10
@@ -468,7 +468,7 @@ Mestalla
 Ejea
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.8
+46.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 -9.4
@@ -520,7 +520,7 @@ Hércules
 Badalona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-40.4
+40.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 -20.8
@@ -558,7 +558,7 @@ Prat
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-86%
+87%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 19
@@ -584,7 +584,7 @@ Orihuela
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-88%
+87%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 17
@@ -597,7 +597,7 @@ Orihuela
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 11:35:22
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 13:02:10
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -3242,7 +3242,7 @@ Villarreal B
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 11:37:12
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 13:02:08
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;

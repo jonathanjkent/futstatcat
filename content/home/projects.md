@@ -33,9 +33,9 @@ subtitle = "Projeccions i Probabilitats"
     name = "Tercera"
     tag = "Tercera"
   
-#  [[content.filter_button]]
-#    name = "Human"
-#    tag = "human"
+  [[content.filter_button]]
+    name = "Primera Catalana"
+    tag = "Primera Catalana"
   
 
 [design]

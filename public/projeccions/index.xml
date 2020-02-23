@@ -110,7 +110,7 @@ Castellón
 26.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
-37%
+38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
 91%
@@ -136,10 +136,10 @@ Cornellá
 12.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #dbffe1 !important;&#34;&gt;
-8%
+9%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #dbffe1 !important;&#34;&gt;
-60%
+59%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #dbffe1 !important;&#34;&gt;
 0%
@@ -156,7 +156,7 @@ Cornellá
 Villarreal B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
-70.0
+70.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
 10.6
@@ -165,7 +165,7 @@ Villarreal B
 7%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
-51%
+52%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
 0%
@@ -188,7 +188,7 @@ Barça B
 13.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2%
+3%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 37%
@@ -208,13 +208,13 @@ Barça B
 Espanyol B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-67.8
+67.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 19.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-3%
+2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 38%
@@ -243,7 +243,7 @@ Lleida
 1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16%
+15%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0%
@@ -260,16 +260,16 @@ Lleida
 Olot
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-64.9
+65.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 15.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1%
+0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-15%
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0%
@@ -286,7 +286,7 @@ Olot
 Andorra
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-59.9
+59.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 2.7
@@ -364,7 +364,7 @@ At. Levante
 Gimnàstic de Tarragona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-51.4
+51.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 -3.2
@@ -383,32 +383,6 @@ Gimnàstic de Tarragona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 16
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
-Ebro
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-50.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
--7.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-12
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-15
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -439,10 +413,36 @@ Llagostera
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Ebro
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+50.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+-7.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
 Mestalla
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.1
+48.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 -4.0
@@ -454,7 +454,7 @@ Mestalla
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-6%
+5%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 10
@@ -468,7 +468,7 @@ Mestalla
 Ejea
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.8
+46.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 -9.4
@@ -520,7 +520,7 @@ Hércules
 Badalona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-40.4
+40.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 -20.8
@@ -558,7 +558,7 @@ Prat
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-86%
+87%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 19
@@ -584,7 +584,7 @@ Orihuela
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-88%
+87%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 17
@@ -597,7 +597,7 @@ Orihuela
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 11:35:22
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 13:02:10
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -3242,7 +3242,7 @@ Villarreal B
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 11:37:12
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 13:02:08
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -3349,7 +3349,7 @@ Hospitalet
 36.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
-34%
+35%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
 97%
@@ -3375,7 +3375,7 @@ Europa
 46.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #dbffe1 !important;&#34;&gt;
-19%
+18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #dbffe1 !important;&#34;&gt;
 94%
@@ -3395,7 +3395,7 @@ Europa
 Sant Andreu
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
-70.8
+70.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
 24.4
@@ -3404,7 +3404,7 @@ Sant Andreu
 5%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
-75%
+76%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #e5ffe9 !important;&#34;&gt;
 0%
@@ -3473,7 +3473,7 @@ Granollers
 Vilassar
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-61.6
+61.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 12.3
@@ -3577,7 +3577,7 @@ Figueres
 Manresa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-53.4
+53.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 7.3
@@ -3603,7 +3603,7 @@ Manresa
 Castelldefels
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.5
+52.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 -3.5
@@ -3693,7 +3693,7 @@ Santfeliuenc
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-5%
+6%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 16
@@ -3719,7 +3719,7 @@ Banyoles
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-9%
+8%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 19
@@ -3785,7 +3785,7 @@ Sants
 Igualada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-31.5
+31.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 -35.3
@@ -3836,7 +3836,7 @@ Reus
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 11:31:41
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 13:02:15
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -6421,7 +6421,5329 @@ Mafumet
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 11:32:01
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 13:02:13
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tfoot&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Primera Catalana, Grup I | Classificació</title>
+      <link>/projeccions/primera-cat1/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projeccions/primera-cat1/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;table class=&#34;table table-hover table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;&#34; colspan=&#34;1&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+2019-2020
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;&#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Projeccions
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;&#34; colspan=&#34;3&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Probabilitats
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;&#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Rànquings
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Club
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Punts
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+GD
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Campió
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Playoffs
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Descens
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Atacar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Defensar
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #c7ffd0 !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+94.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+72.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+100%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+0.00%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #d1ffd9 !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+66.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+21.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+51.98%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+64.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33.23%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+60.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.69%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+58.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.62%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+56.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.07%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+55.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.41%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+-1.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.01%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+-12.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.35%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+-2.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.31%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+-9.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.93%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+40.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+-4.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.29%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffd5d1 !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+38.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+-13.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+19.34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+41%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+17
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffd5d1 !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+37.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+-7.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+16.93%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+15
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffd5d1 !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+35.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+-16.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+11.32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+71%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+17
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffd5d1 !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+30.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+-15.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+3.18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+94%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+16
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;tfoot&gt;
+&lt;tr&gt;
+&lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 13:02:04
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tfoot&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Primera Catalana, Grup I | Partits</title>
+      <link>/projeccions/premera-cat1-partits/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projeccions/premera-cat1-partits/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;table class=&#34;table table-hover table-responsive table&#34; style=&#34;margin-left: auto; margin-right: auto; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;position: sticky; top:0; background-color: #FFFFFF;&#34; colspan=&#34;1&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+2019-20
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;position: sticky; top:0; background-color: #FFFFFF;&#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Local
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hiddenposition: sticky; top:0; background-color: #FFFFFF;&#34; colspan=&#34;1&#34;&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;position: sticky; top:0; background-color: #FFFFFF;&#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Visitant
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Jornada
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Equip
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+G
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+E
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+G
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Equip
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+66%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+82%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+62%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+84%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+62%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+58%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+70%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+90%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+58%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+60%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+90%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+70%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+94%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+64%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+88%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+58%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+92%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+62%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+62%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+64%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+88%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+60%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+64%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+84%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+88%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+62%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+62%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+74%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+70%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+58%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+66%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;tfoot&gt;
+&lt;tr&gt;
+&lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 13:01:58
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tfoot&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Primera Catalana, Grup II | Classificació</title>
+      <link>/projeccions/primera-cat2/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projeccions/primera-cat2/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;table class=&#34;table table-hover table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;&#34; colspan=&#34;1&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+2019-2020
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;&#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Projeccions
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;&#34; colspan=&#34;3&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Probabilitats
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;&#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Rànquings
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Club
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Punts
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+GD
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Campió
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Playoffs
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Descens
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Atacar
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Defensar
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #c7ffd0 !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+94.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+72.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+100%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+0.00%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #d1ffd9 !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+66.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+21.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+51.98%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
+5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+64.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33.23%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+60.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.69%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+58.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.62%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+56.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.07%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+55.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.41%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+-1.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.01%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+-12.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.35%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+-2.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.31%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+-9.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.93%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+40.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+-4.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.29%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffd5d1 !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+38.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+-13.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+19.34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+41%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+17
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffd5d1 !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+37.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+-7.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+16.93%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+15
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffd5d1 !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+35.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+-16.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+11.32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+71%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+17
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffd5d1 !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+30.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+-15.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+3.18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+94%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+16
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;tfoot&gt;
+&lt;tr&gt;
+&lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 13:02:05
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tfoot&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Primera Catalana, Grup II | Partits</title>
+      <link>/projeccions/premera-cat2-partits/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projeccions/premera-cat2-partits/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;table class=&#34;table table-hover table-responsive table&#34; style=&#34;margin-left: auto; margin-right: auto; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;position: sticky; top:0; background-color: #FFFFFF;&#34; colspan=&#34;1&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+2019-20
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;position: sticky; top:0; background-color: #FFFFFF;&#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Local
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hiddenposition: sticky; top:0; background-color: #FFFFFF;&#34; colspan=&#34;1&#34;&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; padding-right: 4px; padding-left: 4px; background-color: white !important;position: sticky; top:0; background-color: #FFFFFF;&#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Visitant
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Jornada
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Equip
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+G
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+E
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+G
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Equip
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+66%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+82%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+62%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+84%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+62%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+58%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+70%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+90%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+58%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+60%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+90%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+70%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+94%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+64%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+88%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+58%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+92%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+62%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+62%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+64%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+88%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+60%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+64%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+84%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+50%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+88%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+10%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+62%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+62%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+44%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+56%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+74%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+34%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+70%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+28%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+58%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+22%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Girona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+68%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Vic
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Tona
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+30%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+38%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Escola
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Parets CF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+48%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Jonquera
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Guineueta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+52%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Palamós
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Llagostera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+32%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+42%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+L’Escala
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Júpiter
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+40%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+24%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+36%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+CF Lloret
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+54%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+20%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Sabadell
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+Manlleu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+66%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
+16%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
+UE Rubí
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;tfoot&gt;
+&lt;tr&gt;
+&lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 23 Feb 2020, 13:02:02
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
