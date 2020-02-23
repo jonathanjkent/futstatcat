@@ -68,12 +68,22 @@
   </url>
   
   <url>
+    <loc>/tags/evolucio/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/tercera/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/projeccions/tercera/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projeccions/tercera-prog/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url>
   
