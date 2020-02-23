@@ -19,9 +19,12 @@ kable(table.2aBG3, digits = 1, align = "lccccccc", row.names = FALSE, col.names 
   add_header_above(c("2019-2020" = 1, "Projeccions" = 2, "Probabilitats" = 3, "Rànquings" = 2), background = "white") %>%
   column_spec(1, bold = T, color = "#303030") %>%
   row_spec(1, background = "#c7ffd0") %>%
-  row_spec(2, background = "#d1ffd9") %>%
-  row_spec(3, background = "#dbffe1") %>%
-  row_spec(4, background = "#e5ffe9") %>%
+  row_spec(2, background = "#fffad1") %>%
+  row_spec(3, background = "#fffbdb") %>%
+  row_spec(4, background = "#fffce5") %>%
+  row_spec(5:15, background = "#ffffff") %>%
+  row_spec(16, background = "#fffce5") %>%
+  row_spec(17, background = "#ffe7e5") %>%
   row_spec(18, background = "#ffe7e5") %>%
   row_spec(19, background = "#ffdedb") %>%
   row_spec(20, background = "#ffd5d1") %>%
