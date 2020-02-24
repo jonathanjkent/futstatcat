@@ -6,7 +6,7 @@
     <description>Recent content in Tags on FutStat.cat</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>ca</language>
-    <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Classificació</title>
       <link>/tags/classificacio/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/classificacio/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Femení</title>
       <link>/tags/femeni/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/femeni/</guid>
       <description></description>
@@ -32,16 +32,25 @@
     <item>
       <title>Lliga Femenina</title>
       <link>/tags/lliga-femenina/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/lliga-femenina/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Evolució</title>
+      <link>/tags/evolucio/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/evolucio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pròxims Partits</title>
       <link>/tags/proxims-partits/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/proxims-partits/</guid>
       <description></description>
@@ -50,7 +59,7 @@
     <item>
       <title>Masculí</title>
       <link>/tags/masculi/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/masculi/</guid>
       <description></description>
@@ -59,25 +68,16 @@
     <item>
       <title>Segona B</title>
       <link>/tags/segona-b/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/segona-b/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Evolució</title>
-      <link>/tags/evolucio/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/evolucio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tercera</title>
       <link>/tags/tercera/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/tercera/</guid>
       <description></description>
@@ -86,7 +86,7 @@
     <item>
       <title>Primera Catalana</title>
       <link>/tags/primera-catalana/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/primera-catalana/</guid>
       <description></description>
