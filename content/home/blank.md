@@ -7,7 +7,7 @@ weight = 80
 
 color = "black"
 
-title = "Featured"
+title = "destacat"
 subtitle = "Batalla per la Segona B"
 +++
 
