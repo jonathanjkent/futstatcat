@@ -12,7 +12,9 @@ tags:
 - Pròxims Partits
 title: Tercera, Grup V | Partits
 ---
-
+Probabilitats dels pròxims partits
+<br>
+<br>
 ```{r echo=F}
 library(kableExtra)
 

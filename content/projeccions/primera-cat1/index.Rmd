@@ -5,14 +5,16 @@ image:
   caption: 
   focal_point: Smart
   preview_only: true
-summary: Projecció de la classificació
+summary: Projecció de la classificació final
 tags:
 - Primera Catalana
 - Masculí
 - Classificació
 title: Primera Catalana, Grup I | Classificació
 ---
-
+Projecció de la classificació final
+<br>
+<br>
 ```{r echo=F}
 library(kableExtra)
 table.primcat1 <- read.csv("~/Google Drive/Futbol/final-primcat1.csv")

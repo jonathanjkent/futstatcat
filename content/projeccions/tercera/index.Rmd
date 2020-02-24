@@ -5,14 +5,16 @@ image:
   caption: 
   focal_point: Smart
   preview_only: true
-summary: Projecció de la classificació
+summary: Projecció de la classificació final
 tags:
 - Tercera
 - Masculí
 - Classificació
 title: Tercera, Grup V | Classificació
 ---
-
+Projecció de la classificació final
+<br>
+<br>
 ```{r echo=F}
 library(kableExtra)
 table.3aG5 <- read.csv("~/Google Drive/Futbol/final-3aG5.csv")

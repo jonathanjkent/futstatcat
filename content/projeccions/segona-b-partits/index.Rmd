@@ -12,7 +12,9 @@ tags:
 - Pròxims Partits
 title: Segona B, Grup III | Partits
 ---
-
+Probabilitats dels pròxims partits
+<br>
+<br>
 ```{r echo=F}
 library(kableExtra)
 

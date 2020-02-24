@@ -5,14 +5,16 @@ image:
   caption: 
   focal_point: Smart
   preview_only: true
-summary: Projecció de la classificació
+summary: Projecció de la classificació final
 tags:
 - Lliga Femenina
 - Femení
 - Classificació
 title: Lliga Femenina | Classificació
 ---
-
+Projecció de la classificació final
+<br>
+<br>
 ```{r echo=F}
 library(kableExtra)
 table.prifem <- read.csv("~/Google Drive/Futbol/final-prifem.csv")

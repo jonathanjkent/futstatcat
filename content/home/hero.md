@@ -17,11 +17,11 @@ hero_media = "heroimg.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#fff"
+  #color = "#fffad1"
   
   # Background gradient.
-  # gradient_start = "#4bb4e3"
-  # gradient_end = "#000"
+   gradient_start = "#ffccc7"
+   gradient_end = "#ffe7e5"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.

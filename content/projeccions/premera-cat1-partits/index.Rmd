@@ -12,7 +12,9 @@ tags:
 - Pròxims Partits
 title: Primera Catalana, Grup I | Partits
 ---
-
+Probabilitats dels pròxims partits
+<br>
+<br>
 ```{r echo=F}
 library(kableExtra)
 
