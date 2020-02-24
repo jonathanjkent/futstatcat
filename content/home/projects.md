@@ -21,9 +21,7 @@ subtitle = "Projeccions i Probabilitats"
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "Tot"
-    tag = "*"
+
 
   [[content.filter_button]]
     name = "Lliga Femenina"
@@ -40,6 +38,10 @@ subtitle = "Projeccions i Probabilitats"
   [[content.filter_button]]
     name = "Primera Catalana"
     tag = "Primera Catalana"
+    
+  [[content.filter_button]]
+    name = "Tot"
+    tag = "*"
     
 
 [design]
