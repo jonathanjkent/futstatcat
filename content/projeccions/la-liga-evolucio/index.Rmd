@@ -1,0 +1,31 @@
+---
+date: "2020-02-24"
+external_link: null
+image:
+  caption: 
+  focal_point: Smart
+  preview_only: true
+summary: Evolució de la classificació projectada
+tags:
+- La Liga
+- Masculí
+- Evolució
+title: La Liga | Evolució
+---
+Evolució de la classificació projectada des de jornada 12
+<br>
+```{r echo=F,warning=FALSE,message=FALSE}
+prog <- read.csv("~/Google Drive/Futbol/prog-sega.csv")
+prog$points <- round(prog$points, digits = 1)
+colnames(prog)[1] <- 'Club'
+colnames(prog)[2] <- 'Punts.Projectats'
+colnames(prog)[3] <- 'Jornada'
+library(plotly)
+library(ggplot2)
+library(htmlwidgets)
+plot <- ggplot(prog,aes(Jornada, Punts.Projectats, color = Club)) + geom_line() + labs(y = "Punts Projectats")
+plot2 <- ggplotly(plot)
+plot2 <- config(plot2, displayModeBar = FALSE)
+plot2
+```
+<br>
