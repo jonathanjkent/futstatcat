@@ -15,9 +15,9 @@ title: Lliga Femenina
 ---
 ## Projecció de la classificació final
 
-* [Evolució de la classificació projectada](projeccions/lliga-femenina-evolucio/)
+* [Evolució de la classificació projectada](https://futstat.cat/projeccions/lliga-femenina-evolucio/)
 <br>
-* [Probabilitats dels pròxims partits](projeccions/lliga-femenina-partits/)
+* [Probabilitats dels pròxims partits](https://futstat.cat/projeccions/lliga-femenina-partits/)
 <br>
 <br>
 ```{r echo=F}

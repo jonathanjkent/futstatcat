@@ -15,9 +15,9 @@ title: Segona B, Grup III
 ---
 ## Projecció de la classificació final
 
-* [Evolució de la classificació projectada](projeccions/segona-b-evolucio/)
+* [Evolució de la classificació projectada](https://futstat.cat/projeccions/segona-b-evolucio/)
 <br>
-* [Probabilitats dels pròxims partits](projeccions/segona-b-partits/)
+* [Probabilitats dels pròxims partits](https://futstat.cat/projeccions/segona-b-partits/)
 <br>
 <br>
 ```{r echo=F}

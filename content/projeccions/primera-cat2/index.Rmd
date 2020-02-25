@@ -15,9 +15,9 @@ title: Primera Catalana, Grup II
 ---
 ## Projecció de la classificació final
 
-* [Evolució de la classificació projectada](projeccions/primera-cat2-evolucio/)
+* [Evolució de la classificació projectada](https://futstat.cat/projeccions/primera-cat2-evolucio/)
 <br>
-* [Probabilitats dels pròxims partits](projeccions/primera-cat2-partits/)
+* [Probabilitats dels pròxims partits](https://futstat.cat/projeccions/primera-cat2-partits/)
 <br>
 <br>
 ```{r echo=F}

@@ -15,9 +15,9 @@ title: Segona A
 ---
 Projecció de la classificació final
 
-* [Evolució de la classificació projectada](projeccions/segona-a-evolucio/)
+* [Evolució de la classificació projectada](https://futstat.cat/projeccions/segona-a-evolucio/)
 <br>
-* [Probabilitats dels pròxims partits](projeccions/segona-a-partits/)
+* [Probabilitats dels pròxims partits](https://futstat.cat/projeccions/segona-a-partits/)
 <br>
 <br>
 ```{r echo=F}

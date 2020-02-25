@@ -15,9 +15,9 @@ title: Tercera, Grup V
 ---
 ## Projecció de la classificació final
 
-* [Evolució de la classificació projectada](projeccions/tercera-evolucio/)
+* [Evolució de la classificació projectada](https://futstat.cat/projeccions/tercera-evolucio/)
 <br>
-* [Probabilitats dels pròxims partits](projeccions/tercera-partits/)
+* [Probabilitats dels pròxims partits](https://futstat.cat/projeccions/tercera-partits/)
 <br>
 <br>
 ```{r echo=F}
