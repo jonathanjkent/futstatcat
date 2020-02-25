@@ -9,9 +9,19 @@
   weight = 10
 
 [[main]]
-  name = "Lliga Femenina"
+  name = "Primera Masculina"
+  url = "tags/primera/"
+  weight = 15
+
+[[main]]
+  name = "Primera Femenina"
   url = "tags/lliga-femenina/"
   weight = 20
+
+[[main]]
+  name = "Segona A"
+  url = "tags/segona-a/"
+  weight = 25
 
 [[main]]
   name = "Segona B"

@@ -24,24 +24,21 @@ subtitle = "Projeccions i Probabilitats"
 
 
   [[content.filter_button]]
-    name = "Lliga Femenina"
-    tag = "Lliga Femenina"
+    name = "Primera"
+    tag = "Primera Divisió"
   
   [[content.filter_button]]
-    name = "Segona B"
-    tag = "Segona B"
+    name = "Segona"
+    tag = "Segona Divisió"
   
   [[content.filter_button]]
     name = "Tercera"
-    tag = "Tercera"
+    tag = "Tercera Divisió"
   
   [[content.filter_button]]
     name = "Primera Catalana"
-    tag = "Primera Catalana"
+    tag = "Primera Cat Divisió"
     
-  [[content.filter_button]]
-    name = "Tot"
-    tag = "*"
     
 
 [design]

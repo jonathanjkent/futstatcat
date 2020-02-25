@@ -5,8 +5,6 @@ headless = true
 active = true 
 weight = 80 
 
-color = "black"
-
 title = "destacat"
 subtitle = "Batalla per la Segona B"
 +++

@@ -5,14 +5,19 @@ image:
   caption: 
   focal_point: Smart
   preview_only: true
-summary: Projecció de la classificació final
+summary: Projecció de la classificació i més
 tags:
 - Tercera
 - Masculí
 - Classificació
-title: Tercera, Grup V | Classificació
+- Tercera Divisió
+title: Tercera, Grup V
 ---
-Projecció de la classificació final
+## Projecció de la classificació final
+
+* [Evolució de la classificació projectada](projeccions/tercera-evolucio/)
+<br>
+* [Probabilitats dels pròxims partits](projeccions/tercera-partits/)
 <br>
 <br>
 ```{r echo=F}

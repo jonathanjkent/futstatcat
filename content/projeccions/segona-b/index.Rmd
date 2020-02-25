@@ -5,14 +5,19 @@ image:
   caption: 
   focal_point: Smart
   preview_only: true
-summary: Projecció de la classificació final
+summary: Projecció de la classificació i més
 tags:
 - Segona B
 - Masculí
 - Classificació
-title: Segona B, Grup III | Classificació
+- Segona Divisió
+title: Segona B, Grup III
 ---
-Projecció de la classificació final
+## Projecció de la classificació final
+
+* [Evolució de la classificació projectada](projeccions/segona-b-evolucio/)
+<br>
+* [Probabilitats dels pròxims partits](projeccions/segona-b-partits/)
 <br>
 <br>
 ```{r echo=F}

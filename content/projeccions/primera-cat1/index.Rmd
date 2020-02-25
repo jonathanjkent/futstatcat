@@ -5,14 +5,19 @@ image:
   caption: 
   focal_point: Smart
   preview_only: true
-summary: Projecció de la classificació final
+summary: Projecció de la classificació i més
 tags:
 - Primera Catalana
 - Masculí
 - Classificació
-title: Primera Catalana, Grup I | Classificació
+- Primera Cat Divisió
+title: Primera Catalana, Grup I
 ---
-Projecció de la classificació final
+## Projecció de la classificació final
+
+* [Evolució de la classificació projectada](projeccions/primera-cat1-evolucio/)
+<br>
+* [Probabilitats dels pròxims partits](projeccions/primera-cat1-partits/)
 <br>
 <br>
 ```{r echo=F}

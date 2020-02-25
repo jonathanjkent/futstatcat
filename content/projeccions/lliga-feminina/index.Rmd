@@ -5,14 +5,19 @@ image:
   caption: 
   focal_point: Smart
   preview_only: true
-summary: Projecció de la classificació final
+summary: Projecció de la classificació i més
 tags:
 - Lliga Femenina
 - Femení
 - Classificació
-title: Lliga Femenina | Classificació
+- Primera Divisió
+title: Lliga Femenina
 ---
-Projecció de la classificació final
+## Projecció de la classificació final
+
+* [Evolució de la classificació projectada](projeccions/lliga-femenina-evolucio/)
+<br>
+* [Probabilitats dels pròxims partits](projeccions/lliga-femenina-partits/)
 <br>
 <br>
 ```{r echo=F}

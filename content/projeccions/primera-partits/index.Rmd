@@ -1,0 +1,32 @@
+---
+date: "2020-02-28"
+external_link: null
+image:
+  caption: 
+  focal_point: Smart
+  preview_only: true
+summary: Probabilitats dels pròxims partits
+tags:
+- Primera
+- Masculí
+- Pròxims Partits
+title: La Liga | Partits
+---
+Probabilitats dels pròxims partits
+<br>
+<br>
+```{r echo=F}
+library(kableExtra)
+
+partits <- read.csv("~/Google Drive/Futbol/games-primera.csv")
+
+kable(partits, digits = 1, align = "c", row.names = FALSE, col.names = c("Jornada", "Equip", "Guanyar", "Empatar", "Guanyar", "Equip"))  %>%
+  kable_styling(bootstrap_options = c("responsive"), fixed_thead = T) %>%
+  add_header_above(c("2019-20" = 1, "Local" = 2, " " = 1, "Visitant" = 2), background = "white") %>%
+  column_spec(2, bold = T, color = "#303030") %>%
+  column_spec(6, bold = T, color = "#303030") %>%
+  row_spec(which((partits$week %% 2) == 0), background = "#F9F9F9") %>%
+  row_spec(which((partits$week %% 2) != 0), background = "white") %>%
+  kable_styling(fixed_thead = T) %>%
+  footnote(general = format(Sys.time(), "%d %b %Y, %X"), general_title = "Actualitzat:", footnote_as_chunk = T)
+```
