@@ -15,9 +15,9 @@ title: La Liga
 ---
 ## Projecció de la classificació final
 
-* [Evolució de la classificació projectada](https://futstat.cat/projeccions/primera-evolucio/)
+* [Evolució de la classificació projectada](https://futstat.cat/projeccions/la-liga-evolucio/)
 <br>
-* [Probabilitats dels pròxims partits](https://futstat.cat/projeccions/primera-partits/)
+* [Probabilitats dels pròxims partits](https://futstat.cat/projeccions/la-liga-partits/)
 <br>
 <br>
 ```{r echo=F}
