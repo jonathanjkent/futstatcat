@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pròxims Partits on FutStat.cat</title>
-    <link>https://futstat.cat/tags/proxims-partits/</link>
+    <link>/tags/proxims-partits/</link>
     <description>Recent content in Pròxims Partits on FutStat.cat</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>ca</language>
     <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://futstat.cat/tags/proxims-partits/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/proxims-partits/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>La Liga | Partits</title>
-      <link>https://futstat.cat/projeccions/la-liga-partits/</link>
+      <link>/projeccions/la-liga-partits/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://futstat.cat/projeccions/la-liga-partits/</guid>
+      <guid>/projeccions/la-liga-partits/</guid>
       <description>
-&lt;script src=&#34;https://futstat.cat/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 Probabilitats dels pròxims partits &lt;br&gt; &lt;br&gt;
@@ -2689,7 +2689,7 @@ Betis
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 26 Feb 2020, 09:13:22
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 27 Feb 2020, 19:09:29
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -2699,12 +2699,12 @@ Betis
     
     <item>
       <title>Lliga Femenina | Partits</title>
-      <link>https://futstat.cat/projeccions/lliga-femenina-partits/</link>
+      <link>/projeccions/lliga-femenina-partits/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://futstat.cat/projeccions/lliga-femenina-partits/</guid>
+      <guid>/projeccions/lliga-femenina-partits/</guid>
       <description>
-&lt;script src=&#34;https://futstat.cat/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 Probabilitats dels pròxims partits &lt;br&gt; &lt;br&gt;
@@ -4355,7 +4355,7 @@ Granadilla
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 26 Feb 2020, 09:13:31
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 27 Feb 2020, 19:09:38
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -4365,12 +4365,12 @@ Granadilla
     
     <item>
       <title>Segona A | Partits</title>
-      <link>https://futstat.cat/projeccions/segona-a-partits/</link>
+      <link>/projeccions/segona-a-partits/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://futstat.cat/projeccions/segona-a-partits/</guid>
+      <guid>/projeccions/segona-a-partits/</guid>
       <description>
-&lt;script src=&#34;https://futstat.cat/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 Probabilitats dels pròxims partits &lt;br&gt; &lt;br&gt;
@@ -7281,7 +7281,7 @@ Ponferradina
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 26 Feb 2020, 09:13:55
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 27 Feb 2020, 19:10:04
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -7291,12 +7291,12 @@ Ponferradina
     
     <item>
       <title>Segona B, Grup III | Partits</title>
-      <link>https://futstat.cat/projeccions/segona-b-partits/</link>
+      <link>/projeccions/segona-b-partits/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://futstat.cat/projeccions/segona-b-partits/</guid>
+      <guid>/projeccions/segona-b-partits/</guid>
       <description>
-&lt;script src=&#34;https://futstat.cat/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 Probabilitats dels pròxims partits &lt;br&gt; &lt;br&gt;
@@ -9747,7 +9747,7 @@ Vila-real B
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 26 Feb 2020, 09:14:02
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 27 Feb 2020, 19:10:13
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -9757,12 +9757,12 @@ Vila-real B
     
     <item>
       <title>Tercera, Grup V | Partits</title>
-      <link>https://futstat.cat/projeccions/tercera-partits/</link>
+      <link>/projeccions/tercera-partits/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://futstat.cat/projeccions/tercera-partits/</guid>
+      <guid>/projeccions/tercera-partits/</guid>
       <description>
-&lt;script src=&#34;https://futstat.cat/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 Probabilitats dels pròxims partits &lt;br&gt; &lt;br&gt;
@@ -12153,7 +12153,7 @@ Banyoles
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 26 Feb 2020, 09:14:09
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 27 Feb 2020, 19:10:20
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -12163,12 +12163,12 @@ Banyoles
     
     <item>
       <title>Primera Catalana, Grup I | Partits</title>
-      <link>https://futstat.cat/projeccions/primera-cat1-partits/</link>
+      <link>/projeccions/primera-cat1-partits/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://futstat.cat/projeccions/primera-cat1-partits/</guid>
+      <guid>/projeccions/primera-cat1-partits/</guid>
       <description>
-&lt;script src=&#34;https://futstat.cat/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 Probabilitats dels pròxims partits &lt;br&gt; &lt;br&gt;
@@ -14299,7 +14299,7 @@ Manlleu
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 26 Feb 2020, 09:13:38
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 27 Feb 2020, 19:09:47
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -14309,12 +14309,12 @@ Manlleu
     
     <item>
       <title>Primera Catalana, Grup II | Partits</title>
-      <link>https://futstat.cat/projeccions/primera-cat2-partits/</link>
+      <link>/projeccions/primera-cat2-partits/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://futstat.cat/projeccions/primera-cat2-partits/</guid>
+      <guid>/projeccions/primera-cat2-partits/</guid>
       <description>
-&lt;script src=&#34;https://futstat.cat/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 Probabilitats dels pròxims partits &lt;br&gt; &lt;br&gt;
@@ -16705,7 +16705,7 @@ At. Sant Just
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 26 Feb 2020, 09:13:46
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 27 Feb 2020, 19:09:55
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;

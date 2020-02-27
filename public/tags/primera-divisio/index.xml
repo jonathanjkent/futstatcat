@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Primera Divisió on FutStat.cat</title>
-    <link>https://futstat.cat/tags/primera-divisio/</link>
+    <link>/tags/primera-divisio/</link>
     <description>Recent content in Primera Divisió on FutStat.cat</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>ca</language>
     <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://futstat.cat/tags/primera-divisio/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/primera-divisio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>La Liga</title>
-      <link>https://futstat.cat/projeccions/la-liga/</link>
+      <link>/projeccions/la-liga/</link>
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://futstat.cat/projeccions/la-liga/</guid>
+      <guid>/projeccions/la-liga/</guid>
       <description>
-&lt;script src=&#34;https://futstat.cat/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;projecció-de-la-classificació-final&#34; class=&#34;section level2&#34;&gt;
@@ -144,7 +144,7 @@ Sevilla
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-62%
+58%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
 0%
@@ -170,7 +170,7 @@ Atlético
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-50%
+54%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 0%
@@ -187,7 +187,7 @@ Atlético
 Getafe
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-69.9
+70.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 23.5
@@ -213,7 +213,7 @@ Getafe
 R. Sociedad
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-67.2
+67.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 20.0
@@ -239,7 +239,7 @@ R. Sociedad
 Vila-real
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-64.0
+64.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 17.7
@@ -317,7 +317,7 @@ Granada
 Llevant
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-55.5
+55.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 1.1
@@ -343,7 +343,7 @@ Llevant
 Athletic
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-54.1
+54.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 7.5
@@ -369,7 +369,7 @@ Athletic
 Osasuna
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-53.6
+53.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -0.9
@@ -459,7 +459,7 @@ Valladolid
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 19
@@ -473,7 +473,7 @@ Valladolid
 Eibar
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-44.8
+44.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -16.1
@@ -551,7 +551,7 @@ Mallorca
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-36.5
+36.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 -28.2
@@ -563,7 +563,7 @@ Espanyol
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-92%
+90%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 15
@@ -577,7 +577,7 @@ Espanyol
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-35.6
+35.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 -23.6
@@ -602,7 +602,7 @@ Leganés
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 26 Feb 2020, 09:13:25
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 27 Feb 2020, 19:09:32
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -614,12 +614,12 @@ Leganés
     
     <item>
       <title>Lliga Femenina</title>
-      <link>https://futstat.cat/projeccions/lliga-femenina/</link>
+      <link>/projeccions/lliga-femenina/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://futstat.cat/projeccions/lliga-femenina/</guid>
+      <guid>/projeccions/lliga-femenina/</guid>
       <description>
-&lt;script src=&#34;https://futstat.cat/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;projecció-de-la-classificació-final&#34; class=&#34;section level2&#34;&gt;
@@ -684,7 +684,7 @@ Defensar
 Barça
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-90.5
+90.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 118.7
@@ -762,7 +762,7 @@ Llevant
 Athletic
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-57.4
+57.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 17.8
@@ -814,7 +814,7 @@ Deportivo
 R. Sociedad
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-52.9
+53.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 14.1
@@ -970,7 +970,7 @@ Granadilla
 Madrid CFF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-34.0
+33.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -24.9
@@ -982,7 +982,7 @@ Madrid CFF
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-16%
+14%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 11
@@ -996,7 +996,7 @@ Madrid CFF
 Betis
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-33.5
+33.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -10.9
@@ -1022,7 +1022,7 @@ Betis
 València
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-33.1
+33.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -6.8
@@ -1034,7 +1034,7 @@ València
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-18%
+24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 14
@@ -1048,7 +1048,7 @@ València
 Sp. Huelva
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-31.2
+31.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 -25.2
@@ -1060,7 +1060,7 @@ Sp. Huelva
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-48%
+44%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 16
@@ -1074,7 +1074,7 @@ Sp. Huelva
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-15.0
+15.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 -46.1
@@ -1099,7 +1099,7 @@ Espanyol
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 26 Feb 2020, 09:13:33
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 27 Feb 2020, 19:09:41
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;

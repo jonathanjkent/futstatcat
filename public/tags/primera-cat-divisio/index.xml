@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Primera Cat Divisió on FutStat.cat</title>
-    <link>https://futstat.cat/tags/primera-cat-divisio/</link>
+    <link>/tags/primera-cat-divisio/</link>
     <description>Recent content in Primera Cat Divisió on FutStat.cat</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>ca</language>
     <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://futstat.cat/tags/primera-cat-divisio/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/primera-cat-divisio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Primera Catalana, Grup I</title>
-      <link>https://futstat.cat/projeccions/primera-cat1/</link>
+      <link>/projeccions/primera-cat1/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://futstat.cat/projeccions/primera-cat1/</guid>
+      <guid>/projeccions/primera-cat1/</guid>
       <description>
-&lt;script src=&#34;https://futstat.cat/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;projecció-de-la-classificació-final&#34; class=&#34;section level2&#34;&gt;
@@ -118,7 +118,7 @@ FE Grama
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-52%
+56%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 0%
@@ -144,7 +144,7 @@ Vic
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-34%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -187,7 +187,7 @@ Manlleu
 Palamós
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-58.6
+58.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 14.9
@@ -213,7 +213,7 @@ Palamós
 Guineueta
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-56.2
+56.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 20.2
@@ -265,7 +265,7 @@ Mataró
 Lloret
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-44.5
+44.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -1.7
@@ -274,7 +274,7 @@ Lloret
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-4%
+6%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 4%
@@ -291,7 +291,7 @@ Lloret
 Rubí
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-44.0
+43.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -12.9
@@ -317,7 +317,7 @@ Rubí
 Sabadell Nord
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-42.7
+42.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -9.0
@@ -326,7 +326,7 @@ Sabadell Nord
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-8%
+10%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 10%
@@ -343,7 +343,7 @@ Sabadell Nord
 L’Escala
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-42.7
+42.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -2.8
@@ -378,10 +378,10 @@ Mollet
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-8%
+10%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-8%
+10%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 6
@@ -395,7 +395,7 @@ Mollet
 Júpiter
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-40.8
+40.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -4.8
@@ -404,10 +404,10 @@ Júpiter
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-14%
+12%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-18%
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 14
@@ -433,7 +433,7 @@ La Jonquera
 18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-42%
+36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 17
@@ -447,7 +447,7 @@ La Jonquera
 Tona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-37.7
+37.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 -7.4
@@ -459,7 +459,7 @@ Tona
 16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-44%
+50%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 15
@@ -485,7 +485,7 @@ Parets
 12%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-70%
+68%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 10
@@ -511,7 +511,7 @@ Llagostera B
 4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-94%
+92%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 16
@@ -524,7 +524,7 @@ Llagostera B
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 26 Feb 2020, 09:13:40
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 27 Feb 2020, 19:09:50
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -536,12 +536,12 @@ Llagostera B
     
     <item>
       <title>Primera Catalana, Grup II</title>
-      <link>https://futstat.cat/projeccions/primera-cat2/</link>
+      <link>/projeccions/primera-cat2/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://futstat.cat/projeccions/primera-cat2/</guid>
+      <guid>/projeccions/primera-cat2/</guid>
       <description>
-&lt;script src=&#34;https://futstat.cat/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;projecció-de-la-classificació-final&#34; class=&#34;section level2&#34;&gt;
@@ -606,7 +606,7 @@ Defensar
 Muntanyesa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-92.7
+92.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 68.8
@@ -641,7 +641,7 @@ Santboià
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-84%
+80%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 0%
@@ -667,7 +667,7 @@ Martinenc
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-12%
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -707,32 +707,6 @@ Valls
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Gavà
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-59.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-12.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-12
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
 Ascó
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
@@ -755,6 +729,32 @@ Ascó
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Gavà
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+59.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+12.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+12
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -814,7 +814,7 @@ At. Sant Just
 Vilanova
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-56.2
+56.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 10.5
@@ -892,7 +892,7 @@ Tàrrega
 Mollerussa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-48.3
+48.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -1.2
@@ -901,7 +901,7 @@ Mollerussa
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-12%
+14%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 6%
@@ -953,10 +953,10 @@ Martorell
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-34%
+30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-20%
+22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 18
@@ -979,7 +979,7 @@ Viladecans
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-20%
+18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 64%
@@ -996,7 +996,7 @@ Viladecans
 Alcarràs
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-34.3
+34.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 -26.4
@@ -1008,7 +1008,7 @@ Alcarràs
 4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-96%
+94%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 11
@@ -1048,7 +1048,7 @@ St. Ildefons
 El Catllar
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-27.3
+27.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 -32.0
@@ -1073,7 +1073,7 @@ El Catllar
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 26 Feb 2020, 09:13:49
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 27 Feb 2020, 19:09:58
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
