@@ -83,7 +83,7 @@ Defensar
 Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-81.5
+81.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 46.3
@@ -135,7 +135,7 @@ Barça
 Sevilla
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-65.2
+65.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
 15.8
@@ -187,7 +187,7 @@ Atlético
 Getafe
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-64.0
+63.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 17.5
@@ -210,10 +210,10 @@ Getafe
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-R. Sociedad
+Real Sociedad
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-61.3
+61.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 14.0
@@ -239,7 +239,7 @@ R. Sociedad
 Vila-real
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-58.0
+58.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 11.7
@@ -248,7 +248,7 @@ Vila-real
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-6%
+8%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0%
@@ -343,7 +343,7 @@ Llevant
 Athletic
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-47.9
+48.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 1.5
@@ -369,7 +369,7 @@ Athletic
 Osasuna
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-47.6
+47.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -6.9
@@ -499,7 +499,7 @@ Eibar
 Celta
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-37.3
+37.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -18.3
@@ -602,7 +602,7 @@ Leganés
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 28 Feb 2020, 15:19:20
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 28 Feb 2020, 17:50:25
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -684,7 +684,7 @@ Defensar
 Barça
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-84.5
+84.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 112.7
@@ -811,7 +811,7 @@ Deportivo
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-R. Sociedad
+Real Sociedad
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 47.0
@@ -918,7 +918,7 @@ Sevilla
 Tacón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-34.7
+34.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -17.8
@@ -1045,7 +1045,7 @@ València
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffdedb !important;&#34;&gt;
-Sp. Huelva
+Huelva
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 25.3
@@ -1060,7 +1060,7 @@ Sp. Huelva
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-46%
+48%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 16
@@ -1099,7 +1099,7 @@ Espanyol
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 28 Feb 2020, 15:19:27
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 28 Feb 2020, 17:50:32
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;

@@ -83,7 +83,7 @@ Defensar
 Girona B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-88.3
+88.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 66.9
@@ -118,7 +118,7 @@ FE Grama
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-50%
+52%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 0%
@@ -135,7 +135,7 @@ FE Grama
 Vic
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-58.2
+58.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 24.6
@@ -161,7 +161,7 @@ Vic
 Manlleu
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-54.5
+54.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 9.8
@@ -317,7 +317,7 @@ Rubí
 Sabadell Nord
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-36.7
+36.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -15.0
@@ -326,7 +326,7 @@ Sabadell Nord
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-8%
+10%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 8%
@@ -336,32 +336,6 @@ Sabadell Nord
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 13
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Mollet
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-36.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--3.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-8%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-8%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-12
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -388,6 +362,32 @@ L’Escala
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 14
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Mollet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+36.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+-3.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+8%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+12
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -456,7 +456,7 @@ Tona
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-16%
+18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 44%
@@ -473,7 +473,7 @@ Tona
 Parets
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-29.4
+29.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 -22.0
@@ -524,7 +524,7 @@ Llagostera B
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 28 Feb 2020, 15:19:34
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 28 Feb 2020, 17:50:41
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -606,7 +606,7 @@ Defensar
 Muntanyesa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-86.6
+86.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 62.8
@@ -710,7 +710,7 @@ Valls
 Ascó
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-53.2
+53.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 13.1
@@ -788,7 +788,7 @@ Almacelles
 At. Sant Just
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-51.2
+51.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 12.3
@@ -814,7 +814,7 @@ At. Sant Just
 Vilanova
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-50.1
+50.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 4.5
@@ -866,7 +866,7 @@ Vista Alegre
 Tàrrega
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-44.3
+44.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -9.0
@@ -927,7 +927,7 @@ Can Vidalet
 0%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-20%
+22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 12%
@@ -1073,7 +1073,7 @@ El Catllar
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 28 Feb 2020, 15:19:41
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 28 Feb 2020, 17:50:50
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
