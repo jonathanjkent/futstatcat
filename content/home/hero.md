@@ -20,11 +20,11 @@ hero_media = "heroimg.png"
   #color = "#fffad1"
   
   # Background gradient.
-   gradient_start = "#ffccc7"
-   gradient_end = "#ffe7e5"
+   #gradient_start = "#ffccc7"
+   #gradient_end = "#ffe7e5"
   
   # Background image.
-  # image = ""  # Name of image in `static/img/`.
+   image = "catbacknumy.png"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
