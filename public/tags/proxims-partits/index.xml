@@ -86,26 +86,6 @@ Reial Societat
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-26
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Reial Madrid
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-60%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-24%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-16%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Barça
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 27
 &lt;/td&gt;
@@ -116,7 +96,7 @@ Alavés
 42%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-30%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 30%
@@ -133,13 +113,13 @@ València
 Atlètic Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-42%
+44%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-20%
+22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Sevilla
@@ -173,13 +153,13 @@ Reial Societat
 Betis
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-18%
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-56%
+58%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Reial Madrid
@@ -193,13 +173,13 @@ Reial Madrid
 Eibar
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-52%
+54%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-20%
+18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Mallorca
@@ -213,7 +193,7 @@ Mallorca
 Getafe
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-64%
+66%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 26%
@@ -373,10 +353,10 @@ Vila-real
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-36%
+38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-32%
+30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 32%
@@ -399,7 +379,7 @@ Granada
 34%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-30%
+32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Getafe
@@ -413,7 +393,7 @@ Getafe
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-28%
+30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 40%
@@ -499,7 +479,7 @@ València
 26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-18%
+20%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Llevant
@@ -536,7 +516,7 @@ Barça
 88%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-8%
+10%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 2%
@@ -559,7 +539,7 @@ Betis
 28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-26%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Granada
@@ -619,7 +599,7 @@ Osasuna
 34%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-34%
+36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Atlètic Madrid
@@ -633,7 +613,7 @@ Atlètic Madrid
 Reial Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-78%
+80%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 16%
@@ -656,10 +636,10 @@ Vila-real
 74%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-18%
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-10%
+8%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Mallorca
@@ -679,7 +659,7 @@ Valladolid
 38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-18%
+20%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Celta
@@ -696,7 +676,7 @@ Llevant
 32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-32%
+30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 38%
@@ -753,13 +733,13 @@ Valladolid
 Celta
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-40%
+42%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 34%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-24%
+26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Alavés
@@ -793,10 +773,10 @@ Llevant
 Getafe
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-66%
+68%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-24%
+22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 10%
@@ -819,7 +799,7 @@ Granada
 28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-26%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Vila-real
@@ -839,7 +819,7 @@ Mallorca
 32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-18%
+20%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Leganés
@@ -853,13 +833,13 @@ Leganés
 Reial Societat
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-26%
+24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-30%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-44%
+46%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Reial Madrid
@@ -873,7 +853,7 @@ Reial Madrid
 Sevilla
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-38%
+40%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 26%
@@ -956,7 +936,7 @@ Eibar
 38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-30%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 32%
@@ -996,7 +976,7 @@ Llevant
 28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-38%
+36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 36%
@@ -1013,10 +993,10 @@ Atlètic Madrid
 Reial Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-86%
+88%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-12%
+10%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 2%
@@ -1039,7 +1019,7 @@ Reial Societat
 22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-10%
+12%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Celta
@@ -1113,7 +1093,7 @@ Espanyol
 Athletic
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-56%
+58%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 30%
@@ -1133,7 +1113,7 @@ Mallorca
 Atlètic Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-58%
+60%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 30%
@@ -1156,10 +1136,10 @@ Celta
 18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-26%
+24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-58%
+56%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Barça
@@ -1173,13 +1153,13 @@ Barça
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-10%
+8%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-68%
+70%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Reial Madrid
@@ -1193,10 +1173,10 @@ Reial Madrid
 Getafe
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-52%
+54%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-28%
+26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 20%
@@ -1219,7 +1199,7 @@ Granada
 28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-14%
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Eibar
@@ -1236,7 +1216,7 @@ Llevant
 48%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-28%
+26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 26%
@@ -1316,7 +1296,7 @@ Alavés
 38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-34%
+32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 30%
@@ -1333,7 +1313,7 @@ Granada
 Barça
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-58%
+56%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 26%
@@ -1353,7 +1333,7 @@ Atlètic Madrid
 Betis
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-42%
+44%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 24%
@@ -1459,7 +1439,7 @@ Reial Societat
 14%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-6%
+8%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Espanyol
@@ -1496,10 +1476,10 @@ Valladolid
 42%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-36%
+34%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-22%
+24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Llevant
@@ -1513,13 +1493,13 @@ Llevant
 Athletic
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-20%
+18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-42%
+44%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Reial Madrid
@@ -1533,10 +1513,10 @@ Reial Madrid
 Atlètic Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-66%
+68%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-26%
+24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 8%
@@ -1556,7 +1536,7 @@ Celta
 40%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-32%
+30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 30%
@@ -1679,7 +1659,7 @@ Vila-real
 22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-44%
+42%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Barça
@@ -1773,7 +1753,7 @@ Osasuna
 Celta
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-22%
+24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 40%
@@ -1813,10 +1793,10 @@ Leganés
 Getafe
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-56%
+58%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-26%
+24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 18%
@@ -1836,7 +1816,7 @@ Mallorca
 38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-32%
+30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 32%
@@ -1916,10 +1896,10 @@ Alavés
 28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-34%
+32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-38%
+40%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Getafe
@@ -1936,10 +1916,10 @@ Atlètic Madrid
 60%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-28%
+26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-12%
+14%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Betis
@@ -1973,13 +1953,13 @@ Eibar
 Granada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-20%
+18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-48%
+50%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Reial Madrid
@@ -1993,7 +1973,7 @@ Reial Madrid
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-26%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 32%
@@ -2016,10 +1996,10 @@ Llevant
 36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-38%
+36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-26%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Athletic
@@ -2053,10 +2033,10 @@ Celta
 Sevilla
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-72%
+74%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-20%
+18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 8%
@@ -2093,7 +2073,7 @@ Reial Societat
 Valladolid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-20%
+22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 28%
@@ -2133,10 +2113,10 @@ Leganés
 Barça
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-84%
+82%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-10%
+12%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 6%
@@ -2159,7 +2139,7 @@ València
 20%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-10%
+12%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Espanyol
@@ -2233,10 +2213,10 @@ Llevant
 Reial Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-74%
+76%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-18%
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 8%
@@ -2273,13 +2253,13 @@ Valladolid
 Getafe
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-40%
+42%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-22%
+20%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Atlètic Madrid
@@ -2299,7 +2279,7 @@ Mallorca
 32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-36%
+38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Granada
@@ -2339,7 +2319,7 @@ Sevilla
 24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-14%
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 València
@@ -2356,7 +2336,7 @@ Espanyol
 38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-34%
+32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 28%
@@ -2373,13 +2353,13 @@ Celta
 Llevant
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-30%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-34%
+32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-38%
+40%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Getafe
@@ -2393,7 +2373,7 @@ Getafe
 Alavés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-20%
+22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 24%
@@ -2453,7 +2433,7 @@ Athletic
 Osasuna
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-62%
+64%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 22%
@@ -2476,7 +2456,7 @@ Atlètic Madrid
 50%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-32%
+30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 20%
@@ -2509,7 +2489,7 @@ Betis
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 19:21:31
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 23:05:09
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -4015,7 +3995,7 @@ Granadilla
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 19:21:39
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 23:05:18
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -6721,7 +6701,7 @@ Ponferradina
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 19:22:07
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 23:05:40
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -8987,7 +8967,7 @@ Vila-real B
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 19:22:15
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 23:05:48
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -11213,7 +11193,7 @@ Banyoles
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 19:22:23
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 23:05:56
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -13239,7 +13219,7 @@ Júpiter
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 19:21:47
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 23:05:25
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -15485,7 +15465,7 @@ At. Sant Just
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 19:21:57
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 23:05:32
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
