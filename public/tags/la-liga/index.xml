@@ -80,22 +80,22 @@ Defensar
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #c7ffd0 !important;&#34;&gt;
-Madrid
+Reial Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 81.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-46.3
+46.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 50%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-100%
+&amp;gt;99%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 2
@@ -112,16 +112,16 @@ Barça
 81.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-48.4
+48.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 50%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-100%
+&amp;gt;99%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 1
@@ -135,22 +135,22 @@ Barça
 Sevilla
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-65.1
+65.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-15.9
+15.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-60%
+68%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-8
+5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
 5
@@ -158,7 +158,7 @@ Sevilla
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #fffce5 !important;&#34;&gt;
-Atlético
+Atlètic Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 64.1
@@ -167,13 +167,13 @@ Atlético
 14.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 48%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 12
@@ -187,22 +187,22 @@ Atlético
 Getafe
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-64.0
+63.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 17.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-52%
+50%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-5
+6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 4
@@ -210,54 +210,28 @@ Getafe
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Real Sociedad
+Reial Societat
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-62.1
+62.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-14.1
+14.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-10
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Vila-real
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-58.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-11.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-6%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-13
+10
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -271,19 +245,45 @@ València
 -1.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-6
+7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 14
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Vila-real
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+56.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+10.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+4%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+13
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -294,16 +294,16 @@ Granada
 53.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.6
+1.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 10
@@ -317,19 +317,19 @@ Granada
 Athletic
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-48.1
+49.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.6
+2.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 17
@@ -340,54 +340,54 @@ Athletic
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Osasuna
+Llevant
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 47.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--7.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-17
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Llevant
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-47.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -9.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 11
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 12
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Osasuna
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+46.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+-6.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+17
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -401,16 +401,16 @@ Betis
 -7.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-7
+8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 18
@@ -427,10 +427,10 @@ Alavés
 -12.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 2%
@@ -450,13 +450,13 @@ Valladolid
 43.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--8.8
+-8.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 2%
@@ -479,10 +479,10 @@ Eibar
 -17.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 6%
@@ -502,13 +502,13 @@ Celta
 37.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--16.7
+-16.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 22%
@@ -531,10 +531,10 @@ Mallorca
 -27.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 78%
@@ -554,13 +554,13 @@ Espanyol
 30.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
--34.3
+-34.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 94%
@@ -580,13 +580,13 @@ Leganés
 29.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
--29.9
+-29.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-0%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 96%
@@ -602,7 +602,7 @@ Leganés
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 10:54:03
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 15:36:55
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -630,7 +630,7 @@ Leganés
 
 
 &lt;p&gt;Evolució de la classificació projectada des de jornada 12 &lt;br&gt; &lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:672px;height:480px;&#34; class=&#34;plotly html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;data&#34;:[{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[37.7,43.4,47.9,46.8,43.6,41.4,41.3,40.1,43.2,41.4,42.7,44.2,42.2,44.5,44.1],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 37.7&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 43.4&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 47.9&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 46.8&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 43.6&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 41.4&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 41.3&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 40.1&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 43.2&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 41.4&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 42.7&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 44.2&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 42.2&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 44.5&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 44.1&lt;br /&gt;Club: Alavés&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(248,118,109,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Alavés&#34;,&#34;legendgroup&#34;:&#34;Alavés&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[54.4,56.6,60.4,63.4,60.4,58,59,59.3,57.5,56.2,53.4,52.3,49.8,48.1,48.1],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 54.4&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 56.6&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 60.4&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 63.4&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 60.4&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 58.0&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 59.0&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 59.3&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 57.5&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 56.2&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 53.4&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 52.3&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 49.8&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 48.1&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 48.1&lt;br /&gt;Club: Athletic&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(234,131,49,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Athletic&#34;,&#34;legendgroup&#34;:&#34;Athletic&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[62.5,64.3,65.1,61.8,61.8,64.5,66.5,67.3,63.8,61.7,61,62.5,62.2,64.1,64.1],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 62.5&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 64.3&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 65.1&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 61.8&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 61.8&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 64.5&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 66.5&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 67.3&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 63.8&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 61.7&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 61.0&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 62.5&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 62.2&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 64.1&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 64.1&lt;br /&gt;Club: Atlético&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(216,144,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Atlético&#34;,&#34;legendgroup&#34;:&#34;Atlético&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[80.8,79.8,79.3,82.8,82.3,81.8,82.3,79.7,80.3,77.5,77.4,78.8,80.2,81.2,81.1],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 80.8&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 79.8&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 79.3&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 82.8&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 82.3&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 81.8&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 82.3&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 79.7&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 80.3&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 77.5&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 77.4&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 78.8&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 80.2&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 81.2&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 81.1&lt;br /&gt;Club: Barça&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(192,155,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Barça&#34;,&#34;legendgroup&#34;:&#34;Barça&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[45.9,41.8,43.4,46.7,49.7,48.5,47,47,50.2,49.6,49.5,48.4,47.8,46.2,45.4],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 45.9&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 41.8&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 43.4&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 46.7&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 49.7&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 48.5&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 47.0&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 47.0&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 50.2&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 49.6&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 49.5&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 48.4&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 47.8&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 46.2&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 45.4&lt;br /&gt;Club: Betis&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(163,165,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Betis&#34;,&#34;legendgroup&#34;:&#34;Betis&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[27.5,28.1,36,35.5,34.4,33.5,32.3,32.1,33.2,32.3,31.5,34.3,36.1,37.2,37.8],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 27.5&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 28.1&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 36.0&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 35.5&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 34.4&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 33.5&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 32.3&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 32.1&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 33.2&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 32.3&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 31.5&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 34.3&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 36.1&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 37.2&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 37.8&lt;br /&gt;Club: Celta&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(124,174,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Celta&#34;,&#34;legendgroup&#34;:&#34;Celta&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[46.2,41.2,36.4,35.3,33.1,34.4,39,38.3,41.9,41.6,41,40.2,40.1,38.9,41.7],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 46.2&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 41.2&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 36.4&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 35.3&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 33.1&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 34.4&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 39.0&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 38.3&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 41.9&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 41.6&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 41.0&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 40.2&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 40.1&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 38.9&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 41.7&lt;br /&gt;Club: Eibar&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(57,182,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Eibar&#34;,&#34;legendgroup&#34;:&#34;Eibar&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[22.8,22.6,23.4,22.7,22.9,23.5,21.8,23.8,28.1,28.7,28.2,29.7,30.9,30.4,30.3],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 22.8&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 22.6&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 23.4&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 22.7&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 22.9&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 23.5&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 21.8&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 23.8&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 28.1&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 28.7&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 28.2&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 29.7&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 30.9&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 30.4&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 30.3&lt;br /&gt;Club: Espanyol&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,187,78,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Espanyol&#34;,&#34;legendgroup&#34;:&#34;Espanyol&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[57.4,57.2,56.3,60.8,62.5,64.4,62.5,59.2,62.3,63.3,66.5,68.3,67.4,63.9,63.9],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 57.4&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 57.2&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 56.3&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 60.8&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 62.5&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 64.4&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 62.5&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 59.2&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 62.3&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 63.3&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 66.5&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 68.3&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 67.4&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 63.9&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 63.9&lt;br /&gt;Club: Getafe&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,191,125,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Getafe&#34;,&#34;legendgroup&#34;:&#34;Getafe&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[62.5,58.6,57.8,56.3,59.4,55,50.7,51.4,51.5,49.9,50.4,49.4,51.1,55,53.6],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 62.5&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 58.6&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 57.8&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 56.3&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 59.4&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 55.0&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 50.7&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 51.4&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 51.5&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 49.9&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 50.4&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 49.4&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 51.1&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 55.0&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 53.6&lt;br /&gt;Club: Granada&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,193,163,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Granada&#34;,&#34;legendgroup&#34;:&#34;Granada&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[20.7,23.1,22.7,22.6,26.2,27.2,29.4,30.4,28.1,29,32,31,30.8,29.7,29.3],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 20.7&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 23.1&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 22.7&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 22.6&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 26.2&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 27.2&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 29.4&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 30.4&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 28.1&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 29.0&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 32.0&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 31.0&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 30.8&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 29.7&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 29.3&lt;br /&gt;Club: Leganés&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,191,196,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Leganés&#34;,&#34;legendgroup&#34;:&#34;Leganés&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[53.7,51.1,51.2,47.4,44.1,48,49.8,49.3,46.3,44.7,45.3,46.8,46.5,49.5,47.2],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 53.7&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 51.1&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 51.2&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 47.4&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 44.1&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 48.0&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 49.8&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 49.3&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 46.3&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 44.7&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 45.3&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 46.8&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 46.5&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 49.5&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 47.2&lt;br /&gt;Club: Llevant&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,186,224,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Llevant&#34;,&#34;legendgroup&#34;:&#34;Llevant&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[76.9,80.8,80.9,81.5,80.7,79.5,78.1,81.5,82.5,83.8,85,86.7,84.1,81.6,81.5],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 76.9&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 80.8&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 80.9&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 81.5&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 80.7&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 79.5&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 78.1&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 81.5&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 82.5&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 83.8&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 85.0&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 86.7&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 84.1&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 81.6&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 81.5&lt;br /&gt;Club: Madrid&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,176,246,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Madrid&#34;,&#34;legendgroup&#34;:&#34;Madrid&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[30.6,36.7,35.4,32.9,33.4,34.3,32.4,31.6,35.4,34.4,32.1,30.5,32.4,33.5,33.4],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 30.6&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 36.7&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 35.4&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 32.9&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 33.4&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 34.3&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 32.4&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 31.6&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 35.4&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 34.4&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 32.1&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 30.5&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 32.4&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 33.5&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 33.4&lt;br /&gt;Club: Mallorca&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(53,162,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Mallorca&#34;,&#34;legendgroup&#34;:&#34;Mallorca&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[56.8,57.1,53.3,56,55.2,53.2,50.9,50.4,49.1,50.5,49.4,47.8,50.6,47.6,47.4],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 56.8&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 57.1&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 53.3&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 56.0&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 55.2&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 53.2&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 50.9&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 50.4&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 49.1&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 50.5&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 49.4&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 47.8&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 50.6&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 47.6&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 47.4&lt;br /&gt;Club: Osasuna&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(149,144,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Osasuna&#34;,&#34;legendgroup&#34;:&#34;Osasuna&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[64.4,61.2,62.1,63,62.9,62.7,65.1,61.9,59.1,60.4,57.8,59.4,59.5,61.2,62.1],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 64.4&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 61.2&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 62.1&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 63.0&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 62.9&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 62.7&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 65.1&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 61.9&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 59.1&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 60.4&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 57.8&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 59.4&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 59.5&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 61.2&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 62.1&lt;br /&gt;Club: Real Sociedad&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(199,124,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Real Sociedad&#34;,&#34;legendgroup&#34;:&#34;Real Sociedad&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[62.2,65.3,68.7,68.3,68.5,64.7,67.2,66.4,65.7,67.6,65.7,63.4,61.3,65.1,65.2],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 62.2&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 65.3&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 68.7&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 68.3&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 68.5&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 64.7&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 67.2&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 66.4&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 65.7&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 67.6&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 65.7&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 63.4&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 61.3&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 65.1&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 65.2&lt;br /&gt;Club: Sevilla&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(231,107,243,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Sevilla&#34;,&#34;legendgroup&#34;:&#34;Sevilla&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[47,52.6,52.1,54.3,58.5,58.9,58.3,59.1,55.5,58.6,59.1,57.7,57.6,56.1,57.3],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 47.0&lt;br /&gt;Club: València&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 52.6&lt;br /&gt;Club: València&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 52.1&lt;br /&gt;Club: València&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 54.3&lt;br /&gt;Club: València&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 58.5&lt;br /&gt;Club: València&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 58.9&lt;br /&gt;Club: València&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 58.3&lt;br /&gt;Club: València&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 59.1&lt;br /&gt;Club: València&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 55.5&lt;br /&gt;Club: València&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 58.6&lt;br /&gt;Club: València&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 59.1&lt;br /&gt;Club: València&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 57.7&lt;br /&gt;Club: València&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 57.6&lt;br /&gt;Club: València&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 56.1&lt;br /&gt;Club: València&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 57.3&lt;br /&gt;Club: València&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(250,98,219,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;València&#34;,&#34;legendgroup&#34;:&#34;València&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[58.8,52.5,48.2,47.2,46.2,44.2,43.6,42.5,42.9,42,44.5,44.2,43.1,44.4,43.5],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 58.8&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 52.5&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 48.2&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 47.2&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 46.2&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 44.2&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 43.6&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 42.5&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 42.9&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 42.0&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 44.5&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 44.2&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 43.1&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 44.4&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 43.5&lt;br /&gt;Club: Valladolid&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(255,98,188,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Valladolid&#34;,&#34;legendgroup&#34;:&#34;Valladolid&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[65.8,59.9,52.8,51.4,50.7,54.3,56.6,59.9,55.5,57.7,59.2,58.8,59.6,58.1,58],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 65.8&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 59.9&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 52.8&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 51.4&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 50.7&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 54.3&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 56.6&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 59.9&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 55.5&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 57.7&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 59.2&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 58.8&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 59.6&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 58.1&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 58.0&lt;br /&gt;Club: Vila-real&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(255,106,152,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Vila-real&#34;,&#34;legendgroup&#34;:&#34;Vila-real&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null}],&#34;layout&#34;:{&#34;margin&#34;:{&#34;t&#34;:26.2283105022831,&#34;r&#34;:7.30593607305936,&#34;b&#34;:40.1826484018265,&#34;l&#34;:37.2602739726027},&#34;plot_bgcolor&#34;:&#34;rgba(235,235,235,1)&#34;,&#34;paper_bgcolor&#34;:&#34;rgba(255,255,255,1)&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187},&#34;xaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;type&#34;:&#34;linear&#34;,&#34;autorange&#34;:false,&#34;range&#34;:[11.3,26.7],&#34;tickmode&#34;:&#34;array&#34;,&#34;ticktext&#34;:[&#34;12&#34;,&#34;16&#34;,&#34;20&#34;,&#34;24&#34;],&#34;tickvals&#34;:[12,16,20,24],&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;12&#34;,&#34;16&#34;,&#34;20&#34;,&#34;24&#34;],&#34;nticks&#34;:null,&#34;ticks&#34;:&#34;outside&#34;,&#34;tickcolor&#34;:&#34;rgba(51,51,51,1)&#34;,&#34;ticklen&#34;:3.65296803652968,&#34;tickwidth&#34;:0.66417600664176,&#34;showticklabels&#34;:true,&#34;tickfont&#34;:{&#34;color&#34;:&#34;rgba(77,77,77,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;tickangle&#34;:-0,&#34;showline&#34;:false,&#34;linecolor&#34;:null,&#34;linewidth&#34;:0,&#34;showgrid&#34;:true,&#34;gridcolor&#34;:&#34;rgba(255,255,255,1)&#34;,&#34;gridwidth&#34;:0.66417600664176,&#34;zeroline&#34;:false,&#34;anchor&#34;:&#34;y&#34;,&#34;title&#34;:{&#34;text&#34;:&#34;Jornada&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187}},&#34;hoverformat&#34;:&#34;.2f&#34;},&#34;yaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;type&#34;:&#34;linear&#34;,&#34;autorange&#34;:false,&#34;range&#34;:[17.4,90],&#34;tickmode&#34;:&#34;array&#34;,&#34;ticktext&#34;:[&#34;20&#34;,&#34;40&#34;,&#34;60&#34;,&#34;80&#34;],&#34;tickvals&#34;:[20,40,60,80],&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;20&#34;,&#34;40&#34;,&#34;60&#34;,&#34;80&#34;],&#34;nticks&#34;:null,&#34;ticks&#34;:&#34;outside&#34;,&#34;tickcolor&#34;:&#34;rgba(51,51,51,1)&#34;,&#34;ticklen&#34;:3.65296803652968,&#34;tickwidth&#34;:0.66417600664176,&#34;showticklabels&#34;:true,&#34;tickfont&#34;:{&#34;color&#34;:&#34;rgba(77,77,77,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;tickangle&#34;:-0,&#34;showline&#34;:false,&#34;linecolor&#34;:null,&#34;linewidth&#34;:0,&#34;showgrid&#34;:true,&#34;gridcolor&#34;:&#34;rgba(255,255,255,1)&#34;,&#34;gridwidth&#34;:0.66417600664176,&#34;zeroline&#34;:false,&#34;anchor&#34;:&#34;x&#34;,&#34;title&#34;:{&#34;text&#34;:&#34;Punts Projectats&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187}},&#34;hoverformat&#34;:&#34;.2f&#34;},&#34;shapes&#34;:[{&#34;type&#34;:&#34;rect&#34;,&#34;fillcolor&#34;:null,&#34;line&#34;:{&#34;color&#34;:null,&#34;width&#34;:0,&#34;linetype&#34;:[]},&#34;yref&#34;:&#34;paper&#34;,&#34;xref&#34;:&#34;paper&#34;,&#34;x0&#34;:0,&#34;x1&#34;:1,&#34;y0&#34;:0,&#34;y1&#34;:1}],&#34;showlegend&#34;:true,&#34;legend&#34;:{&#34;bgcolor&#34;:&#34;rgba(255,255,255,1)&#34;,&#34;bordercolor&#34;:&#34;transparent&#34;,&#34;borderwidth&#34;:1.88976377952756,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;y&#34;:0.913385826771654},&#34;annotations&#34;:[{&#34;text&#34;:&#34;Club&#34;,&#34;x&#34;:1.02,&#34;y&#34;:1,&#34;showarrow&#34;:false,&#34;ax&#34;:0,&#34;ay&#34;:0,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187},&#34;xref&#34;:&#34;paper&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;textangle&#34;:-0,&#34;xanchor&#34;:&#34;left&#34;,&#34;yanchor&#34;:&#34;bottom&#34;,&#34;legendTitle&#34;:true}],&#34;hovermode&#34;:&#34;closest&#34;,&#34;barmode&#34;:&#34;relative&#34;},&#34;config&#34;:{&#34;doubleClick&#34;:&#34;reset&#34;,&#34;showSendToCloud&#34;:false,&#34;displayModeBar&#34;:false},&#34;source&#34;:&#34;A&#34;,&#34;attrs&#34;:{&#34;155d1166ebb9&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;colour&#34;:{},&#34;type&#34;:&#34;scatter&#34;}},&#34;cur_data&#34;:&#34;155d1166ebb9&#34;,&#34;visdat&#34;:{&#34;155d1166ebb9&#34;:[&#34;function (y) &#34;,&#34;x&#34;]},&#34;highlight&#34;:{&#34;on&#34;:&#34;plotly_click&#34;,&#34;persistent&#34;:false,&#34;dynamic&#34;:false,&#34;selectize&#34;:false,&#34;opacityDim&#34;:0.2,&#34;selected&#34;:{&#34;opacity&#34;:1},&#34;debounce&#34;:0},&#34;shinyEvents&#34;:[&#34;plotly_hover&#34;,&#34;plotly_click&#34;,&#34;plotly_selected&#34;,&#34;plotly_relayout&#34;,&#34;plotly_brushed&#34;,&#34;plotly_brushing&#34;,&#34;plotly_clickannotation&#34;,&#34;plotly_doubleclick&#34;,&#34;plotly_deselect&#34;,&#34;plotly_afterplot&#34;,&#34;plotly_sunburstclick&#34;],&#34;base_url&#34;:&#34;https://plot.ly&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt; &lt;br&gt;&lt;/p&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;data&#34;:[{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[37.7,43.4,47.9,46.8,43.6,41.4,41.3,40.1,43.2,41.4,42.7,44.2,42.2,44.5,44.1],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 37.7&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 43.4&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 47.9&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 46.8&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 43.6&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 41.4&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 41.3&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 40.1&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 43.2&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 41.4&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 42.7&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 44.2&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 42.2&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 44.5&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 44.1&lt;br /&gt;Club: Alavés&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(248,118,109,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Alavés&#34;,&#34;legendgroup&#34;:&#34;Alavés&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[54.4,56.6,60.4,63.4,60.4,58,59,59.3,57.5,56.2,53.4,52.3,49.8,48.1,49.9],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 54.4&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 56.6&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 60.4&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 63.4&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 60.4&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 58.0&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 59.0&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 59.3&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 57.5&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 56.2&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 53.4&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 52.3&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 49.8&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 48.1&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 49.9&lt;br /&gt;Club: Athletic&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(236,130,60,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Athletic&#34;,&#34;legendgroup&#34;:&#34;Athletic&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[24,25,26],&#34;y&#34;:[62.2,64.1,64.1],&#34;text&#34;:[&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 62.2&lt;br /&gt;Club: Atlètic Madrid&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 64.1&lt;br /&gt;Club: Atlètic Madrid&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 64.1&lt;br /&gt;Club: Atlètic Madrid&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(221,141,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Atlètic Madrid&#34;,&#34;legendgroup&#34;:&#34;Atlètic Madrid&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[62.5,64.3,65.1,61.8,61.8,64.5,66.5,67.3,63.8,61.7,61,62.5,62.2,64.1,64.1],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 62.5&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 64.3&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 65.1&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 61.8&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 61.8&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 64.5&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 66.5&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 67.3&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 63.8&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 61.7&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 61.0&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 62.5&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 62.2&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 64.1&lt;br /&gt;Club: Atlético&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 64.1&lt;br /&gt;Club: Atlético&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(202,151,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Atlético&#34;,&#34;legendgroup&#34;:&#34;Atlético&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[80.8,79.8,79.3,82.8,82.3,81.8,82.3,79.7,80.3,77.5,77.4,78.8,80.2,81.2,81.1],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 80.8&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 79.8&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 79.3&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 82.8&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 82.3&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 81.8&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 82.3&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 79.7&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 80.3&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 77.5&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 77.4&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 78.8&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 80.2&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 81.2&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 81.1&lt;br /&gt;Club: Barça&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(179,160,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Barça&#34;,&#34;legendgroup&#34;:&#34;Barça&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[45.9,41.8,43.4,46.7,49.7,48.5,47,47,50.2,49.6,49.5,48.4,47.8,46.2,45.4],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 45.9&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 41.8&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 43.4&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 46.7&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 49.7&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 48.5&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 47.0&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 47.0&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 50.2&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 49.6&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 49.5&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 48.4&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 47.8&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 46.2&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 45.4&lt;br /&gt;Club: Betis&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(151,169,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Betis&#34;,&#34;legendgroup&#34;:&#34;Betis&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[27.5,28.1,36,35.5,34.4,33.5,32.3,32.1,33.2,32.3,31.5,34.3,36.1,37.2,37.9],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 27.5&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 28.1&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 36.0&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 35.5&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 34.4&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 33.5&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 32.3&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 32.1&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 33.2&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 32.3&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 31.5&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 34.3&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 36.1&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 37.2&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 37.9&lt;br /&gt;Club: Celta&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(113,176,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Celta&#34;,&#34;legendgroup&#34;:&#34;Celta&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[46.2,41.2,36.4,35.3,33.1,34.4,39,38.3,41.9,41.6,41,40.2,40.1,38.9,41.7],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 46.2&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 41.2&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 36.4&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 35.3&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 33.1&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 34.4&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 39.0&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 38.3&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 41.9&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 41.6&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 41.0&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 40.2&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 40.1&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 38.9&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 41.7&lt;br /&gt;Club: Eibar&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(47,182,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Eibar&#34;,&#34;legendgroup&#34;:&#34;Eibar&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[22.8,22.6,23.4,22.7,22.9,23.5,21.8,23.8,28.1,28.7,28.2,29.7,30.9,30.4,30.3],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 22.8&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 22.6&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 23.4&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 22.7&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 22.9&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 23.5&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 21.8&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 23.8&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 28.1&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 28.7&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 28.2&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 29.7&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 30.9&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 30.4&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 30.3&lt;br /&gt;Club: Espanyol&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,187,75,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Espanyol&#34;,&#34;legendgroup&#34;:&#34;Espanyol&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[57.4,57.2,56.3,60.8,62.5,64.4,62.5,59.2,62.3,63.3,66.5,68.3,67.4,63.9,63.9],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 57.4&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 57.2&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 56.3&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 60.8&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 62.5&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 64.4&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 62.5&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 59.2&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 62.3&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 63.3&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 66.5&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 68.3&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 67.4&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 63.9&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 63.9&lt;br /&gt;Club: Getafe&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,191,118,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Getafe&#34;,&#34;legendgroup&#34;:&#34;Getafe&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[62.5,58.6,57.8,56.3,59.4,55,50.7,51.4,51.5,49.9,50.4,49.4,51.1,55,53.6],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 62.5&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 58.6&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 57.8&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 56.3&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 59.4&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 55.0&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 50.7&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 51.4&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 51.5&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 49.9&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 50.4&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 49.4&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 51.1&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 55.0&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 53.6&lt;br /&gt;Club: Granada&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,192,152,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Granada&#34;,&#34;legendgroup&#34;:&#34;Granada&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[20.7,23.1,22.7,22.6,26.2,27.2,29.4,30.4,28.1,29,32,31,30.8,29.7,29.3],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 20.7&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 23.1&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 22.7&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 22.6&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 26.2&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 27.2&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 29.4&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 30.4&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 28.1&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 29.0&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 32.0&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 31.0&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 30.8&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 29.7&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 29.3&lt;br /&gt;Club: Leganés&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,192,183,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Leganés&#34;,&#34;legendgroup&#34;:&#34;Leganés&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[53.7,51.1,51.2,47.4,44.1,48,49.8,49.3,46.3,44.7,45.3,46.8,46.5,49.5,47.3],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 53.7&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 51.1&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 51.2&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 47.4&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 44.1&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 48.0&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 49.8&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 49.3&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 46.3&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 44.7&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 45.3&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 46.8&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 46.5&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 49.5&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 47.3&lt;br /&gt;Club: Llevant&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,189,209,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Llevant&#34;,&#34;legendgroup&#34;:&#34;Llevant&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[76.9,80.8,80.9,81.5,80.7,79.5,78.1,81.5,82.5,83.8,85,86.7,84.1,81.6,81.5],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 76.9&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 80.8&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 80.9&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 81.5&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 80.7&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 79.5&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 78.1&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 81.5&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 82.5&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 83.8&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 85.0&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 86.7&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 84.1&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 81.6&lt;br /&gt;Club: Madrid&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 81.5&lt;br /&gt;Club: Madrid&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,183,232,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Madrid&#34;,&#34;legendgroup&#34;:&#34;Madrid&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[30.6,36.7,35.4,32.9,33.4,34.3,32.4,31.6,35.4,34.4,32.1,30.5,32.4,33.5,33.4],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 30.6&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 36.7&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 35.4&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 32.9&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 33.4&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 34.3&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 32.4&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 31.6&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 35.4&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 34.4&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 32.1&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 30.5&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 32.4&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 33.5&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 33.4&lt;br /&gt;Club: Mallorca&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,174,250,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Mallorca&#34;,&#34;legendgroup&#34;:&#34;Mallorca&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[56.8,57.1,53.3,56,55.2,53.2,50.9,50.4,49.1,50.5,49.4,47.8,50.6,47.6,46.9],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 56.8&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 57.1&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 53.3&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 56.0&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 55.2&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 53.2&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 50.9&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 50.4&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 49.1&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 50.5&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 49.4&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 47.8&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 50.6&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 47.6&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 46.9&lt;br /&gt;Club: Osasuna&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(61,161,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Osasuna&#34;,&#34;legendgroup&#34;:&#34;Osasuna&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[64.4,61.2,62.1,63,62.9,62.7,65.1,61.9,59.1,60.4,57.8,59.4,59.5,61.2,62.1],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 64.4&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 61.2&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 62.1&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 63.0&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 62.9&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 62.7&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 65.1&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 61.9&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 59.1&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 60.4&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 57.8&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 59.4&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 59.5&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 61.2&lt;br /&gt;Club: Real Sociedad&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 62.1&lt;br /&gt;Club: Real Sociedad&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(143,145,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Real Sociedad&#34;,&#34;legendgroup&#34;:&#34;Real Sociedad&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[24,25,26],&#34;y&#34;:[84.1,81.6,81.5],&#34;text&#34;:[&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 84.1&lt;br /&gt;Club: Reial Madrid&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 81.6&lt;br /&gt;Club: Reial Madrid&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 81.5&lt;br /&gt;Club: Reial Madrid&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(190,128,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Reial Madrid&#34;,&#34;legendgroup&#34;:&#34;Reial Madrid&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[24,25,26],&#34;y&#34;:[59.5,61.2,62.2],&#34;text&#34;:[&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 59.5&lt;br /&gt;Club: Reial Societat&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 61.2&lt;br /&gt;Club: Reial Societat&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 62.2&lt;br /&gt;Club: Reial Societat&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(222,113,249,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Reial Societat&#34;,&#34;legendgroup&#34;:&#34;Reial Societat&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[62.2,65.3,68.7,68.3,68.5,64.7,67.2,66.4,65.7,67.6,65.7,63.4,61.3,65.1,65.9],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 62.2&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 65.3&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 68.7&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 68.3&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 68.5&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 64.7&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 67.2&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 66.4&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 65.7&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 67.6&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 65.7&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 63.4&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 61.3&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 65.1&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 65.9&lt;br /&gt;Club: Sevilla&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(242,101,231,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Sevilla&#34;,&#34;legendgroup&#34;:&#34;Sevilla&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[47,52.6,52.1,54.3,58.5,58.9,58.3,59.1,55.5,58.6,59.1,57.7,57.6,56.1,57.3],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 47.0&lt;br /&gt;Club: València&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 52.6&lt;br /&gt;Club: València&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 52.1&lt;br /&gt;Club: València&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 54.3&lt;br /&gt;Club: València&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 58.5&lt;br /&gt;Club: València&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 58.9&lt;br /&gt;Club: València&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 58.3&lt;br /&gt;Club: València&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 59.1&lt;br /&gt;Club: València&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 55.5&lt;br /&gt;Club: València&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 58.6&lt;br /&gt;Club: València&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 59.1&lt;br /&gt;Club: València&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 57.7&lt;br /&gt;Club: València&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 57.6&lt;br /&gt;Club: València&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 56.1&lt;br /&gt;Club: València&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 57.3&lt;br /&gt;Club: València&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(254,97,207,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;València&#34;,&#34;legendgroup&#34;:&#34;València&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[58.8,52.5,48.2,47.2,46.2,44.2,43.6,42.5,42.9,42,44.5,44.2,43.1,44.4,43.5],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 58.8&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 52.5&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 48.2&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 47.2&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 46.2&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 44.2&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 43.6&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 42.5&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 42.9&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 42.0&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 44.5&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 44.2&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 43.1&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 44.4&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 43.5&lt;br /&gt;Club: Valladolid&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(255,100,179,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Valladolid&#34;,&#34;legendgroup&#34;:&#34;Valladolid&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[12,13,14,15,16,17,18,19,20,21,22,23,24,25,26],&#34;y&#34;:[65.8,59.9,52.8,51.4,50.7,54.3,56.6,59.9,55.5,57.7,59.2,58.8,59.6,58.1,56.6],&#34;text&#34;:[&#34;Jornada: 12&lt;br /&gt;Punts.Projectats: 65.8&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 13&lt;br /&gt;Punts.Projectats: 59.9&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 14&lt;br /&gt;Punts.Projectats: 52.8&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 15&lt;br /&gt;Punts.Projectats: 51.4&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 16&lt;br /&gt;Punts.Projectats: 50.7&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 17&lt;br /&gt;Punts.Projectats: 54.3&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 18&lt;br /&gt;Punts.Projectats: 56.6&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 19&lt;br /&gt;Punts.Projectats: 59.9&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 20&lt;br /&gt;Punts.Projectats: 55.5&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 21&lt;br /&gt;Punts.Projectats: 57.7&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 22&lt;br /&gt;Punts.Projectats: 59.2&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 23&lt;br /&gt;Punts.Projectats: 58.8&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 24&lt;br /&gt;Punts.Projectats: 59.6&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 25&lt;br /&gt;Punts.Projectats: 58.1&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 26&lt;br /&gt;Punts.Projectats: 56.6&lt;br /&gt;Club: Vila-real&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(255,108,146,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Vila-real&#34;,&#34;legendgroup&#34;:&#34;Vila-real&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null}],&#34;layout&#34;:{&#34;margin&#34;:{&#34;t&#34;:26.2283105022831,&#34;r&#34;:7.30593607305936,&#34;b&#34;:40.1826484018265,&#34;l&#34;:37.2602739726027},&#34;plot_bgcolor&#34;:&#34;rgba(235,235,235,1)&#34;,&#34;paper_bgcolor&#34;:&#34;rgba(255,255,255,1)&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187},&#34;xaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;type&#34;:&#34;linear&#34;,&#34;autorange&#34;:false,&#34;range&#34;:[11.3,26.7],&#34;tickmode&#34;:&#34;array&#34;,&#34;ticktext&#34;:[&#34;12&#34;,&#34;16&#34;,&#34;20&#34;,&#34;24&#34;],&#34;tickvals&#34;:[12,16,20,24],&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;12&#34;,&#34;16&#34;,&#34;20&#34;,&#34;24&#34;],&#34;nticks&#34;:null,&#34;ticks&#34;:&#34;outside&#34;,&#34;tickcolor&#34;:&#34;rgba(51,51,51,1)&#34;,&#34;ticklen&#34;:3.65296803652968,&#34;tickwidth&#34;:0.66417600664176,&#34;showticklabels&#34;:true,&#34;tickfont&#34;:{&#34;color&#34;:&#34;rgba(77,77,77,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;tickangle&#34;:-0,&#34;showline&#34;:false,&#34;linecolor&#34;:null,&#34;linewidth&#34;:0,&#34;showgrid&#34;:true,&#34;gridcolor&#34;:&#34;rgba(255,255,255,1)&#34;,&#34;gridwidth&#34;:0.66417600664176,&#34;zeroline&#34;:false,&#34;anchor&#34;:&#34;y&#34;,&#34;title&#34;:{&#34;text&#34;:&#34;Jornada&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187}},&#34;hoverformat&#34;:&#34;.2f&#34;},&#34;yaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;type&#34;:&#34;linear&#34;,&#34;autorange&#34;:false,&#34;range&#34;:[17.4,90],&#34;tickmode&#34;:&#34;array&#34;,&#34;ticktext&#34;:[&#34;20&#34;,&#34;40&#34;,&#34;60&#34;,&#34;80&#34;],&#34;tickvals&#34;:[20,40,60,80],&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;20&#34;,&#34;40&#34;,&#34;60&#34;,&#34;80&#34;],&#34;nticks&#34;:null,&#34;ticks&#34;:&#34;outside&#34;,&#34;tickcolor&#34;:&#34;rgba(51,51,51,1)&#34;,&#34;ticklen&#34;:3.65296803652968,&#34;tickwidth&#34;:0.66417600664176,&#34;showticklabels&#34;:true,&#34;tickfont&#34;:{&#34;color&#34;:&#34;rgba(77,77,77,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;tickangle&#34;:-0,&#34;showline&#34;:false,&#34;linecolor&#34;:null,&#34;linewidth&#34;:0,&#34;showgrid&#34;:true,&#34;gridcolor&#34;:&#34;rgba(255,255,255,1)&#34;,&#34;gridwidth&#34;:0.66417600664176,&#34;zeroline&#34;:false,&#34;anchor&#34;:&#34;x&#34;,&#34;title&#34;:{&#34;text&#34;:&#34;Punts Projectats&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187}},&#34;hoverformat&#34;:&#34;.2f&#34;},&#34;shapes&#34;:[{&#34;type&#34;:&#34;rect&#34;,&#34;fillcolor&#34;:null,&#34;line&#34;:{&#34;color&#34;:null,&#34;width&#34;:0,&#34;linetype&#34;:[]},&#34;yref&#34;:&#34;paper&#34;,&#34;xref&#34;:&#34;paper&#34;,&#34;x0&#34;:0,&#34;x1&#34;:1,&#34;y0&#34;:0,&#34;y1&#34;:1}],&#34;showlegend&#34;:true,&#34;legend&#34;:{&#34;bgcolor&#34;:&#34;rgba(255,255,255,1)&#34;,&#34;bordercolor&#34;:&#34;transparent&#34;,&#34;borderwidth&#34;:1.88976377952756,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;y&#34;:0.913385826771654},&#34;annotations&#34;:[{&#34;text&#34;:&#34;Club&#34;,&#34;x&#34;:1.02,&#34;y&#34;:1,&#34;showarrow&#34;:false,&#34;ax&#34;:0,&#34;ay&#34;:0,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187},&#34;xref&#34;:&#34;paper&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;textangle&#34;:-0,&#34;xanchor&#34;:&#34;left&#34;,&#34;yanchor&#34;:&#34;bottom&#34;,&#34;legendTitle&#34;:true}],&#34;hovermode&#34;:&#34;closest&#34;,&#34;barmode&#34;:&#34;relative&#34;},&#34;config&#34;:{&#34;doubleClick&#34;:&#34;reset&#34;,&#34;showSendToCloud&#34;:false,&#34;displayModeBar&#34;:false},&#34;source&#34;:&#34;A&#34;,&#34;attrs&#34;:{&#34;240544203056&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;colour&#34;:{},&#34;type&#34;:&#34;scatter&#34;}},&#34;cur_data&#34;:&#34;240544203056&#34;,&#34;visdat&#34;:{&#34;240544203056&#34;:[&#34;function (y) &#34;,&#34;x&#34;]},&#34;highlight&#34;:{&#34;on&#34;:&#34;plotly_click&#34;,&#34;persistent&#34;:false,&#34;dynamic&#34;:false,&#34;selectize&#34;:false,&#34;opacityDim&#34;:0.2,&#34;selected&#34;:{&#34;opacity&#34;:1},&#34;debounce&#34;:0},&#34;shinyEvents&#34;:[&#34;plotly_hover&#34;,&#34;plotly_click&#34;,&#34;plotly_selected&#34;,&#34;plotly_relayout&#34;,&#34;plotly_brushed&#34;,&#34;plotly_brushing&#34;,&#34;plotly_clickannotation&#34;,&#34;plotly_doubleclick&#34;,&#34;plotly_deselect&#34;,&#34;plotly_afterplot&#34;,&#34;plotly_sunburstclick&#34;],&#34;base_url&#34;:&#34;https://plot.ly&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt; &lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -705,7 +705,7 @@ Eibar
 42%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Real Sociedad
+Reial Societat
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -713,7 +713,7 @@ Real Sociedad
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Madrid
+Reial Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 60%
@@ -733,26 +733,6 @@ Barça
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Athletic
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-40%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-32%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-28%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Vila-real
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-26
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
@@ -765,7 +745,7 @@ Espanyol
 48%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Atlético
+Atlètic Madrid
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -786,26 +766,6 @@ Mallorca
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Getafe
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-26
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Sevilla
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-64%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-24%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-12%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Osasuna
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -833,10 +793,10 @@ València
 27
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Atlético
+Atlètic Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-42%
+44%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 36%
@@ -865,7 +825,7 @@ Barça
 12%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Real Sociedad
+Reial Societat
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -885,7 +845,7 @@ Betis
 56%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Madrid
+Reial Madrid
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -959,7 +919,7 @@ Osasuna
 66%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-22%
+20%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 12%
@@ -976,7 +936,7 @@ Espanyol
 Vila-real
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-76%
+74%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 18%
@@ -996,10 +956,10 @@ Leganés
 Valladolid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-32%
+30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-42%
+44%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 26%
@@ -1042,10 +1002,10 @@ Athletic
 44%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-28%
+26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Atlético
+Atlètic Madrid
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1056,13 +1016,13 @@ Atlético
 Celta
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-30%
+32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-40%
+38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Vila-real
@@ -1079,10 +1039,10 @@ Espanyol
 36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-32%
+30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-32%
+34%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Alavés
@@ -1116,7 +1076,7 @@ Getafe
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-28%
+30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 40%
@@ -1153,7 +1113,7 @@ Barça
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Madrid
+Reial Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 82%
@@ -1173,7 +1133,7 @@ Eibar
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Real Sociedad
+Reial Societat
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 66%
@@ -1225,7 +1185,7 @@ Alavés
 38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Real Sociedad
+Reial Societat
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1276,7 +1236,7 @@ Granada
 Eibar
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-34%
+32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 38%
@@ -1319,13 +1279,13 @@ Osasuna
 30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-36%
+34%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Atlético
+Atlètic Madrid
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1333,7 +1293,7 @@ Atlético
 29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Madrid
+Reial Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 78%
@@ -1362,7 +1322,7 @@ Vila-real
 16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-8%
+10%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Mallorca
@@ -1376,7 +1336,7 @@ Mallorca
 Valladolid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-42%
+44%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 38%
@@ -1396,10 +1356,10 @@ Celta
 Llevant
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-30%
+32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-32%
+30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 38%
@@ -1416,7 +1376,7 @@ Sevilla
 Athletic
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-48%
+50%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 32%
@@ -1433,7 +1393,7 @@ Betis
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Atlético
+Atlètic Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 52%
@@ -1482,7 +1442,7 @@ Espanyol
 30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-34%
+36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Llevant
@@ -1553,7 +1513,7 @@ Leganés
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Real Sociedad
+Reial Societat
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 26%
@@ -1565,7 +1525,7 @@ Real Sociedad
 46%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Madrid
+Reial Madrid
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1582,7 +1542,7 @@ Sevilla
 26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-34%
+36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Barça
@@ -1602,7 +1562,7 @@ València
 24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-20%
+22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Osasuna
@@ -1616,7 +1576,7 @@ Osasuna
 Alavés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-44%
+46%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 28%
@@ -1636,7 +1596,7 @@ Osasuna
 Barça
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-68%
+66%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 22%
@@ -1659,7 +1619,7 @@ Eibar
 38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-30%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 32%
@@ -1705,7 +1665,7 @@ Llevant
 36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Atlético
+Atlètic Madrid
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1713,7 +1673,7 @@ Atlético
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Madrid
+Reial Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 86%
@@ -1733,7 +1693,7 @@ Mallorca
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Real Sociedad
+Reial Societat
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 66%
@@ -1822,7 +1782,7 @@ Athletic
 30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-14%
+12%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Mallorca
@@ -1833,7 +1793,7 @@ Mallorca
 32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Atlético
+Atlètic Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 60%
@@ -1885,7 +1845,7 @@ Espanyol
 70%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Madrid
+Reial Madrid
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1905,7 +1865,7 @@ Getafe
 20%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Real Sociedad
+Reial Societat
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1956,10 +1916,10 @@ Betis
 Osasuna
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-62%
+64%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-26%
+24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 12%
@@ -2039,13 +1999,13 @@ Barça
 56%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-28%
+26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Atlético
+Atlètic Madrid
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2062,7 +2022,7 @@ Betis
 24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-34%
+32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Vila-real
@@ -2079,10 +2039,10 @@ Eibar
 42%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-30%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-28%
+30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Osasuna
@@ -2133,7 +2093,7 @@ Celta
 33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Madrid
+Reial Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 62%
@@ -2153,7 +2113,7 @@ Getafe
 33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Real Sociedad
+Reial Societat
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 78%
@@ -2176,7 +2136,7 @@ Espanyol
 València
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-44%
+42%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 34%
@@ -2199,7 +2159,7 @@ Valladolid
 42%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-36%
+34%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 24%
@@ -2219,13 +2179,13 @@ Athletic
 20%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-36%
+38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-44%
+42%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Madrid
+Reial Madrid
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2233,7 +2193,7 @@ Madrid
 34
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Atlético
+Atlètic Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 68%
@@ -2282,7 +2242,7 @@ Espanyol
 32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-20%
+22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Leganés
@@ -2325,7 +2285,7 @@ Llevant
 36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Real Sociedad
+Reial Societat
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2376,13 +2336,13 @@ Eibar
 Vila-real
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-36%
+34%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-42%
+44%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Barça
@@ -2416,13 +2376,13 @@ Alavés
 Athletic
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-32%
+34%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-30%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Sevilla
@@ -2456,13 +2416,13 @@ Espanyol
 Betis
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-52%
+54%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-22%
+24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Osasuna
@@ -2485,7 +2445,7 @@ Celta
 38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Atlético
+Atlètic Madrid
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2516,7 +2476,7 @@ Leganés
 Getafe
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-56%
+58%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 24%
@@ -2553,7 +2513,7 @@ Llevant
 35
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Madrid
+Reial Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 80%
@@ -2573,7 +2533,7 @@ Alavés
 35
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Real Sociedad
+Reial Societat
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 56%
@@ -2633,13 +2593,13 @@ Getafe
 36
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Atlético
+Atlètic Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 60%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-28%
+26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 12%
@@ -2656,7 +2616,7 @@ Betis
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-38%
+40%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 30%
@@ -2685,7 +2645,7 @@ Granada
 48%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Madrid
+Reial Madrid
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2696,7 +2656,7 @@ Madrid
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-26%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 32%
@@ -2716,13 +2676,13 @@ València
 Llevant
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-38%
+36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-26%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Athletic
@@ -2756,10 +2716,10 @@ Celta
 Sevilla
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-72%
+74%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-20%
+18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 8%
@@ -2776,16 +2736,16 @@ Mallorca
 Vila-real
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-52%
+50%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-22%
+24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Real Sociedad
+Reial Societat
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2802,7 +2762,7 @@ Valladolid
 28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-50%
+52%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Barça
@@ -2816,7 +2776,7 @@ Barça
 Athletic
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-56%
+58%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 32%
@@ -2839,7 +2799,7 @@ Barça
 82%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-12%
+10%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 6%
@@ -2893,7 +2853,7 @@ Alavés
 37
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Real Sociedad
+Reial Societat
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 46%
@@ -2933,7 +2893,7 @@ Llevant
 37
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Madrid
+Reial Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 74%
@@ -2985,7 +2945,7 @@ Getafe
 22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
-Atlético
+Atlètic Madrid
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2996,7 +2956,7 @@ Atlético
 Mallorca
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-30%
+32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 32%
@@ -3025,7 +2985,7 @@ Leganés
 66%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Madrid
+Reial Madrid
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -3042,7 +3002,7 @@ Sevilla
 24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-14%
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 València
@@ -3136,10 +3096,10 @@ Eibar
 Granada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-42%
+40%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-36%
+38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 22%
@@ -3156,13 +3116,13 @@ Athletic
 Osasuna
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-62%
+64%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-16%
+14%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Mallorca
@@ -3173,19 +3133,19 @@ Mallorca
 38
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Atlético
+Atlètic Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 50%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-32%
+30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 20%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Real Sociedad
+Reial Societat
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -3212,7 +3172,7 @@ Betis
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 10:53:57
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 01 Mar 2020, 15:36:53
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
