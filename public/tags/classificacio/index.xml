@@ -161,7 +161,7 @@ Sevilla
 Getafe
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-65.4
+65.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 18.1
@@ -343,7 +343,7 @@ Athletic
 Llevant
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-47.7
+47.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -9.0
@@ -499,7 +499,7 @@ Eibar
 Celta
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-38.2
+38.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -16.6
@@ -577,7 +577,7 @@ Espanyol
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-29.5
+29.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 -29.6
@@ -602,7 +602,7 @@ Leganés
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 02 Mar 2020, 16:56:56
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 06 Mar 2020, 19:25:50
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -892,7 +892,7 @@ Rayo Vallecano
 Granadilla
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-34.3
+34.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -16.0
@@ -1099,7 +1099,7 @@ Espanyol
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 02 Mar 2020, 16:57:04
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 06 Mar 2020, 19:25:57
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -1530,7 +1530,7 @@ Las Palmas
 6%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-2%
+4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 1.1
@@ -1686,7 +1686,7 @@ Lugo
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-62%
+64%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 0.9
@@ -1751,7 +1751,7 @@ Racing
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 02 Mar 2020, 16:57:27
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 06 Mar 2020, 19:26:22
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -2040,7 +2040,7 @@ Espanyol B
 La Nucía
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-52.6
+52.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 1.4
@@ -2092,7 +2092,7 @@ Andorra
 Ebre
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-49.5
+49.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -4.1
@@ -2234,7 +2234,7 @@ Eixea
 26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-38%
+36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 0.9
@@ -2300,7 +2300,7 @@ Badalona
 Prat
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-32.9
+33.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 -24.9
@@ -2312,7 +2312,7 @@ Prat
 6%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-92%
+90%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 0.8
@@ -2351,7 +2351,7 @@ Oriola
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 02 Mar 2020, 16:57:35
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 06 Mar 2020, 19:26:30
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -2537,7 +2537,7 @@ Europa
 Vilafranca
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-63.7
+63.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 16.5
@@ -2624,7 +2624,7 @@ Peralada
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-2%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -2667,7 +2667,7 @@ Pobla Mafumet
 Cerdanyola
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-55.6
+55.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 7.6
@@ -2745,7 +2745,7 @@ Figueres
 Castelldefels
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-51.8
+51.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -2.8
@@ -2952,7 +2952,7 @@ Reus
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 02 Mar 2020, 16:57:50
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 06 Mar 2020, 19:26:38
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -3069,7 +3069,7 @@ FE Grama
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-44%
+46%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 &amp;lt;1%
@@ -3320,7 +3320,7 @@ Lloret
 Rubí
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-36.7
+36.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -21.7
@@ -3398,7 +3398,7 @@ La Jonquera
 Tona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-30.3
+30.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 -14.2
@@ -3475,7 +3475,7 @@ Llagostera B
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 02 Mar 2020, 16:57:12
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 06 Mar 2020, 19:26:05
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -3661,7 +3661,7 @@ Valls
 At. Sant Just
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-53.5
+53.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 15.5
@@ -3800,7 +3800,7 @@ Vista Alegre
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
+2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -3947,7 +3947,7 @@ Martorell
 Alcarràs
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-28.3
+28.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 -31.5
@@ -4024,7 +4024,7 @@ El Catllar
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 02 Mar 2020, 16:57:19
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 06 Mar 2020, 19:26:13
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
