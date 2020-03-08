@@ -79,13 +79,13 @@ GC
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #c7ffd0 !important;&#34;&gt;
-Cadis
+Saragossa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-74.0
+74.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-16.1
+21.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 78%
@@ -97,7 +97,7 @@ Cadis
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-1.3
+1.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 0.9
@@ -105,28 +105,28 @@ Cadis
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #d1ffd9 !important;&#34;&gt;
-Saragossa
+Cadis
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
-72.4
+74.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
-19.7
+16.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
-66%
+76%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
-34%
+24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
-1.4
+1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #d1ffd9 !important;&#34;&gt;
-1.0
+0.9
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -137,13 +137,13 @@ Almeria
 69.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-24.5
+24.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-34%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-64%
+68%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 &amp;lt;1%
@@ -163,13 +163,13 @@ Osca
 66.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-9.5
+9.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-14%
+10%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-78%
+82%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
 &amp;lt;1%
@@ -178,7 +178,7 @@ Osca
 1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-1.0
+1.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -186,16 +186,16 @@ Osca
 Elx
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-64.8
+64.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-13.3
+13.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-6%
+4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-78%
+80%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 &amp;lt;1%
@@ -212,16 +212,16 @@ Elx
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-62.0
+62.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-5.1
+5.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-58%
+60%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 &amp;lt;1%
@@ -235,39 +235,39 @@ Girona
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Alcorcón
+Mirandés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-57.0
+57.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-14%
+-0.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.2
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.2
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Ponferradina
+Sporting
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-56.6
+57.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-3.3
+3.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -279,10 +279,10 @@ Ponferradina
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.2
+1.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.1
+0.9
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -290,10 +290,10 @@ Ponferradina
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-55.7
+55.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-6.9
+7.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -313,22 +313,126 @@ Rayo Vallecano
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Màlaga
+Ponferradina
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-55.3
+55.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-2.6
+2.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-8%
+6%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Alcorcón
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+54.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+-0.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Fuenlabrada
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+53.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+-1.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+4%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+4%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Tenerife
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+53.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+-0.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+4%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Màlaga
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+53.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+4%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0.9
@@ -339,28 +443,28 @@ Màlaga
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Mirandés
+Numància
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-54.8
+52.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--3.1
+-0.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-6%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.4
+6%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.4
+1.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -368,114 +472,10 @@ Mirandés
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-54.2
+51.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--1.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-4%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-4%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Sporting
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-54.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--2.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-4%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-4%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Fuenlabrada
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-54.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--0.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-4%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-2%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Numància
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-52.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--0.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-2%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-6%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Tenerife
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-52.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--1.4
+-6.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -487,10 +487,10 @@ Tenerife
 8%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.2
+1.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.2
+1.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -498,10 +498,10 @@ Tenerife
 Oviedo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-49.1
+49.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--7.5
+-7.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -521,13 +521,13 @@ Oviedo
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Deportivo
+Albacete
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 46.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--23.7
+-17.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -536,24 +536,24 @@ Deportivo
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-60%
+58%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0.9
+0.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.4
+1.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffe7e5 !important;&#34;&gt;
-Albacete
+Deportivo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 45.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
--17.2
+-23.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 &amp;lt;1%
@@ -562,13 +562,13 @@ Albacete
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-58%
+60%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-0.8
+0.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-1.2
+1.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -640,7 +640,7 @@ Racing
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-88%
+86%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 1.0
@@ -653,7 +653,7 @@ Racing
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 08 Mar 2020, 14:10:02
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 08 Mar 2020, 23:03:26
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -734,16 +734,16 @@ GC
 Castelló
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-70.8
+67.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-26.6
+21.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-70%
+42%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-98%
+86%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 &amp;lt;1%
@@ -752,7 +752,7 @@ Castelló
 1.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-0.8
+0.9
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -766,10 +766,10 @@ Sabadell
 17.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-14%
+24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-78%
+76%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 &amp;lt;1%
@@ -786,16 +786,16 @@ Sabadell
 Cornellà
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-64.2
+64.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-11.4
+11.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-6%
+12%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-58%
+56%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
 &amp;lt;1%
@@ -812,22 +812,22 @@ Cornellà
 Olot
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-62.4
+63.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-21.6
+22.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-2%
+10%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-48%
+58%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-1.2
+1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 0.7
@@ -835,28 +835,28 @@ Olot
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Vila-real B
+Lleida
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-62.2
+62.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-8.8
+15.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-2%
+6%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-38%
+42%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.3
+1.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.1
+0.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -864,16 +864,16 @@ Vila-real B
 Barça B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-61.6
+62.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-12.9
+12.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-2%
+6%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-36%
+40%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -882,33 +882,33 @@ Barça B
 1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0.9
+1.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Lleida
+Vila-real B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-60.3
+60.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-12.2
+5.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-24%
+20%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.1
+1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0.8
+1.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -919,13 +919,13 @@ Espanyol B
 59.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-13.6
+13.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
+2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-22%
+18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -942,16 +942,16 @@ Espanyol B
 La Nucía
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-52.6
+54.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
+3.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -960,7 +960,7 @@ La Nucía
 1.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.1
+1.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1020,10 +1020,10 @@ Ebre
 Atl. Llevant
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-47.2
+47.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--7.3
+-7.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -1046,22 +1046,22 @@ Atl. Llevant
 Nàstic
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-46.9
+45.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--1.8
+-4.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-2%
+4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.3
+1.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 1.3
@@ -1072,25 +1072,25 @@ Nàstic
 Llagostera
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-44.7
+44.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--8.1
+-8.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-6%
+8%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-2%
+4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.1
+1.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1101,16 +1101,16 @@ Eixea
 39.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--11.2
+-11.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-26%
+22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-34%
+38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0.9
@@ -1124,19 +1124,19 @@ Eixea
 València Mestalla
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-39.0
+38.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
--6.7
+-6.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-24%
+22%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-32%
+36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 0.9
@@ -1147,13 +1147,13 @@ València Mestalla
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffe7e5 !important;&#34;&gt;
-Hèrcules
+Prat
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-35.8
+36.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
--11.6
+-19.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 &amp;lt;1%
@@ -1162,7 +1162,33 @@ Hèrcules
 16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-70%
+66%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffe7e5 !important;&#34;&gt;
+Hèrcules
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
+35.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
+-11.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
+72%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 0.9
@@ -1172,55 +1198,29 @@ Hèrcules
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffe7e5 !important;&#34;&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffdedb !important;&#34;&gt;
 Badalona
 &lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-35.3
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+34.5
 &lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
--19.6
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+-20.7
 &lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-14%
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+8%
 &lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-76%
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+84%
 &lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-0.7
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
+0.6
 &lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 1.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffdedb !important;&#34;&gt;
-Prat
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-33.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
--25.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-&amp;lt;1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-6%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-90%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-0.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-1.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1228,10 +1228,10 @@ Prat
 Oriola
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-31.3
+31.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
--30.1
+-29.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 &amp;lt;1%
@@ -1253,7 +1253,7 @@ Oriola
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 08 Mar 2020, 14:10:09
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 08 Mar 2020, 23:03:34
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;

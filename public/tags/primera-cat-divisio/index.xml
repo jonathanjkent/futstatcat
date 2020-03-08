@@ -83,10 +83,10 @@ GC
 Girona B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-88.5
+88.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-65.5
+64.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 &amp;gt;99%
@@ -109,16 +109,16 @@ Girona B
 FE Grama
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-60.2
+61.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-17.1
+18.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-46%
+62%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 &amp;lt;1%
@@ -132,19 +132,45 @@ FE Grama
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Vic
+Manlleu
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-59.3
+57.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-27.2
+12.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-40%
+14%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Vic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+56.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+24.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+14%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -153,33 +179,7 @@ Vic
 1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Manlleu
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-56.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-11.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-12%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.2
+0.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -187,16 +187,16 @@ Manlleu
 Palamós
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-53.9
+56.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-11.4
+16.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-4%
+10%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -205,7 +205,7 @@ Palamós
 1.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.4
+1.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -213,16 +213,16 @@ Palamós
 Guineueta
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-49.3
+52.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-13.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
+15.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -239,10 +239,10 @@ Guineueta
 Mataró
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-44.8
+45.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--2.4
+-2.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -262,19 +262,45 @@ Mataró
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Lloret
+Júpiter
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-38.4
+40.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--8.0
+-5.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-6%
+2%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Lloret
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+38.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+-7.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 2%
@@ -291,22 +317,22 @@ Lloret
 L’Escala
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-38.3
+37.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--7.6
+-9.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+6%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 4%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-2%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.2
+1.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 1.5
@@ -314,71 +340,19 @@ L’Escala
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Júpiter
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-37.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--8.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-8%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-4%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Sabadell Nord
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-36.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--15.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-10%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-8%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
 Rubí
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-36.7
+36.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--21.6
+-22.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-12%
+14%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 8%
@@ -395,10 +369,10 @@ Rubí
 Mollet
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-35.0
+34.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--5.2
+-5.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -417,29 +391,55 @@ Mollet
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #fffad1 !important;&#34;&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
 La Jonquera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+34.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+-16.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+12%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #fffad1 !important;&#34;&gt;
+Sabadell Nord
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 34.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
--17.3
+-20.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-20%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-0.7
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-1.2
+1.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
+1.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -447,25 +447,25 @@ La Jonquera
 Tona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-30.4
+29.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
--14.2
+-15.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-16%
+14%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-58%
+64%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 0.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-1.2
+1.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -473,10 +473,10 @@ Tona
 Parets
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-27.3
+27.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
--22.7
+-25.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 &amp;lt;1%
@@ -491,7 +491,7 @@ Parets
 1.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-1.9
+2.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -499,10 +499,10 @@ Parets
 Llagostera B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-23.7
+23.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
--24.2
+-22.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 &amp;lt;1%
@@ -511,7 +511,7 @@ Llagostera B
 2%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
-98%
+96%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 0.7
@@ -524,7 +524,7 @@ Llagostera B
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 08 Mar 2020, 14:09:46
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 08 Mar 2020, 23:03:07
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -606,10 +606,10 @@ GC
 Muntanyesa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-84.9
+85.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-59.9
+57.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 &amp;gt;99%
@@ -621,7 +621,7 @@ Muntanyesa
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
-2.1
+2.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 0.6
@@ -632,16 +632,16 @@ Muntanyesa
 Santboià
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-68.1
+65.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-34.1
+30.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-74%
+50%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 &amp;lt;1%
@@ -650,33 +650,7 @@ Santboià
 1.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-0.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Martinenc
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-63.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-27.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-18%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0.8
+0.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -684,16 +658,16 @@ Martinenc
 Valls
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-61.2
+64.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-15.7
+19.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-8%
+30%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -707,13 +681,39 @@ Valls
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Martinenc
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+62.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+26.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+18%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
 At. Sant Just
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-55.4
+55.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-18.8
+18.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -733,16 +733,13 @@ At. Sant Just
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Gavà
+Almacelles
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-52.1
+51.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-6.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
+-2.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -751,21 +748,24 @@ Gavà
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.4
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 1.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Almacelles
+Gavà
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-51.7
+51.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--2.9
+5.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -780,7 +780,7 @@ Almacelles
 1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.4
+1.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -788,13 +788,10 @@ Almacelles
 Ascó
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-50.5
+50.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-9.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
+9.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -803,7 +800,10 @@ Ascó
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.4
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 1.2
@@ -814,10 +814,10 @@ Ascó
 Vilanova
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-49.4
+49.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-3.3
+2.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -832,7 +832,7 @@ Vilanova
 1.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.6
+1.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -840,10 +840,10 @@ Vilanova
 Vista Alegre
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-47.3
+47.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-0.8
+2.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -858,7 +858,7 @@ Vista Alegre
 1.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.1
+1.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -866,19 +866,19 @@ Vista Alegre
 Mollerussa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-43.8
+41.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--6.2
+-8.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-4%
+12%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-2%
+8%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 1.0
@@ -892,22 +892,22 @@ Mollerussa
 Tàrrega
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-42.7
+41.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--10.5
+-11.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-8%
+16%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-4%
+12%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.1
+1.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 1.4
@@ -915,28 +915,28 @@ Tàrrega
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Can Vidalet
+Martorell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-38.5
+39.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--6.9
+-13.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-22%
+24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-20%
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+0.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 1.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -944,19 +944,19 @@ Can Vidalet
 Viladecans
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-36.7
+38.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
--16.0
+-13.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-30%
+24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
-36%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 1.1
@@ -967,65 +967,65 @@ Viladecans
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffe7e5 !important;&#34;&gt;
-Martorell
+Can Vidalet
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-36.3
+38.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
--16.7
+-5.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 &amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
+20%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-44%
+1.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-0.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-1.3
+1.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffe7e5 !important;&#34;&gt;
-Alcarràs
+St. Ildefons
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-28.4
+26.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
--31.4
+-42.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-4%
+&amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-96%
+&amp;gt;99%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-1.1
+1.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-2.0
+2.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffdedb !important;&#34;&gt;
-St. Ildefons
+Alcarràs
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-23.5
+25.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
--47.5
+-36.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 &amp;lt;1%
@@ -1037,10 +1037,10 @@ St. Ildefons
 &amp;gt;99%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-0.9
+1.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-2.1
+2.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1051,7 +1051,7 @@ El Catllar
 19.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
--38.1
+-37.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 &amp;lt;1%
@@ -1073,7 +1073,7 @@ El Catllar
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 08 Mar 2020, 14:09:54
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 08 Mar 2020, 23:03:15
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
