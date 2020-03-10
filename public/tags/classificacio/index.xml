@@ -144,7 +144,7 @@ Sevilla
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
-72%
+68%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
 &amp;lt;1%
@@ -170,7 +170,7 @@ Getafe
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
-58%
+54%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 &amp;lt;1%
@@ -180,6 +180,32 @@ Getafe
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 0.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Reial Societat
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+63.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+16.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+46%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -196,7 +222,7 @@ Atlètic Madrid
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-30%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -210,36 +236,10 @@ Atlètic Madrid
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Reial Societat
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-62.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-15.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-32%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
 València
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-57.3
+57.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -1.1
@@ -343,7 +343,7 @@ Athletic
 Betis
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-48.4
+48.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 -4.3
@@ -395,10 +395,10 @@ Osasuna
 Llevant
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-46.8
+46.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--9.7
+-9.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -447,10 +447,10 @@ Alavés
 Valladolid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-41.2
+41.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--13.7
+-13.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 &amp;lt;1%
@@ -470,32 +470,6 @@ Valladolid
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Eibar
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-39.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
--19.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-&amp;lt;1%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-18%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-1.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
 Celta
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
@@ -511,13 +485,39 @@ Celta
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
-22%
+20%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 0.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 1.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
+Eibar
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+38.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+-20.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+&amp;lt;1%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+26%
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
+1.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -537,7 +537,7 @@ Mallorca
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
-70%
+66%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 1.0
@@ -563,7 +563,7 @@ Leganés
 &amp;lt;1%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
-84%
+82%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 0.8
@@ -602,7 +602,7 @@ Espanyol
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 20:07:22
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 22:40:52
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -1099,7 +1099,7 @@ Espanyol
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 20:07:30
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 22:41:00
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -1751,7 +1751,7 @@ Racing
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 20:08:05
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 22:41:26
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -2351,7 +2351,7 @@ Oriola
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 20:08:16
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 22:41:36
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -2952,7 +2952,7 @@ Reus
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 20:08:25
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 22:41:44
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -3475,7 +3475,7 @@ Llagostera B
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 20:07:41
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 22:41:08
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -4024,7 +4024,7 @@ El Catllar
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 20:07:52
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 22:41:17
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;

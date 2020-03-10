@@ -67,26 +67,6 @@ Equip
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-24
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Eibar
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-28%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-26%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-46%
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
-Reial Societat
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
@@ -233,7 +213,7 @@ Barça
 Reial Madrid
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-82%
+84%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 12%
@@ -259,7 +239,7 @@ Reial Societat
 18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-16%
+14%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Osasuna
@@ -353,13 +333,13 @@ Granada
 Eibar
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-30%
+28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-38%
+40%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Athletic
@@ -619,7 +599,7 @@ Mallorca
 28%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-22%
+24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Leganés
@@ -639,7 +619,7 @@ Reial Societat
 26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-46%
+44%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Reial Madrid
@@ -733,13 +713,13 @@ Athletic
 Eibar
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-38%
+36%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-36%
+38%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 València
@@ -979,7 +959,7 @@ Getafe
 26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-22%
+24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Reial Societat
@@ -1153,13 +1133,13 @@ Vila-real
 Eibar
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-42%
+40%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-32%
+34%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Osasuna
@@ -1233,7 +1213,7 @@ Getafe
 Reial Societat
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-76%
+78%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 14%
@@ -1296,7 +1276,7 @@ Athletic
 24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-34%
+32%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 42%
@@ -1439,7 +1419,7 @@ Sevilla
 18%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-12%
+10%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: #F9F9F9 !important;&#34;&gt;
 Eibar
@@ -1653,7 +1633,7 @@ Alavés
 Reial Societat
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-56%
+58%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
 24%
@@ -1853,7 +1833,7 @@ Mallorca
 Vila-real
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-46%
+44%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 22%
@@ -1979,7 +1959,7 @@ Reial Societat
 24%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: white !important;&#34;&gt;
-28%
+26%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;color: #303030 !important;background-color: white !important;&#34;&gt;
 Sevilla
@@ -2193,7 +2173,7 @@ Barça
 Vila-real
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
-66%
+68%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #F9F9F9 !important;&#34;&gt;
 18%
@@ -2289,7 +2269,7 @@ Betis
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 20:07:19
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 22:40:50
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -3795,7 +3775,7 @@ Granadilla
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 20:07:28
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 22:40:57
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -6281,7 +6261,7 @@ Ponferradina
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 20:08:01
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 22:41:23
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -8347,7 +8327,7 @@ Vila-real B
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 20:08:12
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 22:41:33
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -10393,7 +10373,7 @@ Banyoles
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 20:08:22
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 22:41:42
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -12219,7 +12199,7 @@ Manlleu
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 20:07:38
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 22:41:06
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
@@ -14265,7 +14245,7 @@ At. Sant Just
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 20:07:48
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 10 Mar 2020, 22:41:15
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;
