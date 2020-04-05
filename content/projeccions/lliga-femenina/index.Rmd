@@ -23,6 +23,11 @@ title: Lliga Femenina
 ```{r echo=F}
 library(kableExtra)
 table.prifem <- read.csv("~/Google Drive/Futbol/final-prifem.csv")
+table.prifem$linkteam <- iconv(table.prifem$team,to="ASCII//TRANSLIT")
+table.prifem$linkteam <- gsub("[[:space:]]", "", table.prifem$linkteam)
+table.prifem$linkteam <- gsub("[[:punct:]]", "", table.prifem$linkteam)
+table.prifem$team <- paste0("[", table.prifem$team, "](/clubs/", table.prifem$linkteam,"prifem)")
+table.prifem <- table.prifem[1:(length(table.prifem)-1)]
 kable(table.prifem, digits = 1, align = "lccccccc", row.names = FALSE, col.names = c("Club", "Punts", "GD", "Campió", "UEFA", "Descens", "GF", "GC"))  %>%
   kable_styling(bootstrap_options = c("hover", "responsive"), fixed_thead = T) %>%
   add_header_above(c("2019-2020" = 1, "Projecció" = 2, "Probabilitat" = 3, "xGols" = 2), background = "white") %>%

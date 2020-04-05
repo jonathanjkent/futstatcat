@@ -23,6 +23,11 @@ title: Segona B, Grup III
 ```{r echo=F}
 library(kableExtra)
 table.2aBG3 <- read.csv("~/Google Drive/Futbol/final-2aBG3.csv")
+table.2aBG3$linkteam <- iconv(table.2aBG3$team,to="ASCII//TRANSLIT")
+table.2aBG3$linkteam <- gsub("[[:space:]]", "", table.2aBG3$linkteam)
+table.2aBG3$linkteam <- gsub("[[:punct:]]", "", table.2aBG3$linkteam)
+table.2aBG3$team <- paste0("[", table.2aBG3$team, "](/clubs/", table.2aBG3$linkteam,"2aBG3)")
+table.2aBG3 <- table.2aBG3[1:(length(table.2aBG3)-1)]
 kable(table.2aBG3, digits = 1, align = "lccccccc", row.names = FALSE, col.names = c("Club", "Punts", "GD", "Campió", "Playoffs", "Descens", "GF", "GC"))  %>%
   kable_styling(bootstrap_options = c("hover", "responsive"), fixed_thead = T) %>%
   add_header_above(c("2019-2020" = 1, "Projecció" = 2, "Probabilitat" = 3, "xGols" = 2), background = "white") %>%

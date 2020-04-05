@@ -23,6 +23,11 @@ title: Primera Catalana, Grup II
 ```{r echo=F}
 library(kableExtra)
 table.primcat2 <- read.csv("~/Google Drive/Futbol/final-primcat2.csv")
+table.primcat2$linkteam <- iconv(table.primcat2$team,to="ASCII//TRANSLIT")
+table.primcat2$linkteam <- gsub("[[:space:]]", "", table.primcat2$linkteam)
+table.primcat2$linkteam <- gsub("[[:punct:]]", "", table.primcat2$linkteam)
+table.primcat2$team <- paste0("[", table.primcat2$team, "](/clubs/", table.primcat2$linkteam,"primcat2)")
+table.primcat2 <- table.primcat2[1:(length(table.primcat2)-1)]
 kable(table.primcat2, digits = 1, align = "lccccccc", row.names = FALSE, col.names = c("Club", "Punts", "GD", "Campió", "Playoffs", "Descens", "GF", "GC"))  %>%
   kable_styling(bootstrap_options = c("hover", "responsive"), fixed_thead = T) %>%
   add_header_above(c("2019-2020" = 1, "Projecció" = 2, "Probabilitat" = 3, "xGols" = 2), background = "white") %>%

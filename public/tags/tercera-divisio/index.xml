@@ -80,7 +80,7 @@ GC
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #c7ffd0 !important;&#34;&gt;
-L’Hospitalet
+&lt;a href=&#34;/clubs/LHospitalet3aG5&#34;&gt;L’Hospitalet&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #c7ffd0 !important;&#34;&gt;
 78.2
@@ -106,7 +106,7 @@ L’Hospitalet
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #fffad1 !important;&#34;&gt;
-Terrassa
+&lt;a href=&#34;/clubs/Terrassa3aG5&#34;&gt;Terrassa&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffad1 !important;&#34;&gt;
 76.0
@@ -132,7 +132,7 @@ Terrassa
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #fffbdb !important;&#34;&gt;
-Sant Andreu
+&lt;a href=&#34;/clubs/SantAndreu3aG5&#34;&gt;Sant Andreu&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffbdb !important;&#34;&gt;
 73.1
@@ -158,7 +158,7 @@ Sant Andreu
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #fffce5 !important;&#34;&gt;
-Europa
+&lt;a href=&#34;/clubs/Europa3aG5&#34;&gt;Europa&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #fffce5 !important;&#34;&gt;
 72.7
@@ -184,7 +184,7 @@ Europa
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Vilassar Mar
+&lt;a href=&#34;/clubs/VilassarMar3aG5&#34;&gt;Vilassar Mar&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 66.5
@@ -210,7 +210,7 @@ Vilassar Mar
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Granollers
+&lt;a href=&#34;/clubs/Granollers3aG5&#34;&gt;Granollers&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 65.0
@@ -236,7 +236,7 @@ Granollers
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Vilafranca
+&lt;a href=&#34;/clubs/Vilafranca3aG5&#34;&gt;Vilafranca&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 61.8
@@ -262,7 +262,7 @@ Vilafranca
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Peralada
+&lt;a href=&#34;/clubs/Peralada3aG5&#34;&gt;Peralada&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 61.0
@@ -288,7 +288,7 @@ Peralada
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Pobla Mafumet
+&lt;a href=&#34;/clubs/PoblaMafumet3aG5&#34;&gt;Pobla Mafumet&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 55.0
@@ -314,7 +314,7 @@ Pobla Mafumet
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Cerdanyola
+&lt;a href=&#34;/clubs/Cerdanyola3aG5&#34;&gt;Cerdanyola&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 53.5
@@ -340,7 +340,7 @@ Cerdanyola
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Manresa
+&lt;a href=&#34;/clubs/Manresa3aG5&#34;&gt;Manresa&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 52.8
@@ -366,7 +366,7 @@ Manresa
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Castelldefels
+&lt;a href=&#34;/clubs/Castelldefels3aG5&#34;&gt;Castelldefels&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 52.0
@@ -392,7 +392,7 @@ Castelldefels
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Figueres
+&lt;a href=&#34;/clubs/Figueres3aG5&#34;&gt;Figueres&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 49.6
@@ -418,7 +418,7 @@ Figueres
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Horta
+&lt;a href=&#34;/clubs/Horta3aG5&#34;&gt;Horta&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 48.2
@@ -444,7 +444,7 @@ Horta
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Santfeliuenc
+&lt;a href=&#34;/clubs/Santfeliuenc3aG5&#34;&gt;Santfeliuenc&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 42.4
@@ -470,7 +470,7 @@ Santfeliuenc
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-Banyoles
+&lt;a href=&#34;/clubs/Banyoles3aG5&#34;&gt;Banyoles&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 39.8
@@ -496,7 +496,7 @@ Banyoles
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffffff !important;&#34;&gt;
-San Cristóbal
+&lt;a href=&#34;/clubs/SanCristobal3aG5&#34;&gt;San Cristóbal&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffffff !important;&#34;&gt;
 39.5
@@ -522,7 +522,7 @@ San Cristóbal
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffe7e5 !important;&#34;&gt;
-Sants
+&lt;a href=&#34;/clubs/Sants3aG5&#34;&gt;Sants&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffe7e5 !important;&#34;&gt;
 34.9
@@ -548,7 +548,7 @@ Sants
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffdedb !important;&#34;&gt;
-Igualada
+&lt;a href=&#34;/clubs/Igualada3aG5&#34;&gt;Igualada&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffdedb !important;&#34;&gt;
 32.2
@@ -574,7 +574,7 @@ Igualada
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;color: #303030 !important;background-color: #ffd5d1 !important;&#34;&gt;
-Reus
+&lt;a href=&#34;/clubs/Reus3aG5&#34;&gt;Reus&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;background-color: #ffd5d1 !important;&#34;&gt;
 0.0
@@ -602,7 +602,7 @@ Reus
 &lt;tfoot&gt;
 &lt;tr&gt;
 &lt;td style=&#34;padding: 0; border: 0;&#34; colspan=&#34;100%&#34;&gt;
-&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 04 Apr 2020, 17:43:36
+&lt;span style=&#34;font-style: italic;&#34;&gt;Actualitzat:&lt;/span&gt; &lt;sup&gt;&lt;/sup&gt; 05 Apr 2020, 17:54:36
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tfoot&gt;

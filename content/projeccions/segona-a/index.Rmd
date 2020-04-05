@@ -23,6 +23,11 @@ Projecció de la classificació final
 ```{r echo=F}
 library(kableExtra)
 table <- read.csv("~/Google Drive/Futbol/final-sega.csv")
+table$linkteam <- iconv(table$team,to="ASCII//TRANSLIT")
+table$linkteam <- gsub("[[:space:]]", "", table$linkteam)
+table$linkteam <- gsub("[[:punct:]]", "", table$linkteam)
+table$team <- paste0("[", table$team, "](/clubs/", table$linkteam,"sega)")
+table <- table[1:(length(table)-1)]
 kable(table, digits = 1, align = "lccccccc", row.names = FALSE, col.names = c("Club", "Punts", "GD", "Ascens", "Playoffs", "Descens", "GF", "GC"))  %>%
   kable_styling(bootstrap_options = c("hover", "responsive"), fixed_thead = T) %>%
   add_header_above(c("2019-2020" = 1, "Projecció" = 2, "Probabilitat" = 3, "xGols" = 2), background = "white") %>%
