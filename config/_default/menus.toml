@@ -8,34 +8,25 @@
   url = ""
   weight = 10
 
-[[main]]
-  name = "Primera Masculina"
-  url = "tags/la-liga/"
-  weight = 15
 
 [[main]]
-  name = "Primera Femenina"
-  url = "tags/lliga-femenina/"
+  name = "Primera"
+  url = "tags/primera-divisio/"
   weight = 20
 
 [[main]]
-  name = "Segona A"
-  url = "tags/segona-a/"
-  weight = 25
-
-[[main]]
-  name = "Segona B"
-  url = "tags/segona-b/"
+  name = "Segona"
+  url = "tags/segona-divisio/"
   weight = 30
 
 [[main]]
   name = "Tercera"
-  url = "tags/tercera/"
+  url = "tags/tercera-divisio/"
   weight = 40
 
 [[main]]
   name = "Primera Catalana"
-  url = "tags/primera-catalana/"
+  url = "tags/primera-cat-divisio/"
   weight = 50
 
 

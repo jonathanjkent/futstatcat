@@ -24,7 +24,7 @@ library(plotly)
 library(ggplot2)
 library(htmlwidgets)
 plot <- ggplot(prog,aes(Jornada, Punts.Projectats, color = Club)) + geom_line() + labs(y = "Punts Projectats")
-plot2 <- ggplotly(plot)
+plot2 <- ggplotly(plot, width=800, height=550)
 plot2 <- config(plot2, displayModeBar = FALSE)
 plot2
 ```
