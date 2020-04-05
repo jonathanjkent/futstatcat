@@ -160,7 +160,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
         
       </div>
 
@@ -308,6 +309,10 @@
         
 
         
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
 
         
 
@@ -326,6 +331,10 @@
 
   
   
+  <form class="d-flex align-items-center mb-3">
+    <input name="q" type="search" class="form-control" id="search-query" placeholder="Search..." autocomplete="off">
+  </form>
+  
 
   
 
@@ -337,25 +346,25 @@
   <h2>Latest</h2>
   <ul>
     
-      <li><a href="/projeccions/la-liga/">La Liga</a></li>
+      <li><a href="/clubs/alavesprimera/">Alavés</a></li>
     
-      <li><a href="/projeccions/la-liga-evolucio/">La Liga | Evolució</a></li>
+      <li><a href="/clubs/albacetesega/">Albacete</a></li>
     
-      <li><a href="/projeccions/lliga-femenina/">Lliga Femenina</a></li>
+      <li><a href="/clubs/alcarrasprimcat2/">Alcarràs</a></li>
     
-      <li><a href="/projeccions/la-liga-partits/">La Liga | Partits</a></li>
+      <li><a href="/clubs/alcorconsega/">Alcorcón</a></li>
     
-      <li><a href="/projeccions/lliga-femenina-evolucio/">Lliga Femenina | Evolució</a></li>
+      <li><a href="/clubs/almacellesprimcat2/">Almacelles</a></li>
     
-      <li><a href="/projeccions/lliga-femenina-partits/">Lliga Femenina | Partits</a></li>
+      <li><a href="/clubs/almeriasega/">Almeria</a></li>
     
-      <li><a href="/projeccions/segona-a/">Segona A</a></li>
+      <li><a href="/clubs/andorra2abg3/">Andorra</a></li>
     
-      <li><a href="/projeccions/segona-b/">Segona B, Grup III</a></li>
+      <li><a href="/clubs/ascoprimcat2/">Ascó</a></li>
     
-      <li><a href="/projeccions/segona-a-evolucio/">Segona A | Evolució</a></li>
+      <li><a href="/clubs/atsantjustprimcat2/">At. Sant Just</a></li>
     
-      <li><a href="/projeccions/segona-b-evolucio/">Segona B, Grup III | Evolució</a></li>
+      <li><a href="/clubs/athleticprifem/">Athletic</a></li>
     
   </ul>
   
@@ -400,18 +409,52 @@
     
 
     
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Entrada",
+        'project': "Projectes",
+        'publication' : "Publicació",
+        'talk' : "Conferència"
+        };
+    </script>
+    
 
     
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
     
 
     
     
-
     
     
     
@@ -419,12 +462,12 @@
     
     
     
+      
     
     
     
     
-    
-    <script src="/js/academia.min.281fa180ccfa1769ea3c7dd430814861.js"></script>
+    <script src="/js/academia.min.75978b39883a27b262f4f051da2ecf3c.js"></script>
 
     
 
