@@ -40,7 +40,7 @@ prog <- rbind(prog, level1df)
 prog <- rbind(prog, level2df)
 prog <- rbind(prog, level3df)
 p <- ggplot(data=prog) + geom_line(aes(round,points, color = team), size = 2)
-p + theme_minimal() + labs(color = "", x = "", y = "")
+p + theme_minimal() + labs(color = "", x = "Jornada", y = "Punts Projectats")
 ```
  
 ## Pròxims partits
