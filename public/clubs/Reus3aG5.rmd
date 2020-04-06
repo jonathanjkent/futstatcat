@@ -1,6 +1,6 @@
 ---
 date: "2020-04-01"
-title: "Reus"
+title: "CF Reus Deportiu"
 subtitle: "Tercera, Grup V"
 summary: "Tercera, Grup V"
 ---

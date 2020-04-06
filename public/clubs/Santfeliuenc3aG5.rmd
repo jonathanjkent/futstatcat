@@ -1,6 +1,6 @@
 ---
 date: "2020-04-01"
-title: "Santfeliuenc"
+title: "Santfeliuenc FC"
 subtitle: "Tercera, Grup V"
 summary: "Tercera, Grup V"
 ---
@@ -39,8 +39,8 @@ level3df <- level3df %>% select(-level3df)
 prog <- rbind(prog, level1df)
 prog <- rbind(prog, level2df)
 prog <- rbind(prog, level3df)
-p <- ggplot(data=prog) + geom_line(aes(round,points, color = team))
-p + theme_minimal() + labs(color = "", x = "Jornada", y = "Punts Projectats")
+p <- ggplot(data=prog) + geom_line(aes(round,points, color = team), size = 2)
+p + theme_minimal() + labs(color = "", x = "", y = "")
 ```
  
 ## Pròxims partits
