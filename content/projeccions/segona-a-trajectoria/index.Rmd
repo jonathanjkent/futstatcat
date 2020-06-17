@@ -1,0 +1,22 @@
+---
+date: "2020-06-17"
+image:
+  preview_only: true
+summary: Trajectòria dels equips
+title: Segona A | Trajectòria
+---
+
+### Trajectòria dels equips des de jornada 12
+```{r, echo=F,warning=FALSE,message=FALSE}
+library(tidyverse)
+library(ggplot2)
+library(plotly)
+d <- read_csv("~/Google Drive/Futbol/data_trajectories.csv") %>% filter(league == "segunda" & type == "team")
+teams <- read_csv("~/Google Drive/Futbol/teamlist.csv") %>% select(-fullname)
+d <- d %>% left_join(teams, by = "team") %>% select(shortname, points, round)
+names(d) <- c("Club", "Punts.Projectats", "Jornada")
+plot <- ggplot() + geom_line(data = d, aes(Jornada, Punts.Projectats, color = Club)) + theme_minimal()
+plot2 <- ggplotly(plot, width=875, height=600)
+plot2 <- config(plot2, displayModeBar = FALSE)
+plot2
+```

@@ -24,20 +24,9 @@ subtitle = "Projeccions i Probabilitats"
 
 
   [[content.filter_button]]
-    name = "Primera"
-    tag = "Primera Divisió"
-  
-  [[content.filter_button]]
-    name = "Segona"
-    tag = "Segona Divisió"
-  
-  [[content.filter_button]]
-    name = "Tercera"
-    tag = "Tercera Divisió"
-  
-  [[content.filter_button]]
-    name = "Primera Catalana"
-    tag = "Primera Cat Divisió"
+    name = "Estiu 2020"
+    tag = "Estiu 2020"
+ 
     
     
 

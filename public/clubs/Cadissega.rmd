@@ -4,7 +4,7 @@ title: "Cadis CF"
 subtitle: "Segona A"
 summary: "Segona A"
 ---
-## Evolució dels punts projectats
+## Trajectòria
 ```{r fig.width=8, fig.height=5, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)
 library(ggplot2)

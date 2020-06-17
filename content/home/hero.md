@@ -42,4 +42,4 @@ hero_media = "heroimg.png"
 +++
 ## Projeccions de Futbol Català
 
-Les projeccions aquí es basen en el model [Dixon-Coles](https://rss.onlinelibrary.wiley.com/doi/10.1111/1467-9876.00065) de “[goalmodel](https://github.com/opisthokonta/goalmodel)” i 100.000 simulacions dels pròxims partits. Ara mateix hi ha projeccions de la Primera Nacional a la Primera Catalana. Vols una altra divisió? Diga'm aquí: [@FutStatCat](https://twitter.com/futstatcat)
+Les projeccions aquí es basen en el model [Dixon-Coles](https://rss.onlinelibrary.wiley.com/doi/10.1111/1467-9876.00065) de “[goalmodel](https://github.com/opisthokonta/goalmodel)” i 10.000 simulacions dels pròxims partits. 

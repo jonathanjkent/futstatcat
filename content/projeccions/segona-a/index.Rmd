@@ -1,47 +1,27 @@
 ---
-date: "2020-02-21"
-external_link: null
+date: "2020-06-17"
 image:
-  caption: 
-  focal_point: Smart
   preview_only: true
-summary: Projecció de la classificació i més
+summary: Campió Projectat, Cadis
 tags:
-- Segona A
-- Masculí
-- Classificació
-- Segona Divisió
+  - Estiu 2020
 title: Segona A
 ---
-Projecció de la classificació final
-
-* [Evolució de la classificació projectada](https://futstat.cat/projeccions/segona-a-evolucio/)
-<br>
-* [Probabilitats dels pròxims partits](https://futstat.cat/projeccions/segona-a-partits/)
+ | [Trajectòria dels equips](/projeccions/segona-a-trajectoria/) |
 <br>
 <br>
-```{r echo=F}
+```{r echo=F,warning=FALSE,message=FALSE}
+library(tidyverse)
 library(kableExtra)
-table <- read.csv("~/Google Drive/Futbol/final-sega.csv")
-table$linkteam <- iconv(table$team,to="ASCII//TRANSLIT")
-table$linkteam <- gsub("[[:space:]]", "", table$linkteam)
-table$linkteam <- gsub("[[:punct:]]", "", table$linkteam)
-table$team <- paste0("[", table$team, "](/clubs/", table$linkteam,"sega)")
-table <- table[1:(length(table)-1)]
-kable(table, digits = 1, align = "lccccccc", row.names = FALSE, col.names = c("Club", "Punts", "GD", "Ascens", "Playoffs", "Descens", "GF", "GC"))  %>%
-  kable_styling(bootstrap_options = c("hover", "responsive"), fixed_thead = T) %>%
-  add_header_above(c("2019-2020" = 1, "Projecció" = 2, "Probabilitat" = 3, "xGols" = 2), background = "white") %>%
-  column_spec(1, bold = T, color = "#303030") %>%
-  row_spec(1, background = "#c7ffd0") %>%
-  row_spec(2, background = "#d1ffd9") %>%
-  row_spec(3, background = "#fffad1") %>%
-  row_spec(4, background = "#fffbdb") %>%
-  row_spec(5, background = "#fffce5") %>%
-  row_spec(6, background = "#fffce5") %>%
-  row_spec(7:18, background = "#ffffff") %>%
-  row_spec(19, background = "#ffe7e5") %>%
-  row_spec(20, background = "#ffe7e5") %>%
-  row_spec(21, background = "#ffdedb") %>%
-  row_spec(22, background = "#ffd5d1") %>%
-  footnote(general = format(Sys.time(), "%d %b %Y, %X"), general_title = "Actualitzat:", footnote_as_chunk = T)
+teamnames <- read_csv("~/Google Drive/Futbol/teamlist.csv")
+table <- read_csv("~/Google Drive/Futbol/data_tables.csv")
+table <- table %>% filter(league == 'segunda')
+table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
+table <- table[complete.cases(table),]
+table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
+table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
+table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
+table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
+table <- table %>% select(-shortname,-fullname,-league,-linkteam)
+kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Ascens', 'Playoffs', 'Descens', 'Favor', 'Contra')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Probabilitat (%)' = 3, 'xGols' = 2)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(6, border_right = T)
 ```

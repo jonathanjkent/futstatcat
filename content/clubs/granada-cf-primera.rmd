@@ -1,0 +1,31 @@
+---
+date: "2020-06-17"
+title: 'Granada CF'
+subtitle: 'La Liga'
+summary: 'La Liga'
+---
+### Trajectòria
+```{r fig.width=8, fig.height=5, echo=F,warning=FALSE,message=FALSE}
+library(tidyverse)
+library(ggplot2)
+d <- read_csv("~/Google Drive/Futbol/data_trajectories.csv")
+d1 <- d %>% filter(team == '/Granada')
+d1$team <- "Punts del club"
+d2 <- d %>% filter(league == 'primera' & type == 'level')
+d <- rbind(d1,d2)
+p <- ggplot(data=d) + geom_line(aes(round,points, color = team), size = 1.5)
+p + theme_minimal() + labs(color = "Projeccions", x = "Jornada", y = "Punts Projectats")
+```
+ 
+### Pròxims partits
+```{r echo=F,warning=FALSE,message=FALSE}
+library(kableExtra)
+teamnames <- read_csv("~/Google Drive/Futbol/teamlist.csv") %>% select(-fullname)
+games <- read_csv("~/Google Drive/Futbol/data_games.csv")
+games <- games %>% filter(team1 == '/Granada' | team2 == '/Granada')
+names(teamnames) <- c("home", "team1")
+games <- games %>% left_join(teamnames, by = "team1")
+names(teamnames) <- c("away", "team2")
+games <- games %>% left_join(teamnames, by = "team2") %>% select(jornada, home, p1, pd, p2, away)
+kable(games, digits = 1, align = "c", row.names = FALSE, col.names = c("Jornada", "Equip", "Guanyar", "Empatar", "Guanyar", "Equip")) %>% add_header_above(c("2019-20" = 1, "Local" = 2, "(%)" = 1, "Visitant" = 2)) %>% column_spec(2, bold = T) %>% column_spec(6, bold = T)
+```

@@ -4,7 +4,7 @@ title: "Valls UE"
 subtitle: "Primera Catalana, Grup II"
 summary: "Primera Catalana, Grup II"
 ---
-## Evolució dels punts projectats
+## Trajectòria
 ```{r fig.width=8, fig.height=5, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)
 library(ggplot2)

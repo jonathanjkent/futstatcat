@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Clubs
+title: "Clubs"
 view: 3
 ---
