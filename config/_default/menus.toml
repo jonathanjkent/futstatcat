@@ -11,13 +11,18 @@
 
 [[main]]
   name = "Primera"
-  url = "projeccions/la-liga/"
+  url = "competicions/la-liga/"
   weight = 20
 
 [[main]]
-  name = "Segona"
-  url = "projeccions/segona-a/"
+  name = "Segona A"
+  url = "competicions/segona-a/"
   weight = 30
+
+[[main]]
+  name = "Tercera, Grup V"
+  url = "competicions/tercera/"
+  weight = 40
 
 
 
