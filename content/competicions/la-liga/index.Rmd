@@ -7,7 +7,7 @@ tags:
   - Estiu 2020
 title: La Liga
 ---
- | [Trajectòria dels equips](/projeccions/la-liga-trajectoria/) |
+ | [Trajectòria dels equips](/competicions/la-liga-trajectoria/) |
 <br>
 <br>
 ```{r echo=F,warning=FALSE,message=FALSE}

@@ -7,7 +7,7 @@ tags:
   - Estiu 2020
 title: Segona A
 ---
- | [Trajectòria dels equips](/projeccions/segona-a-trajectoria/) |
+ | [Trajectòria dels equips](/competicions/segona-a-trajectoria/) |
 <br>
 <br>
 ```{r echo=F,warning=FALSE,message=FALSE}

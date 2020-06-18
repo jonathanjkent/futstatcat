@@ -1,0 +1,17 @@
+---
+date: "2020-06-17"
+external_link: null
+image:
+  preview_only: true
+summary: Probabilitats dels playoffs
+tags:
+- Estiu 2020
+title: Tercera, Grup V
+---
+```{r echo=F,warning=FALSE,message=FALSE}
+library(kableExtra)
+d <- read.csv("~/Google Drive/Futbol/playoffs_3div5.csv")
+kable(d, digits = 1, align = "lcccc")  %>%
+  add_header_above(c("Playoffs" = 1, "Probabilitat (%)" = 2, "xGols" = 2)) %>%
+  column_spec(1, bold = T,border_right = T) %>% column_spec(3, border_right = T)
+```
