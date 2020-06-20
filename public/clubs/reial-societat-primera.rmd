@@ -11,7 +11,7 @@ library(ggplot2)
 d <- read_csv("~/Google Drive/Futbol/data_trajectories.csv")
 d1 <- d %>% filter(team == '/Real-Sociedad')
 d1$team <- "Punts del club"
-d2 <- d %>% filter(league == 'primera' & type == 'level')
+d2 <- d %>% filter(league == 'primera' & (type == 'level' | type == 'typex'))
 d <- rbind(d1,d2)
 p <- ggplot(data=d) + geom_line(aes(round,points, color = team), size = 1.5)
 p + theme_minimal() + labs(color = "Projeccions", x = "Jornada", y = "Punts Projectats")
