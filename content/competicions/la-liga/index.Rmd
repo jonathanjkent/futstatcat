@@ -23,5 +23,5 @@ table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
 table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
 table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
 table <- table %>% select(-shortname,-fullname,-league,-linkteam)
-kable(table, digits = 1, align = 'lcccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Campió', 'UCL', 'Europa', 'Descens', 'Favor', 'Contra')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Probabilitat (%)' = 4, 'xGols' = 2)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(7, border_right = T)
+kable(table, digits = 1, align = 'lccccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Campió', 'UCL', 'Europa', 'Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Probabilitat (%)' = 4, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(7, border_right = T)
 ```
