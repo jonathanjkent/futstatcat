@@ -1484,7 +1484,7 @@ Favor
 &lt;th style=&#34;text-align:center;&#34;&gt;
 Contra
 &lt;/th&gt;
-&lt;th style=&#34;text-align:left;&#34;&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
 Qualitat
 &lt;/th&gt;
 &lt;/tr&gt;
@@ -1506,7 +1506,7 @@ CE L’Hospitalet
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.4
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
 89.2
 &lt;/td&gt;
 &lt;/tr&gt;
@@ -1526,7 +1526,7 @@ Terrassa FC
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.2
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
 84.1
 &lt;/td&gt;
 &lt;/tr&gt;
@@ -1546,7 +1546,7 @@ CE Europa
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.4
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
 93.2
 &lt;/td&gt;
 &lt;/tr&gt;
@@ -1566,7 +1566,7 @@ UE Sant Andreu
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.4
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
 84.2
 &lt;/td&gt;
 &lt;/tr&gt;
