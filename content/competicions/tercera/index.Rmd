@@ -11,7 +11,6 @@ title: Tercera, Grup V
 ```{r echo=F,warning=FALSE,message=FALSE}
 library(kableExtra)
 d <- read.csv("~/Google Drive/Futbol/playoffs_3div5.csv")
-d$Qualitat <- (d$Favor - d$Contra + 3)*20
 kable(d, digits = 1, align = "lccccc")  %>%
   add_header_above(c("Playoffs" = 1, "Probabilitat (%)" = 2, "xGols" = 3)) %>%
   column_spec(1, bold = T,border_right = T) %>% column_spec(3, border_right = T)
