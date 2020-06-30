@@ -8,20 +8,20 @@ summary: 'Segona A'
 ```{r fig.width=8, fig.height=5, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)
 library(ggplot2)
-d <- read_csv("~/Google Drive/Futbol/data_trajectories.csv")
-d1 <- d %>% filter(team == '/Elche')
-d1$team <- "Punts del club"
-d2 <- d %>% filter(league == 'segunda' & type == 'level')
-d <- rbind(d1,d2)
-p <- ggplot(data=d) + geom_line(aes(round,points, color = team), size = 1.5)
-p + theme_minimal() + labs(color = "Projeccions", x = "Jornada", y = "Punts Projectats")
+d <- read_csv('~/Google Drive/Futbol/data_trajectories.csv', col_types = cols()) %>% filter(team == '/Elche')
+h <- read_csv('~/Google Drive/Futbol/data_tables.csv', col_types = cols()) %>% filter(league == 'segunda')
+type1 <- as.numeric(h[2,2] + h[3,2])/2
+type2 <- as.numeric(h[7,2] + h[8,2])/2
+type3 <- as.numeric(h[18,2] + h[19,2])/2
+p <- ggplot(data=d) + geom_line(aes(round,points), size = 1.5, color = 'blue') + geom_hline(aes(yintercept=type1), linetype='dashed', color='#5c5c5c') + geom_text(aes(0,type1,label = 'Top 2', vjust = -.5, hjust = 'left'), color='#5c5c5c') + geom_hline(aes(yintercept=type2), linetype='dashed', color='#5c5c5c') + geom_text(aes(0,type2,label = 'Top 6', vjust = -.5, hjust = 'left'), color='#5c5c5c') + geom_hline(aes(yintercept=type3), linetype='dashed', color='#5c5c5c') + geom_text(aes(0,type3,label = 'Descens', vjust = -.5, hjust = 'left'), color='#5c5c5c')
+p + theme_minimal() + labs(x = "Jornada", y = "Punts Projectats")
 ```
  
 ### Pròxims partits
 ```{r echo=F,warning=FALSE,message=FALSE}
 library(kableExtra)
-teamnames <- read_csv("~/Google Drive/Futbol/teamlist.csv") %>% select(-fullname)
-games <- read_csv("~/Google Drive/Futbol/data_games.csv")
+teamnames <- read_csv("~/Google Drive/Futbol/teamlist.csv", col_types = cols()) %>% select(-fullname)
+games <- read_csv("~/Google Drive/Futbol/data_games.csv", col_types = cols())
 games <- games %>% filter(team1 == '/Elche' | team2 == '/Elche')
 names(teamnames) <- c("home", "team1")
 games <- games %>% left_join(teamnames, by = "team1")

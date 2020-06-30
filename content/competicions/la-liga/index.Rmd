@@ -13,8 +13,8 @@ title: La Liga
 ```{r echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)
 library(kableExtra)
-teamnames <- read_csv("~/Google Drive/Futbol/teamlist.csv")
-table <- read_csv("~/Google Drive/Futbol/data_tables.csv")
+teamnames <- read_csv("~/Google Drive/Futbol/teamlist.csv", col_types = cols())
+table <- read_csv("~/Google Drive/Futbol/data_tables.csv", col_types = cols())
 table <- table %>% filter(league == 'primera')
 table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
 table <- table[complete.cases(table),]
