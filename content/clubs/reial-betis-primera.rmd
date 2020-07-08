@@ -6,10 +6,10 @@ summary: 'La Liga'
 ---
 ### Trajectòria
 ```{r fig.width=8, fig.height=5, echo=F,warning=FALSE,message=FALSE}
-library(tidyverse)
+library(dplyr)
 library(ggplot2)
-d <- read_csv('~/Google Drive/Futbol/data_trajectories.csv', col_types = cols()) %>% filter(team == '/Betis')
-h <- read_csv('~/Google Drive/Futbol/data_tables.csv', col_types = cols()) %>% filter(league == 'primera')
+d <- read.csv('~/Google Drive/Futbol/data_trajectories.csv') %>% filter(team == '/Betis')
+h <- read.csv('~/Google Drive/Futbol/data_tables.csv') %>% filter(league == 'primera')
 type1 <- as.numeric(h[1,2] + h[2,2])/2
 type2 <- as.numeric(h[5,2] + h[6,2])/2
 type3 <- as.numeric(h[17,2] + h[18,2])/2
@@ -20,8 +20,8 @@ p + theme_minimal() + labs(x = "Jornada", y = "Punts Projectats")
 ### Pròxims partits
 ```{r echo=F,warning=FALSE,message=FALSE}
 library(kableExtra)
-teamnames <- read_csv("~/Google Drive/Futbol/teamlist.csv", col_types = cols()) %>% select(-fullname)
-games <- read_csv("~/Google Drive/Futbol/data_games.csv", col_types = cols())
+teamnames <- read.csv("~/Google Drive/Futbol/teamlist.csv") %>% select(-fullname)
+games <- read.csv("~/Google Drive/Futbol/data_games.csv")
 games <- games %>% filter(team1 == '/Betis' | team2 == '/Betis')
 names(teamnames) <- c("home", "team1")
 games <- games %>% left_join(teamnames, by = "team1")

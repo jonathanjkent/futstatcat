@@ -11,10 +11,10 @@ title: Segona A
 <br>
 <br>
 ```{r echo=F,warning=FALSE,message=FALSE}
-library(tidyverse)
+library(dplyr)
 library(kableExtra)
-teamnames <- read_csv("~/Google Drive/Futbol/teamlist.csv", col_types = cols())
-table <- read_csv("~/Google Drive/Futbol/data_tables.csv", col_types = cols())
+teamnames <- read.csv("~/Google Drive/Futbol/teamlist.csv")
+table <- read.csv("~/Google Drive/Futbol/data_tables.csv")
 table <- table %>% filter(league == 'segunda')
 table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
 table <- table[complete.cases(table),]
