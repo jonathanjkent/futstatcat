@@ -4,7 +4,7 @@ title: COVID-19
 subtitle: Gràfics del coronavirus a Catalunya
 summary: Gràfics del coronavirus a Catalunya
 ---
-## Regio Sanitaria
+## Regió Sanitària
 ```{r echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)
 library(plotly)
