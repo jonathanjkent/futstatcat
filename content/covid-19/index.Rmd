@@ -1,0 +1,40 @@
+---
+date: "2020-06-17"
+title: COVID-19
+subtitle: Gràfics del coronavirus a Catalunya
+---
+## Regio Sanitaria
+```{r echo=F,warning=FALSE,message=FALSE}
+library(tidyverse)
+library(plotly)
+library(data.table)
+options(dplyr.summarise.inform=F)
+
+data <- read_csv("https://analisi.transparenciacatalunya.cat/api/views/xuwf-dxjd/rows.csv", col_types = cols())
+data$date <- as.Date(data$TipusCasData, format = "%d/%m/%Y")
+
+by_region <- data %>% filter(TipusCasDescripcio == "Positiu PCR") %>% filter(!RegioSanitariaDescripcio == "No classificat") %>% group_by(date, RegioSanitariaDescripcio) %>% summarise(cases = sum(NumCasos)) 
+by_region <- by_region %>% group_by(RegioSanitariaDescripcio) %>% mutate(casos = frollmean(cases, 7)) %>% arrange(desc(date))
+names(by_region)[2] <- "regio"
+names(by_region)[1] <- "data"
+
+p1 <- ggplot(by_region %>% filter(!data == max(data))) + geom_line(aes(data, casos, color = regio)) + theme_minimal() + labs(x = "", y = "Mitjana de casos a 7 dies", color = "")
+p1 <- ggplotly(p1, width=875, height=600)
+p1 <- config(p1, displayModeBar = FALSE)
+p1
+
+by_district <- data %>% filter(TipusCasDescripcio == "Positiu PCR") %>% filter(str_detect(SectorSanitariDescripcio, 'Barcelona')) %>% group_by(date, SectorSanitariDescripcio) %>% summarise(cases = sum(NumCasos)) 
+by_district <- by_district %>% group_by(SectorSanitariDescripcio) %>% mutate(casos = frollmean(cases, 7)) %>% arrange(desc(date))
+names(by_district)[2] <- "districte"
+by_district$districte <- str_sub(by_district$districte,10,-1)
+names(by_district)[1] <- "data"
+```
+<br>
+
+## Districte de Barcelona
+```{r echo=F,warning=FALSE,message=FALSE}
+p2 <- ggplot(by_district %>% filter(!data == max(data))) + geom_line(aes(data, casos, color = districte)) + theme_minimal() + labs(x = "", y = "Mitjana de casos a 7 dies", color = "")
+p2 <- ggplotly(p2, width=875, height=600)
+p2 <- config(p2, displayModeBar = FALSE)
+p2
+```
