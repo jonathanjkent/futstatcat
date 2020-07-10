@@ -19,7 +19,7 @@ by_region <- by_region %>% group_by(RegioSanitariaDescripcio) %>% mutate(casos =
 names(by_region)[2] <- "regio"
 names(by_region)[1] <- "data"
 
-p1 <- ggplot(by_region %>% filter(!data == max(data))) + geom_line(aes(data, casos, color = regio)) + theme_minimal() + labs(x = "", y = "Mitjana de casos a 7 dies", color = "")
+p1 <- ggplot(by_region %>% filter(!data == max(data))) + geom_line(aes(data, casos, color = regio)) + theme_minimal() + geom_vline(aes(xintercept=as.numeric(as.Date("2020-05-04"))), linetype='dashed', color='lightgrey') + geom_vline(aes(xintercept=as.numeric(as.Date("2020-06-19"))), linetype='dashed', color='lightgrey') + labs(x = "", y = "Mitjana de casos a 7 dies", color = "")
 p1 <- ggplotly(p1, width=875, height=600)
 p1 <- config(p1, displayModeBar = FALSE)
 p1
@@ -34,7 +34,7 @@ names(by_district)[1] <- "data"
 
 ## Districte de Barcelona
 ```{r echo=F,warning=FALSE,message=FALSE}
-p2 <- ggplot(by_district %>% filter(!data == max(data))) + geom_line(aes(data, casos, color = districte)) + theme_minimal() + labs(x = "", y = "Mitjana de casos a 7 dies", color = "")
+p2 <- ggplot(by_district %>% filter(!data == max(data))) + geom_line(aes(data, casos, color = districte)) + theme_minimal() + geom_vline(aes(xintercept=as.numeric(as.Date("2020-05-04"))), linetype='dashed', color='lightgrey') + geom_vline(aes(xintercept=as.numeric(as.Date("2020-06-19"))), linetype='dashed', color='lightgrey') + labs(x = "", y = "Mitjana de casos a 7 dies", color = "")
 p2 <- ggplotly(p2, width=875, height=600)
 p2 <- config(p2, displayModeBar = FALSE)
 p2
