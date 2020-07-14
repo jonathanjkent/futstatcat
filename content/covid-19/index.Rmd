@@ -12,6 +12,10 @@ library(data.table)
 options(dplyr.summarise.inform=F)
 data <- read_csv("https://analisi.transparenciacatalunya.cat/api/views/xuwf-dxjd/rows.csv", col_types = cols())
 data$date <- as.Date(data$TipusCasData, format = "%d/%m/%Y")
+update <- read_csv("~/Google Drive/Futbol/updateinfo.csv")
+updaterow <- tibble(Sys.time(), nrow(data))
+update[(nrow(update)+1),] <- updaterow
+write_csv(update, "~/Google Drive/Futbol/updateinfo.csv")
 by_region <- data %>% filter(TipusCasDescripcio == "Positiu PCR") %>% filter(!RegioSanitariaDescripcio == "No classificat") %>% group_by(date, RegioSanitariaDescripcio) %>% summarise(cases = sum(NumCasos)) 
 zero.dates <- unique(by_region$date)
 zero.dates <- zero.dates[1:(length(zero.dates)-1)]
