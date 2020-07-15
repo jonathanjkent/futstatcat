@@ -4,7 +4,7 @@ title: COVID-19
 subtitle: Evolució del coronavirus a Catalunya
 summary: Evolució del coronavirus a Catalunya
 ---
-## Catalunya
+### Catalunya
 ```{r echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)
 library(plotly)
@@ -29,7 +29,7 @@ p0 <- config(p0, displayModeBar = FALSE)
 p0
 ```
 
-## Regió Sanitària
+### Regió Sanitària
 ```{r echo=F,warning=FALSE,message=FALSE}
 by_region <- data %>% filter(TipusCasDescripcio == "Positiu PCR") %>% filter(!RegioSanitariaDescripcio == "No classificat") %>% group_by(date, RegioSanitariaDescripcio) %>% summarise(cases = sum(NumCasos)) 
 zero.dates <- unique(by_region$date)
@@ -52,7 +52,7 @@ p1
 ```
 <br>
 
-## Districte de Barcelona
+### Districte de Barcelona
 ```{r echo=F,warning=FALSE,message=FALSE}
 by_district <- data %>% filter(TipusCasDescripcio == "Positiu PCR") %>% filter(str_detect(SectorSanitariDescripcio, 'Barcelona')) %>% group_by(date, SectorSanitariDescripcio) %>% summarise(cases = sum(NumCasos)) 
 zero.dates <- unique(by_district$date)
