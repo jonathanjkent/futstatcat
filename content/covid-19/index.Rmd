@@ -1,8 +1,8 @@
 ---
 date: "2020-06-17"
 title: COVID-19
-subtitle: Gràfics del coronavirus a Catalunya
-summary: Gràfics del coronavirus a Catalunya
+subtitle: Evolució del coronavirus a Catalunya
+summary: Evolució del coronavirus a Catalunya
 ---
 ## Catalunya
 ```{r echo=F,warning=FALSE,message=FALSE}
