@@ -4,7 +4,7 @@ title: COVID-19
 subtitle: Gràfics del coronavirus a Catalunya
 summary: Gràfics del coronavirus a Catalunya
 ---
-## Regió Sanitària
+## Catalunya
 ```{r echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)
 library(plotly)
@@ -16,6 +16,20 @@ update <- read_csv("~/Google Drive/Futbol/updateinfo.csv")
 updaterow <- tibble(Sys.time(), nrow(data))
 update[(nrow(update)+1),] <- updaterow
 write_csv(update, "~/Google Drive/Futbol/updateinfo.csv")
+cat <- data %>% filter(TipusCasDescripcio == "Positiu PCR") %>% filter(!RegioSanitariaDescripcio == "No classificat") %>% group_by(date) %>% summarise(cases = sum(NumCasos)) 
+zeros <- data.frame(c(as.Date("2020-02-20"),as.Date("2020-02-21"),as.Date("2020-02-22"),as.Date("2020-02-23"),as.Date("2020-02-24"),as.Date("2020-02-25"),as.Date("2020-02-26"),as.Date("2020-02-27"),as.Date("2020-03-01"),as.Date("2020-03-03")))
+zeros$cases <- 0
+names(zeros) <- names(cat)
+cat <- rbind(zeros, cat)
+cat <- cat %>% arrange(date) %>% mutate(casos = frollmean(cases, 7)) %>% arrange(desc(date))
+
+p0 <- ggplot(cat) + geom_line(aes(date, casos), color = "red") + theme_minimal() + geom_vline(aes(xintercept=as.numeric(as.Date("2020-05-04"))), linetype='dashed', color='lightgrey') + geom_vline(aes(xintercept=as.numeric(as.Date("2020-06-19"))), linetype='dashed', color='lightgrey') + labs(x = "", y = "Mitjana de casos a 7 dies")
+p0 <- ggplotly(p0, width=875, height=600)
+p0 <- config(p0, displayModeBar = FALSE)
+p0
+```
+## Regió Sanitària
+```{r echo=F,warning=FALSE,message=FALSE}
 by_region <- data %>% filter(TipusCasDescripcio == "Positiu PCR") %>% filter(!RegioSanitariaDescripcio == "No classificat") %>% group_by(date, RegioSanitariaDescripcio) %>% summarise(cases = sum(NumCasos)) 
 zero.dates <- unique(by_region$date)
 zero.dates <- zero.dates[1:(length(zero.dates)-1)]
