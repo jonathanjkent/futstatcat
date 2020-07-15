@@ -28,6 +28,7 @@ p0 <- ggplotly(p0, width=875, height=600)
 p0 <- config(p0, displayModeBar = FALSE)
 p0
 ```
+
 ## Regió Sanitària
 ```{r echo=F,warning=FALSE,message=FALSE}
 by_region <- data %>% filter(TipusCasDescripcio == "Positiu PCR") %>% filter(!RegioSanitariaDescripcio == "No classificat") %>% group_by(date, RegioSanitariaDescripcio) %>% summarise(cases = sum(NumCasos)) 
