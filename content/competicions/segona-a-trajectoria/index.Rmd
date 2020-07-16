@@ -8,11 +8,10 @@ title: Segona A | Trajectòria
 
 ### Trajectòria dels equips des de jornada 12
 ```{r, echo=F,warning=FALSE,message=FALSE}
-library(tidyverse, quietly = T)
-library(ggplot2)
-library(plotly)
-d <- read_csv("~/Google Drive/Futbol/data_trajectories.csv", col_types = cols()) %>% filter(league == "segunda")
-teams <- read_csv("~/Google Drive/Futbol/teamlist.csv", col_types = cols()) %>% select(-fullname)
+suppressMessages(library(tidyverse))
+suppressMessages(library(plotly))
+d <- suppressMessages(read_csv("~/Google Drive/Futbol/data_trajectories.csv", col_types = cols())) %>% filter(league == "segunda")
+teams <- suppressMessages(read_csv("~/Google Drive/Futbol/teamlist.csv", col_types = cols())) %>% select(-fullname)
 d <- d %>% left_join(teams, by = "team") %>% select(shortname, points, round)
 names(d) <- c("Club", "Punts.Projectats", "Jornada")
 plot <- ggplot() + geom_line(data = d, aes(Jornada, Punts.Projectats, color = Club)) + theme_minimal()

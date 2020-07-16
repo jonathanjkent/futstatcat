@@ -6,13 +6,13 @@ summary: Evolució del coronavirus a Catalunya
 ---
 ### Catalunya
 ```{r echo=F,warning=FALSE,message=FALSE}
-library(tidyverse)
-library(plotly)
-library(data.table)
+suppressMessages(library(tidyverse))
+suppressMessages(library(plotly))
+suppressMessages(library(data.table))
 options(dplyr.summarise.inform=F)
-data <- read_csv("https://analisi.transparenciacatalunya.cat/api/views/xuwf-dxjd/rows.csv", col_types = cols())
+data <- suppressMessages(read_csv("https://analisi.transparenciacatalunya.cat/api/views/xuwf-dxjd/rows.csv", col_types = cols()))
 data$date <- as.Date(data$TipusCasData, format = "%d/%m/%Y")
-update <- read_csv("~/Google Drive/Futbol/updateinfo.csv")
+update <- suppressMessages(read_csv("~/Google Drive/Futbol/updateinfo.csv"))
 updaterow <- tibble(Sys.time(), nrow(data))
 update[(nrow(update)+1),] <- updaterow
 write_csv(update, "~/Google Drive/Futbol/updateinfo.csv")
