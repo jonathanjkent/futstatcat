@@ -74,3 +74,5 @@ p2 <- ggplotly(p2, width=875, height=600)
 p2 <- config(p2, displayModeBar = FALSE)
 p2
 ```
+<br>
+Font: [Dades Obertes Catalunya](https://analisi.transparenciacatalunya.cat/Salut/Registre-de-casos-de-COVID-19-realitzats-a-Catalun/xuwf-dxjd)
