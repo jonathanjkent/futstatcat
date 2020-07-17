@@ -11,8 +11,8 @@ title: Segona A
 <br>
 <br>
 ```{r echo=F,warning=FALSE,message=FALSE}
-library(dplyr)
-library(kableExtra)
+suppressMessages(library(dplyr))
+suppressMessages(library(kableExtra))
 teamnames <- read.csv("~/Google Drive/Futbol/teamlist.csv")
 table <- read.csv("~/Google Drive/Futbol/data_tables.csv")
 table <- table %>% filter(league == 'segunda')
