@@ -19,7 +19,6 @@
       
       <guid>/clubs/ad-alcorcon-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -28,74 +27,6 @@
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Alcorcón
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-34.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-30.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-35.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Girona
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -107,7 +38,6 @@ Girona
       
       <guid>/clubs/albacete-balompie-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -116,74 +46,6 @@ Girona
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Cadis
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-50.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-30
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-19.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Albacete
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -252,7 +114,6 @@ Albacete
       
       <guid>/clubs/cadis-cf-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -261,74 +122,6 @@ Albacete
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Cadis
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-50.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-30
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-19.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Albacete
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -359,7 +152,6 @@ Albacete
       
       <guid>/clubs/cd-lugo-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -368,74 +160,6 @@ Albacete
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Lugo
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-40
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-25.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-34.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Mirandés
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -447,7 +171,6 @@ Mirandés
       
       <guid>/clubs/cd-mirandes-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -456,74 +179,6 @@ Mirandés
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Lugo
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-40
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-25.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-34.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Mirandés
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -535,7 +190,6 @@ Mirandés
       
       <guid>/clubs/cd-numancia-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -544,74 +198,6 @@ Mirandés
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Numància
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-33
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-29.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-37.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Tenerife
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -623,7 +209,6 @@ Tenerife
       
       <guid>/clubs/cd-tenerife-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -632,74 +217,6 @@ Tenerife
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Numància
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-33
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-29.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-37.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Tenerife
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -774,13 +291,13 @@ Equip
 Deportivo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30
+30.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30
+30.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.1
+39.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Fuenlabrada
@@ -818,7 +335,6 @@ Fuenlabrada
       
       <guid>/clubs/elx-cf-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -827,74 +343,6 @@ Fuenlabrada
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Elx
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-45.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-27.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-26.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Oviedo
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -906,7 +354,6 @@ Oviedo
       
       <guid>/clubs/extremadura-ud-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -915,74 +362,6 @@ Oviedo
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Las Palmas
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-46.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-28.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-25.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Extremadura
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -1013,7 +392,6 @@ Extremadura
       
       <guid>/clubs/fc-girona-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -1022,74 +400,6 @@ Extremadura
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Alcorcón
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-34.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-30.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-35.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Girona
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -1158,7 +468,6 @@ Girona
       
       <guid>/clubs/malaga-cf-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -1167,74 +476,6 @@ Girona
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Almeria
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-40.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-32.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-27
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Màlaga
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -1246,7 +487,6 @@ Màlaga
       
       <guid>/clubs/rayo-vallecano-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -1255,74 +495,6 @@ Màlaga
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Racing
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-28.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-25.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-45.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Rayo Vallecano
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -1416,13 +588,13 @@ Equip
 Deportivo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30
+30.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30
+30.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.1
+39.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Fuenlabrada
@@ -1517,7 +689,6 @@ Fuenlabrada
       
       <guid>/clubs/reial-oviedo-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -1526,74 +697,6 @@ Fuenlabrada
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Elx
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-45.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-27.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-26.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Oviedo
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -1605,7 +708,6 @@ Oviedo
       
       <guid>/clubs/reial-racing-club-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -1614,74 +716,6 @@ Oviedo
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Racing
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-28.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-25.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-45.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Rayo Vallecano
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -1693,7 +727,6 @@ Rayo Vallecano
       
       <guid>/clubs/reial-saragossa-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -1702,74 +735,6 @@ Rayo Vallecano
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Saragossa
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-49.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-24.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-25.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Ponferradina
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -1800,7 +765,6 @@ Ponferradina
       
       <guid>/clubs/reial-sporting-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -1809,74 +773,6 @@ Ponferradina
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Sporting
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-37.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-31.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-31.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Osca
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -1926,7 +822,6 @@ Osca
       
       <guid>/clubs/sd-osca-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -1935,74 +830,6 @@ Osca
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Sporting
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-37.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-31.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-31.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Osca
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -2014,7 +841,6 @@ Osca
       
       <guid>/clubs/sd-ponferradina-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -2023,74 +849,6 @@ Osca
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Saragossa
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-49.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-24.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-25.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Ponferradina
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -2121,7 +879,6 @@ Ponferradina
       
       <guid>/clubs/ud-almeria-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -2130,74 +887,6 @@ Ponferradina
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Almeria
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-40.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-32.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-27
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Màlaga
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -2209,7 +898,6 @@ Màlaga
       
       <guid>/clubs/ud-las-palmas-segunda/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;trajectòria&#34; class=&#34;section level3&#34;&gt;
@@ -2218,74 +906,6 @@ Màlaga
 &lt;/div&gt;
 &lt;div id=&#34;pròxims-partits&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Pròxims partits&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-2019-20
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Local
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-(%)
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
-&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
-Visitant
-&lt;/div&gt;
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Jornada
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Empatar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:center;&#34;&gt;
-Equip
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Las Palmas
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-46.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-28.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-25.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Extremadura
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 </description>
     </item>
