@@ -88,10 +88,10 @@ Qualitat
 &lt;a href=&#34;/clubs/reial-madrid-cf-primera&#34;&gt;Reial Madrid&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-88.0
+87
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-45.9
+45
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 100
@@ -100,19 +100,19 @@ Qualitat
 100
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.8
+0.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-79.2
+78.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -120,10 +120,10 @@ Qualitat
 &lt;a href=&#34;/clubs/fc-barcelona-primera&#34;&gt;Barça&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-81.3
+82
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-44.4
+48
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0
@@ -132,19 +132,51 @@ Qualitat
 100
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2.1
+2.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-83.9
+85.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/clubs/sevilla-fc-primera&#34;&gt;Sevilla&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+70
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+20
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+100
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+68.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -152,10 +184,10 @@ Qualitat
 &lt;a href=&#34;/clubs/atletic-de-madrid-primera&#34;&gt;Atlètic Madrid&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-71.1
+70
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-25.0
+24
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0
@@ -164,10 +196,10 @@ Qualitat
 100
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.4
@@ -176,39 +208,7 @@ Qualitat
 0.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-73.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/clubs/sevilla-fc-primera&#34;&gt;Sevilla&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-69.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-19.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-100
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-68.5
+73.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -216,10 +216,10 @@ Qualitat
 &lt;a href=&#34;/clubs/vilareal-cf-primera&#34;&gt;Vila-real&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-58.9
+60
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-10.9
+14
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0
@@ -228,10 +228,10 @@ Qualitat
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-100.0
+100
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.5
@@ -240,7 +240,7 @@ Qualitat
 1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-64.1
+65.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -248,10 +248,10 @@ Qualitat
 &lt;a href=&#34;/clubs/reial-societat-primera&#34;&gt;Reial Societat&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-55.7
+56
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-7.0
+8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0
@@ -260,10 +260,10 @@ Qualitat
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-77.3
+100
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.4
@@ -272,39 +272,7 @@ Qualitat
 1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-62.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/clubs/getafe-cf-primera&#34;&gt;Getafe&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-55.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-6.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-64.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-61.8
+63.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -312,10 +280,10 @@ Qualitat
 &lt;a href=&#34;/clubs/granada-cf-primera&#34;&gt;Granada&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-54.6
+56
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-3.2
+7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0
@@ -324,19 +292,51 @@ Qualitat
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.7
+100
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.0
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.2
+63.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/clubs/getafe-cf-primera&#34;&gt;Getafe&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-61.0
+54
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+61.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -344,10 +344,10 @@ Qualitat
 &lt;a href=&#34;/clubs/valencia-cf-primera&#34;&gt;València&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-53.8
+53
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--6.8
+-7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0
@@ -356,10 +356,10 @@ Qualitat
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.2
@@ -368,7 +368,7 @@ Qualitat
 1.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-59.3
+59.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -376,10 +376,10 @@ Qualitat
 &lt;a href=&#34;/clubs/ca-osasuna-primera&#34;&gt;Osasuna&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.9
+52
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--7.2
+-8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0
@@ -388,19 +388,19 @@ Qualitat
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.1
+1.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-54.9
+54.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -408,10 +408,10 @@ Qualitat
 &lt;a href=&#34;/clubs/athletic-club-de-bilbao-primera&#34;&gt;Athletic&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.2
+51
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-6.8
+3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0
@@ -420,10 +420,10 @@ Qualitat
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.1
@@ -432,7 +432,7 @@ Qualitat
 1.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-61.9
+60.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -440,10 +440,10 @@ Qualitat
 &lt;a href=&#34;/clubs/llevant-ud-primera&#34;&gt;Llevant&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-47.4
+49
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--6.9
+-6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0
@@ -452,83 +452,19 @@ Qualitat
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.5
+1.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-56.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/clubs/sd-eibar-primera&#34;&gt;Eibar&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--13.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-55.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/clubs/reial-betis-primera&#34;&gt;Betis&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-42.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--10.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-55.1
+56.9
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -536,10 +472,10 @@ Qualitat
 &lt;a href=&#34;/clubs/reial-valladolid-cf-primera&#34;&gt;Valladolid&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.4
+42
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--12.9
+-11
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0
@@ -548,19 +484,83 @@ Qualitat
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+53.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/clubs/sd-eibar-primera&#34;&gt;Eibar&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+-17
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+54.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/clubs/reial-betis-primera&#34;&gt;Betis&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+41
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+-12
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
 1.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.8
+1.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+54.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -568,10 +568,10 @@ Qualitat
 &lt;a href=&#34;/clubs/deportivo-alaves-primera&#34;&gt;Alavés&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.5
+39
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--21.4
+-25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0
@@ -580,19 +580,19 @@ Qualitat
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.9
+0.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.4
+1.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-49.0
+47.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -600,10 +600,10 @@ Qualitat
 &lt;a href=&#34;/clubs/rc-celta-de-vigo-primera&#34;&gt;Celta&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.4
+37
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--12.0
+-12
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0
@@ -612,10 +612,10 @@ Qualitat
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-18.8
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.1
@@ -632,10 +632,10 @@ Qualitat
 &lt;a href=&#34;/clubs/cd-leganes-primera&#34;&gt;Leganés&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.7
+36
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--21.9
+-21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0
@@ -644,19 +644,19 @@ Qualitat
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-81.2
+100
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.8
+0.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-51.9
+52.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -664,10 +664,10 @@ Qualitat
 &lt;a href=&#34;/clubs/rcd-mallorca-primera&#34;&gt;Mallorca&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.9
+33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--25.8
+-25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0
@@ -676,19 +676,19 @@ Qualitat
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-100.0
+100
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.0
+1.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.1
+48.9
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -696,10 +696,10 @@ Qualitat
 &lt;a href=&#34;/clubs/rcd-espanyol-primera&#34;&gt;Espanyol&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.3
+25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--31.0
+-31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0
@@ -708,10 +708,10 @@ Qualitat
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-100.0
+100
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.8
@@ -830,7 +830,7 @@ Qualitat
 &lt;a href=&#34;/clubs/sd-osca-segunda&#34;&gt;Osca&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-68.3
+68.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 11.9
@@ -859,7 +859,7 @@ Qualitat
 &lt;a href=&#34;/clubs/ud-almeria-segunda&#34;&gt;Almeria&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-64.5
+64.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 19.3
@@ -917,7 +917,7 @@ Qualitat
 &lt;a href=&#34;/clubs/reial-saragossa-segunda&#34;&gt;Saragossa&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-63.7
+63.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 5.5
@@ -1004,7 +1004,7 @@ Qualitat
 &lt;a href=&#34;/clubs/rayo-vallecano-segunda&#34;&gt;Rayo Vallecano&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-58.7
+58.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 9.4
@@ -1277,7 +1277,7 @@ Qualitat
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-20.2
+19.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.0
@@ -1335,7 +1335,7 @@ Qualitat
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-60.3
+60.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.1
