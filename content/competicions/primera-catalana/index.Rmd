@@ -1,0 +1,56 @@
+---
+date: "2020-02-15"
+external_link: null
+image:
+  caption: 
+  focal_point: Smart
+  preview_only: true
+summary: Projecció del primer fase de 2020-2021
+subtitle: Projecció del primer fase de 2020-2021
+tags:
+- 2020-2021
+title: Primera Catalana
+---
+### Subgrup 1-A
+
+```{r echo=F,warning=FALSE,message=FALSE}
+suppressMessages(library(dplyr))
+suppressMessages(library(kableExtra))
+teamnames <- read.csv("~/Google Drive/Futbol/teamlist.csv")
+data <- read.csv("~/Google Drive/Futbol/primcatpreview.csv")
+table <- data %>% filter(league == 'primera_catalana_1a')
+table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
+table <- table[complete.cases(table),]
+table <- table %>% select(-fullname,-team, -league)
+kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Fase Ascens', 'Fase Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Primer Fase de 2020-2021' = 1, 'Projecció' = 2, 'Probabilitat (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
+```
+
+### Subgrup 1-B
+
+```{r echo=F,warning=FALSE,message=FALSE}
+table <- data %>% filter(league == 'primera_catalana_1b')
+table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
+table <- table[complete.cases(table),]
+table <- table %>% select(-fullname,-team, -league)
+kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Fase Ascens', 'Fase Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Primer Fase de 2020-2021' = 1, 'Projecció' = 2, 'Probabilitat (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
+```
+
+### Subgrup 2-A
+
+```{r echo=F,warning=FALSE,message=FALSE}
+table <- data %>% filter(league == 'primera_catalana_2a')
+table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
+table <- table[complete.cases(table),]
+table <- table %>% select(-fullname,-team, -league)
+kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Fase Ascens', 'Fase Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Primer Fase de 2020-2021' = 1, 'Projecció' = 2, 'Probabilitat (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
+```
+
+### Subgrup 2-B
+
+```{r echo=F,warning=FALSE,message=FALSE}
+table <- data %>% filter(league == 'primera_catalana_2b')
+table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
+table <- table[complete.cases(table),]
+table <- table %>% select(-fullname,-team, -league)
+kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Fase Ascens', 'Fase Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Primer Fase de 2020-2021' = 1, 'Projecció' = 2, 'Probabilitat (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
+```

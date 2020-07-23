@@ -26,6 +26,10 @@ subtitle = "Projeccions i Probabilitats"
   [[content.filter_button]]
     name = "Estiu 2020"
     tag = "Estiu 2020"
+
+ [[content.filter_button]]
+    name = "2020-2021"
+    tag = "2020-2021"
  
     
     
