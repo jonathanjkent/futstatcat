@@ -1,0 +1,39 @@
+---
+date: "2020-06-17"
+external_link: null
+image:
+  preview_only: true
+summary: Segona B i Tercera
+tags:
+- Estiu 2020
+title: Playoffs d'ascens
+subtitle: Probabilitat d'ascens (%)
+---
+
+### Segona B
+
+```{r echo=F,warning=FALSE,message=FALSE}
+library(kableExtra)
+library(dplyr)
+d <- read.csv("~/Google Drive/Futbol/finalsestiu20.csv")
+t <- read.csv("~/Google Drive/Futbol/teamlist.csv")
+names(d)[1] <- "team"
+d <- d %>% left_join(t, by = "team") %>% select(-team)
+names(d)[3] <- "team"
+d <- d %>% left_join(t, by = "team") %>% select(shortname.x,p1,p2,shortname.y,league)
+d$p1 <- d$p1*100
+d$p2 <- d$p2*100
+d1 <- d %>% filter(league == "segonab") %>% select(-league)
+names(d1) <- c("Equip", "Guanyar", "Guanyar", "Equip")
+kable(d1, digits = 1, align = "lccr")  %>%
+  column_spec(1, bold = T) %>% column_spec(2, border_right = T) %>% column_spec(4, bold = T)
+```
+
+### Tercera
+
+```{r echo=F,warning=FALSE,message=FALSE}
+d2 <- d %>% filter(league == "tercera") %>% select(-league)
+names(d2) <- c("Equip", "Guanyar", "Guanyar", "Equip")
+kable(d2, digits = 1, align = "lccr")  %>%
+  column_spec(1, bold = T) %>% column_spec(2, border_right = T) %>% column_spec(4, bold = T)
+```

@@ -19,8 +19,8 @@
   weight = 30
 
 [[main]]
-  name = "Tercera, Grup V"
-  url = "competicions/tercera/"
+  name = "Playoffs"
+  url = "competicions/playoffs/"
   weight = 40
 
 [[main]]

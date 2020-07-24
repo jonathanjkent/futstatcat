@@ -4,7 +4,6 @@ image:
   preview_only: true
 summary: Campió, Reial Madrid
 tags:
-  - Estiu 2020
 title: La Liga
 ---
  | [Trajectòria dels equips](/competicions/la-liga-trajectoria/) |

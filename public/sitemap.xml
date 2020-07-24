@@ -143,6 +143,11 @@
   </url>
   
   <url>
+    <loc>/competicions/playoffs/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/clubs/rayo-vallecano-segunda/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -239,11 +244,6 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/competicions/tercera/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
   
