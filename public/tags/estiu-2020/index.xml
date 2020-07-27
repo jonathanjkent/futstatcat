@@ -22,8 +22,8 @@
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;div id=&#34;segona-b&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Segona B&lt;/h3&gt;
+&lt;div id=&#34;segona-a-primera&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Segona a Primera&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -31,43 +31,56 @@
 Equip
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
+A Final
 &lt;/th&gt;
 &lt;th style=&#34;text-align:center;&#34;&gt;
-Guanyar
-&lt;/th&gt;
-&lt;th style=&#34;text-align:right;&#34;&gt;
-Equip
+Ascens
 &lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-Barça B
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-52.7
+Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-47.3
+53.4
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;font-weight: bold;&#34;&gt;
-Sabadell
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-Castelló
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-49.8
+Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-50.2
+46.6
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;font-weight: bold;&#34;&gt;
-Cornellà
+&lt;td style=&#34;text-align:center;&#34;&gt;
+25.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Elx
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+52.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Saragossa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+47.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
