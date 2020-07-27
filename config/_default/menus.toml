@@ -9,19 +9,14 @@
   weight = 10
 
 [[main]]
-  name = "Primera"
-  url = "competicions/la-liga/"
-  weight = 20
-
-[[main]]
-  name = "Segona A"
-  url = "competicions/segona-a/"
-  weight = 30
-
-[[main]]
   name = "Playoffs"
   url = "competicions/playoffs/"
   weight = 40
+
+[[main]]
+  name = "Primera Femenina"
+  url = "competicions/primera-femenina/"
+  weight = 45
 
 [[main]]
   name = "Primera Catalana"

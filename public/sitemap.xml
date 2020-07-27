@@ -123,16 +123,6 @@
   </url>
   
   <url>
-    <loc>/competicions/la-liga/</loc>
-    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/competicions/la-liga-trajectoria/</loc>
-    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/clubs/llevant-ud-primera/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -228,16 +218,6 @@
   </url>
   
   <url>
-    <loc>/competicions/segona-a/</loc>
-    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/competicions/segona-a-trajectoria/</loc>
-    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/clubs/sevilla-fc-primera/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -269,7 +249,12 @@
   
   <url>
     <loc>/tags/2020-2021/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/competicions/primera-femenina/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
