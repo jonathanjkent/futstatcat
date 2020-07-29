@@ -8,14 +8,14 @@ image:
 summary: Projecció de 2020-2021
 tags:
 - 2020-2021
-title: Primera (F)
+title: Tercera, Grup V (M)
 subtitle: Projecció de 2020-2021
 ---
 ```{r echo=F}
 suppressMessages(library(dplyr))
 suppressMessages(library(kableExtra))
 teamnames <- read.csv("~/Google Drive/Futbol/teamlist.csv")
-table <- read.csv("~/Google Drive/Futbol/fem1preview.csv")
+table <- read.csv("~/Google Drive/Futbol/3div5preview.csv")
 table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
 table <- table[complete.cases(table),]
 #table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
@@ -23,5 +23,5 @@ table <- table[complete.cases(table),]
 #table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
 #table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
 table <- table %>% select(-team,-fullname,-league,-typex)
-kable(table, digits = 1, align = 'lccccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Campió', 'UCL', 'Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Probabilitat (%)' = 3, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(6, border_right = T)
+kable(table, digits = 1, align = 'lccccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Campió', 'Playoffs', 'Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Probabilitat (%)' = 3, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(6, border_right = T)
 ```

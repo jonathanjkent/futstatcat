@@ -14,13 +14,8 @@
   weight = 40
 
 [[main]]
-  name = "Primera Femenina"
-  url = "competicions/primera-femenina/"
-  weight = 45
-
-[[main]]
-  name = "Primera Catalana"
-  url = "competicions/primera-catalana/"
+  name = "Projeccions 2020-2021"
+  url = "tags/2020-2021/"
   weight = 50
 
 [[main]]
