@@ -23,7 +23,18 @@ names(zeros) <- names(cat)
 cat <- rbind(zeros, cat)
 cat <- cat %>% arrange(date) %>% mutate(casos = frollmean(cases, 7)) %>% arrange(desc(date))
 
-p0 <- ggplot(cat %>% filter(date != max(cat$date))) + geom_line(aes(date, casos), color = "red") + theme_minimal() + geom_vline(aes(xintercept=as.numeric(as.Date("2020-05-04"))), linetype='dashed', color='lightgrey') + geom_vline(aes(xintercept=as.numeric(as.Date("2020-06-19"))), linetype='dashed', color='lightgrey') + labs(x = "", y = "Mitjana de positius PCR a 7 dies")
+deaths <- suppressMessages(read_csv("https://analisi.transparenciacatalunya.cat/api/views/623z-r97q/rows.csv", col_types = cols()))
+deaths$Data <- as.Date(deaths$Data, format = "%d/%m/%Y")
+deaths <- deaths %>% select(Data, `Defuncions diàries`)
+names(deaths) <- c("date", "defuncions")
+cat <- cat %>% left_join(deaths, by = "date")
+cat$defuncions[is.na(cat$defuncions)] <- 0
+cat <- cat %>% arrange(date) %>% mutate(defuncions = frollmean(defuncions, 7)) %>% filter(date>as.Date("2020-02-25")) %>% select(-cases) %>% arrange(desc(date))
+names(cat) <- c("data", "PCR Positius", "Defuncions")
+
+cat <- cat %>% pivot_longer(c(`PCR Positius`, `Defuncions`), names_to = "tipo", values_to = "mitjana")
+
+p0 <- ggplot(cat %>% filter(data != max(cat$data))) + geom_line(aes(data, mitjana, color = tipo)) + theme_minimal() + geom_vline(aes(xintercept=as.numeric(as.Date("2020-05-04"))), linetype='dashed', color='lightgrey') + geom_vline(aes(xintercept=as.numeric(as.Date("2020-06-19"))), linetype='dashed', color='lightgrey') + labs(x = "", y = "Mitjana a 7 dies", color ="")
 p0 <- ggplotly(p0, width=875, height=600)
 p0 <- config(p0, displayModeBar = FALSE)
 p0
