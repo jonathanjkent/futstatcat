@@ -23,10 +23,12 @@ names(zeros) <- names(cat)
 cat <- rbind(zeros, cat)
 cat <- cat %>% arrange(date) %>% mutate(casos = frollmean(cases, 7)) %>% arrange(desc(date))
 
-deaths <- suppressMessages(read_csv("https://analisi.transparenciacatalunya.cat/api/views/623z-r97q/rows.csv", col_types = cols()))
-deaths$Data <- as.Date(deaths$Data, format = "%d/%m/%Y")
-deaths <- deaths %>% select(Data, `Defuncions diàries`)
+deaths <- suppressMessages(read_csv("https://analisi.transparenciacatalunya.cat/api/views/uqk7-bf9s/rows.csv", col_types = cols()))
+deaths <- deaths %>% select(`Data defunció`, `Nombre defuncions`)
 names(deaths) <- c("date", "defuncions")
+deaths$date <- as.Date(deaths$date, format = "%d/%m/%Y")
+deaths <- deaths %>% group_by(date) %>% summarise(defuncions = sum(defuncions))
+
 cat <- cat %>% left_join(deaths, by = "date")
 cat$defuncions[is.na(cat$defuncions)] <- 0
 cat <- cat %>% arrange(date) %>% mutate(defuncions = frollmean(defuncions, 7)) %>% filter(date>as.Date("2020-02-25")) %>% select(-cases) %>% arrange(desc(date))
