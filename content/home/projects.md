@@ -23,12 +23,12 @@ title = "Competicions"
 
 
   [[content.filter_button]]
-    name = "Estiu 2020"
-    tag = "Estiu 2020"
+    name = "Masculina"
+    tag = "Masculina"
 
  [[content.filter_button]]
-    name = "2020-2021"
-    tag = "2020-2021"
+    name = "Femenina"
+    tag = "Femenina"
  
     
     

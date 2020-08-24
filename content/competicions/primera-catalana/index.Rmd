@@ -9,6 +9,7 @@ summary: Projecció del primer fase de 2020-2021
 subtitle: Projecció del primer fase de 2020-2021
 tags:
 - 2020-2021
+- Masculina
 title: Primera Catalana (M)
 ---
 ### Subgrup 1-A

@@ -9,11 +9,6 @@
   weight = 10
 
 [[main]]
-  name = "Playoffs"
-  url = "competicions/playoffs/"
-  weight = 40
-
-[[main]]
   name = "Projeccions 2020-2021"
   url = "tags/2020-2021/"
   weight = 50
