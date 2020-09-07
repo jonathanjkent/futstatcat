@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/2020-2021/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/clubs/ad-alcorcon-segunda/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -28,12 +33,17 @@
   </url>
   
   <url>
-    <loc>/clubs/cadis-cf-segunda/</loc>
+    <loc>/clubs/cadis-cf-primera/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/clubs/cd-leganes-primera/</loc>
+    <loc>/clubs/cd-castello-segunda/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/clubs/cd-leganes-segunda/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,7 +58,7 @@
   </url>
   
   <url>
-    <loc>/clubs/cd-numancia-segunda/</loc>
+    <loc>/clubs/cd-sabadell-fc-segunda/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,6 +78,11 @@
   </url>
   
   <url>
+    <loc>/competicions/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/covid-19/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -78,17 +93,17 @@
   </url>
   
   <url>
-    <loc>/clubs/elx-cf-segunda/</loc>
-    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/clubs/extremadura-ud-segunda/</loc>
+    <loc>/clubs/elx-cf-primera/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/clubs/fc-barcelona-primera/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/clubs/fc-cartagena-segunda/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,7 +128,22 @@
   </url>
   
   <url>
+    <loc>/competicions/la-liga/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/competicions/la-liga-trajectoria/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/clubs/llevant-ud-primera/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/masculina/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,17 +163,12 @@
   </url>
   
   <url>
-    <loc>/clubs/rc-deportivo-segunda/</loc>
+    <loc>/clubs/rcd-espanyol-segunda/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/clubs/rcd-espanyol-primera/</loc>
-    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/clubs/rcd-mallorca-primera/</loc>
+    <loc>/clubs/rcd-mallorca-segunda/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -159,11 +184,6 @@
   
   <url>
     <loc>/clubs/reial-oviedo-segunda/</loc>
-    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/clubs/reial-racing-club-segunda/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,7 +213,7 @@
   </url>
   
   <url>
-    <loc>/clubs/sd-osca-segunda/</loc>
+    <loc>/clubs/sd-osca-primera/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,7 +223,22 @@
   </url>
   
   <url>
+    <loc>/competicions/segona-a/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/competicions/segona-a-trajectoria/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/clubs/sevilla-fc-primera/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -218,6 +253,11 @@
   </url>
   
   <url>
+    <loc>/clubs/ud-logronyes-segunda/</loc>
+    <lastmod>2020-06-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/clubs/valencia-cf-primera/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -228,42 +268,12 @@
   </url>
   
   <url>
-    <loc>/tags/2020-2021/</loc>
-    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/competicions/</loc>
-    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/femenina/</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/masculina/</loc>
-    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/competicions/primera-femenina/</loc>
-    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/competicions/la-liga/</loc>
-    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/competicions/segona-a/</loc>
-    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>/competicions/primera/</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url>
   
