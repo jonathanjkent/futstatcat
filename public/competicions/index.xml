@@ -2645,9 +2645,780 @@ Sporting
     </item>
     
     <item>
+      <title>Tercera</title>
+      <link>/competicions/tercera/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/competicions/tercera/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;subgrup-a&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Subgrup A&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Primer Fase de 2020-2021
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Projecció
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;3&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Probabilitat (%)
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;3&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+xGols
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Club
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+Punts
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+GD
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+1-3
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+4-6
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+7-11
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+Favor
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+Contra
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Qualitat
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Europa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+39.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+23.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+78.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+19.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+1.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+79.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Terrassa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+39.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+21.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+80.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+1.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+77.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Manresa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+14.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+46.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+9.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+72.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Vilafranca
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+12.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+45.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+43.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+10.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+70.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Muntanyesa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+4.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+49.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+34.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+64.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Pobla Mafumet
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+4.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+47.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+37.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+63.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Castelldefels
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+4.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+46.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+38.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+63.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+San Cristóbal
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+23.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+-8.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+83.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+53.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Santfeliuenc
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+-6.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+86.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+54.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Igualada
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+-15.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+96.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+47.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Valls
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+-53.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+100.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+15.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;subgrup-b&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Subgrup B&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;1&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Primer Fase de 2020-2021
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;2&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Projecció
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;3&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+Probabilitat (%)
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;th style=&#34;border-bottom:hidden; padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; &#34; colspan=&#34;3&#34;&gt;
+&lt;div style=&#34;border-bottom: 1px solid #ddd; padding-bottom: 5px; &#34;&gt;
+xGols
+&lt;/div&gt;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Club
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+Punts
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+GD
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+1-3
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+4-6
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+7-11
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+Favor
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;&#34;&gt;
+Contra
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Qualitat
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Sant Andreu
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+39.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+18.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+83.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+78.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Vilassar Mar
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+36.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+13.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+65.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+3.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+74.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Peralada
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+35.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+11.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+55.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+6.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+72.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Granollers
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+10.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+50.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+7.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+72.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Horta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+2.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+19.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+53.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+27.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+65.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Cerdanyola
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+0.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+50.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+36.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+63.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Figueres
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+28.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+-0.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+47.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+41.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+62.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Girona B
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+21.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+-8.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+85.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+55.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Sants
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+19.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+-14.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+91.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+50.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+Banyoles
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+-15.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+99.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+48.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+FE Grama
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+-17.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+99.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+46.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Primera Catalana</title>
       <link>/competicions/primera-catalana/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/competicions/primera-catalana/</guid>
       <description>
