@@ -88,19 +88,19 @@ Qualitat
 &lt;a href=&#34;/clubs/fc-barcelona-primera&#34;&gt;Barça&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-83.0
+83.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 52.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-64.2
+64.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-99.1
+99.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.8
+0.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 0.0
@@ -120,19 +120,19 @@ Qualitat
 &lt;a href=&#34;/clubs/reial-madrid-cf-primera&#34;&gt;Reial Madrid&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-77.1
+77.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 39.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.0
+24.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-94.7
+94.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-4.8
+4.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 0.0
@@ -152,19 +152,19 @@ Qualitat
 &lt;a href=&#34;/clubs/atletic-de-madrid-primera&#34;&gt;Atlètic Madrid&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-72.4
+72.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 28.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-9.0
+9.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-84.0
+85.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-13.4
+12.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 0.0
@@ -184,19 +184,19 @@ Qualitat
 &lt;a href=&#34;/clubs/sevilla-fc-primera&#34;&gt;Sevilla&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-61.8
+61.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-13.8
+13.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.8
+0.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.9
+33.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.9
+39.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 0.0
@@ -216,7 +216,7 @@ Qualitat
 &lt;a href=&#34;/clubs/vilareal-cf-primera&#34;&gt;Vila-real&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-61.5
+61.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 12.4
@@ -225,13 +225,13 @@ Qualitat
 0.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.6
+31.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.3
+40.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.0
+0.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.6
@@ -241,38 +241,6 @@ Qualitat
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 67.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/clubs/valencia-cf-primera&#34;&gt;València&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-57.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-7.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-16.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-37.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-63.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -289,16 +257,16 @@ Qualitat
 0.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-13.3
+14.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.6
+36.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 0.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.4
+1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.2
@@ -309,22 +277,54 @@ Qualitat
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/clubs/reial-societat-primera&#34;&gt;Reial Societat&lt;/a&gt;
+&lt;a href=&#34;/clubs/valencia-cf-primera&#34;&gt;València&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 56.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-5.7
+5.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-11.2
+11.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.2
+35.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+0.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+63.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/clubs/reial-societat-primera&#34;&gt;Reial Societat&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+56.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+5.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 0.4
@@ -344,22 +344,22 @@ Qualitat
 &lt;a href=&#34;/clubs/getafe-cf-primera&#34;&gt;Getafe&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-54.2
+54.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 2.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.1
+0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-6.7
+7.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.5
+27.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.6
+0.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.0
@@ -373,10 +373,42 @@ Qualitat
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/clubs/rc-celta-de-vigo-primera&#34;&gt;Celta&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+52.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+-1.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+21.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+59.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/clubs/athletic-club-de-bilbao-primera&#34;&gt;Athletic&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-51.9
+51.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 -0.5
@@ -385,13 +417,13 @@ Qualitat
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-3.9
+3.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.9
+19.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-1.5
+1.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.1
@@ -405,42 +437,10 @@ Qualitat
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/clubs/rc-celta-de-vigo-primera&#34;&gt;Celta&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-50.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--3.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-2.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-15.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-2.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-59.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/clubs/reial-betis-primera&#34;&gt;Betis&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-47.8
+47.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 -10.0
@@ -449,13 +449,13 @@ Qualitat
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.2
+1.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-9.2
+8.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-4.7
+4.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.2
@@ -475,19 +475,19 @@ Qualitat
 47.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--9.1
+-9.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.3
+1.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 9.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-5.1
+5.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.3
@@ -504,7 +504,7 @@ Qualitat
 &lt;a href=&#34;/clubs/ca-osasuna-primera&#34;&gt;Osasuna&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-45.7
+45.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 -10.4
@@ -513,13 +513,13 @@ Qualitat
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.7
+0.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-5.3
+5.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-7.7
+7.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.1
@@ -536,7 +536,7 @@ Qualitat
 &lt;a href=&#34;/clubs/sd-eibar-primera&#34;&gt;Eibar&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.7
+42.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 -13.0
@@ -548,10 +548,10 @@ Qualitat
 0.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2.4
+2.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-15.2
+15.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.0
@@ -568,7 +568,7 @@ Qualitat
 &lt;a href=&#34;/clubs/sd-osca-primera&#34;&gt;Osca&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.4
+40.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 -20.6
@@ -577,13 +577,13 @@ Qualitat
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.1
+0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.4
+1.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-23.9
+24.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.1
@@ -600,7 +600,7 @@ Qualitat
 &lt;a href=&#34;/clubs/reial-valladolid-cf-primera&#34;&gt;Valladolid&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-38.5
+38.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 -17.1
@@ -612,10 +612,10 @@ Qualitat
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.6
+0.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-32.4
+32.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.7
@@ -632,7 +632,7 @@ Qualitat
 &lt;a href=&#34;/clubs/deportivo-alaves-primera&#34;&gt;Alavés&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.0
+35.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 -24.3
@@ -644,10 +644,10 @@ Qualitat
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.3
+0.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-49.2
+48.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.9
@@ -664,10 +664,10 @@ Qualitat
 &lt;a href=&#34;/clubs/cadis-cf-primera&#34;&gt;Cadis&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.3
+32.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--24.8
+-24.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.0
@@ -679,7 +679,7 @@ Qualitat
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-69.8
+70.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.5
@@ -688,7 +688,7 @@ Qualitat
 1.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-49.5
+49.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -696,10 +696,10 @@ Qualitat
 &lt;a href=&#34;/clubs/elx-cf-primera&#34;&gt;Elx&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.4
+28.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--34.4
+-34.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.0
@@ -711,7 +711,7 @@ Qualitat
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-86.5
+87.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.6
@@ -720,7 +720,7 @@ Qualitat
 1.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-44.1
+44.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -748,7 +748,7 @@ Qualitat
 &lt;div id=&#34;trajectòria-dels-equips&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Trajectòria dels equips&lt;/h3&gt;
 &lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:875px;height:600px;&#34; class=&#34;plotly html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;data&#34;:[{&#34;x&#34;:[1,2],&#34;y&#34;:[35.8302912389566,35.8756822748052],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 35.83029&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 35.87568&lt;br /&gt;Club: Alavés&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(248,118,109,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Alavés&#34;,&#34;legendgroup&#34;:&#34;Alavés&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[51.7715290745202,51.8079002017937],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 51.77153&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 51.80790&lt;br /&gt;Club: Athletic&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(234,131,49,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Athletic&#34;,&#34;legendgroup&#34;:&#34;Athletic&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[72.4537251963502,72.4680687257629],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 72.45373&lt;br /&gt;Club: Atlètic Madrid&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 72.46807&lt;br /&gt;Club: Atlètic Madrid&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(216,144,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Atlètic Madrid&#34;,&#34;legendgroup&#34;:&#34;Atlètic Madrid&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[83.0119988270366,83.0375883367491],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 83.01200&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 83.03759&lt;br /&gt;Club: Barça&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(192,155,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Barça&#34;,&#34;legendgroup&#34;:&#34;Barça&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[47.6921807210179,47.7253199417897],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 47.69218&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 47.72532&lt;br /&gt;Club: Betis&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(163,165,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Betis&#34;,&#34;legendgroup&#34;:&#34;Betis&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[32.5870399749546,32.3871529721783],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 32.58704&lt;br /&gt;Club: Cadis&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 32.38715&lt;br /&gt;Club: Cadis&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(124,174,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Cadis&#34;,&#34;legendgroup&#34;:&#34;Cadis&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[50.1903307302736,50.2267682153129],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 50.19033&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 50.22677&lt;br /&gt;Club: Celta&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(57,182,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Celta&#34;,&#34;legendgroup&#34;:&#34;Celta&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[43.2969702736173,42.7870476119239],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 43.29697&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 42.78705&lt;br /&gt;Club: Eibar&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,187,78,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Eibar&#34;,&#34;legendgroup&#34;:&#34;Eibar&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[28.3923370562666,28.3779494480504],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 28.39234&lt;br /&gt;Club: Elx&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 28.37795&lt;br /&gt;Club: Elx&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,191,125,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Elx&#34;,&#34;legendgroup&#34;:&#34;Elx&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[52.7309800779982,54.2187499667386],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 52.73098&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 54.21875&lt;br /&gt;Club: Getafe&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,193,163,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Getafe&#34;,&#34;legendgroup&#34;:&#34;Getafe&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[57.2020953538895,57.2071119158075],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 57.20210&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 57.20711&lt;br /&gt;Club: Granada&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,191,196,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Granada&#34;,&#34;legendgroup&#34;:&#34;Granada&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[47.5794313450336,47.6323190515074],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 47.57943&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 47.63232&lt;br /&gt;Club: Llevant&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,186,224,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Llevant&#34;,&#34;legendgroup&#34;:&#34;Llevant&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[47.1599880438362,45.659549672058],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 47.15999&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 45.65955&lt;br /&gt;Club: Osasuna&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,176,246,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Osasuna&#34;,&#34;legendgroup&#34;:&#34;Osasuna&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[40.4163822025316,40.4087075681253],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 40.41638&lt;br /&gt;Club: Osca&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 40.40871&lt;br /&gt;Club: Osca&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(53,162,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Osca&#34;,&#34;legendgroup&#34;:&#34;Osca&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[77.0969089068089,77.1076788670516],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 77.09691&lt;br /&gt;Club: Reial Madrid&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 77.10768&lt;br /&gt;Club: Reial Madrid&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(149,144,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Reial Madrid&#34;,&#34;legendgroup&#34;:&#34;Reial Madrid&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[56.1965522133273,56.2297501911514],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 56.19655&lt;br /&gt;Club: Reial Societat&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 56.22975&lt;br /&gt;Club: Reial Societat&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(199,124,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Reial Societat&#34;,&#34;legendgroup&#34;:&#34;Reial Societat&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[61.7375044817055,61.7735139664374],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 61.73750&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 61.77351&lt;br /&gt;Club: Sevilla&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(231,107,243,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Sevilla&#34;,&#34;legendgroup&#34;:&#34;Sevilla&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[57.8022349961618,57.840755469421],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 57.80223&lt;br /&gt;Club: València&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 57.84076&lt;br /&gt;Club: València&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(250,98,219,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;València&#34;,&#34;legendgroup&#34;:&#34;València&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[38.5828164999432,38.6081915936185],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 38.58282&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 38.60819&lt;br /&gt;Club: Valladolid&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(255,98,188,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Valladolid&#34;,&#34;legendgroup&#34;:&#34;Valladolid&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[60.648690467803,61.4361095738342],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 60.64869&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 61.43611&lt;br /&gt;Club: Vila-real&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(255,106,152,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Vila-real&#34;,&#34;legendgroup&#34;:&#34;Vila-real&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null}],&#34;layout&#34;:{&#34;margin&#34;:{&#34;t&#34;:26.6544901065449,&#34;r&#34;:7.30593607305936,&#34;b&#34;:40.6088280060883,&#34;l&#34;:37.2602739726027},&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187},&#34;xaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;type&#34;:&#34;linear&#34;,&#34;autorange&#34;:false,&#34;range&#34;:[0.95,2.05],&#34;tickmode&#34;:&#34;array&#34;,&#34;ticktext&#34;:[&#34;1.00&#34;,&#34;1.25&#34;,&#34;1.50&#34;,&#34;1.75&#34;,&#34;2.00&#34;],&#34;tickvals&#34;:[1,1.25,1.5,1.75,2],&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;1.00&#34;,&#34;1.25&#34;,&#34;1.50&#34;,&#34;1.75&#34;,&#34;2.00&#34;],&#34;nticks&#34;:null,&#34;ticks&#34;:&#34;&#34;,&#34;tickcolor&#34;:null,&#34;ticklen&#34;:3.65296803652968,&#34;tickwidth&#34;:0,&#34;showticklabels&#34;:true,&#34;tickfont&#34;:{&#34;color&#34;:&#34;rgba(77,77,77,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;tickangle&#34;:-0,&#34;showline&#34;:false,&#34;linecolor&#34;:null,&#34;linewidth&#34;:0,&#34;showgrid&#34;:true,&#34;gridcolor&#34;:&#34;rgba(235,235,235,1)&#34;,&#34;gridwidth&#34;:0.66417600664176,&#34;zeroline&#34;:false,&#34;anchor&#34;:&#34;y&#34;,&#34;title&#34;:{&#34;text&#34;:&#34;Jornada&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187}},&#34;hoverformat&#34;:&#34;.2f&#34;},&#34;yaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;type&#34;:&#34;linear&#34;,&#34;autorange&#34;:false,&#34;range&#34;:[25.6449675036154,85.770570281184],&#34;tickmode&#34;:&#34;array&#34;,&#34;ticktext&#34;:[&#34;40&#34;,&#34;60&#34;,&#34;80&#34;],&#34;tickvals&#34;:[40,60,80],&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;40&#34;,&#34;60&#34;,&#34;80&#34;],&#34;nticks&#34;:null,&#34;ticks&#34;:&#34;&#34;,&#34;tickcolor&#34;:null,&#34;ticklen&#34;:3.65296803652968,&#34;tickwidth&#34;:0,&#34;showticklabels&#34;:true,&#34;tickfont&#34;:{&#34;color&#34;:&#34;rgba(77,77,77,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;tickangle&#34;:-0,&#34;showline&#34;:false,&#34;linecolor&#34;:null,&#34;linewidth&#34;:0,&#34;showgrid&#34;:true,&#34;gridcolor&#34;:&#34;rgba(235,235,235,1)&#34;,&#34;gridwidth&#34;:0.66417600664176,&#34;zeroline&#34;:false,&#34;anchor&#34;:&#34;x&#34;,&#34;title&#34;:{&#34;text&#34;:&#34;Punts.Projectats&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187}},&#34;hoverformat&#34;:&#34;.2f&#34;},&#34;shapes&#34;:[{&#34;type&#34;:&#34;rect&#34;,&#34;fillcolor&#34;:null,&#34;line&#34;:{&#34;color&#34;:null,&#34;width&#34;:0,&#34;linetype&#34;:[]},&#34;yref&#34;:&#34;paper&#34;,&#34;xref&#34;:&#34;paper&#34;,&#34;x0&#34;:0,&#34;x1&#34;:1,&#34;y0&#34;:0,&#34;y1&#34;:1}],&#34;showlegend&#34;:true,&#34;legend&#34;:{&#34;bgcolor&#34;:null,&#34;bordercolor&#34;:null,&#34;borderwidth&#34;:0,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;y&#34;:0.948031496062992},&#34;annotations&#34;:[{&#34;text&#34;:&#34;Club&#34;,&#34;x&#34;:1.02,&#34;y&#34;:1,&#34;showarrow&#34;:false,&#34;ax&#34;:0,&#34;ay&#34;:0,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187},&#34;xref&#34;:&#34;paper&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;textangle&#34;:-0,&#34;xanchor&#34;:&#34;left&#34;,&#34;yanchor&#34;:&#34;bottom&#34;,&#34;legendTitle&#34;:true}],&#34;hovermode&#34;:&#34;closest&#34;,&#34;width&#34;:875,&#34;height&#34;:600,&#34;barmode&#34;:&#34;relative&#34;},&#34;config&#34;:{&#34;doubleClick&#34;:&#34;reset&#34;,&#34;showSendToCloud&#34;:false,&#34;displayModeBar&#34;:false},&#34;source&#34;:&#34;A&#34;,&#34;attrs&#34;:{&#34;102e6da82f63&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;colour&#34;:{},&#34;type&#34;:&#34;scatter&#34;}},&#34;cur_data&#34;:&#34;102e6da82f63&#34;,&#34;visdat&#34;:{&#34;102e6da82f63&#34;:[&#34;function (y) &#34;,&#34;x&#34;]},&#34;highlight&#34;:{&#34;on&#34;:&#34;plotly_click&#34;,&#34;persistent&#34;:false,&#34;dynamic&#34;:false,&#34;selectize&#34;:false,&#34;opacityDim&#34;:0.2,&#34;selected&#34;:{&#34;opacity&#34;:1},&#34;debounce&#34;:0},&#34;shinyEvents&#34;:[&#34;plotly_hover&#34;,&#34;plotly_click&#34;,&#34;plotly_selected&#34;,&#34;plotly_relayout&#34;,&#34;plotly_brushed&#34;,&#34;plotly_brushing&#34;,&#34;plotly_clickannotation&#34;,&#34;plotly_doubleclick&#34;,&#34;plotly_deselect&#34;,&#34;plotly_afterplot&#34;,&#34;plotly_sunburstclick&#34;],&#34;base_url&#34;:&#34;https://plot.ly&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;data&#34;:[{&#34;x&#34;:[1,2],&#34;y&#34;:[35.8302912389566,35.8701990813596],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 35.83029&lt;br /&gt;Club: Alavés&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 35.87020&lt;br /&gt;Club: Alavés&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(248,118,109,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Alavés&#34;,&#34;legendgroup&#34;:&#34;Alavés&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[51.7715290745202,51.7999050240522],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 51.77153&lt;br /&gt;Club: Athletic&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 51.79991&lt;br /&gt;Club: Athletic&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(234,131,49,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Athletic&#34;,&#34;legendgroup&#34;:&#34;Athletic&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[72.4537251963502,72.4726035594518],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 72.45373&lt;br /&gt;Club: Atlètic Madrid&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 72.47260&lt;br /&gt;Club: Atlètic Madrid&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(216,144,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Atlètic Madrid&#34;,&#34;legendgroup&#34;:&#34;Atlètic Madrid&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[83.0119988270366,83.0271188015596],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 83.01200&lt;br /&gt;Club: Barça&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 83.02712&lt;br /&gt;Club: Barça&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(192,155,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Barça&#34;,&#34;legendgroup&#34;:&#34;Barça&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[47.6921807210179,47.7370036940433],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 47.69218&lt;br /&gt;Club: Betis&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 47.73700&lt;br /&gt;Club: Betis&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(163,165,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Betis&#34;,&#34;legendgroup&#34;:&#34;Betis&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[32.5870399749546,32.4286172220334],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 32.58704&lt;br /&gt;Club: Cadis&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 32.42862&lt;br /&gt;Club: Cadis&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(124,174,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Cadis&#34;,&#34;legendgroup&#34;:&#34;Cadis&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[50.1903307302736,52.3592015780376],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 50.19033&lt;br /&gt;Club: Celta&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 52.35920&lt;br /&gt;Club: Celta&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(57,182,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Celta&#34;,&#34;legendgroup&#34;:&#34;Celta&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[43.2969702736173,42.8301801437565],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 43.29697&lt;br /&gt;Club: Eibar&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 42.83018&lt;br /&gt;Club: Eibar&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,187,78,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Eibar&#34;,&#34;legendgroup&#34;:&#34;Eibar&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[28.3923370562666,28.3021445178161],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 28.39234&lt;br /&gt;Club: Elx&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 28.30214&lt;br /&gt;Club: Elx&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,191,125,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Elx&#34;,&#34;legendgroup&#34;:&#34;Elx&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[52.7309800779982,54.2058596535011],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 52.73098&lt;br /&gt;Club: Getafe&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 54.20586&lt;br /&gt;Club: Getafe&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,193,163,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Getafe&#34;,&#34;legendgroup&#34;:&#34;Getafe&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[57.2020953538895,57.1719793960916],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 57.20210&lt;br /&gt;Club: Granada&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 57.17198&lt;br /&gt;Club: Granada&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,191,196,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Granada&#34;,&#34;legendgroup&#34;:&#34;Granada&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[47.5794313450336,47.6012944236055],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 47.57943&lt;br /&gt;Club: Llevant&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 47.60129&lt;br /&gt;Club: Llevant&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,186,224,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Llevant&#34;,&#34;legendgroup&#34;:&#34;Llevant&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[47.1599880438362,45.6877044187894],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 47.15999&lt;br /&gt;Club: Osasuna&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 45.68770&lt;br /&gt;Club: Osasuna&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,176,246,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Osasuna&#34;,&#34;legendgroup&#34;:&#34;Osasuna&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[40.4163822025316,40.4148225488954],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 40.41638&lt;br /&gt;Club: Osca&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 40.41482&lt;br /&gt;Club: Osca&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(53,162,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Osca&#34;,&#34;legendgroup&#34;:&#34;Osca&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[77.0969089068089,77.099130761224],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 77.09691&lt;br /&gt;Club: Reial Madrid&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 77.09913&lt;br /&gt;Club: Reial Madrid&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(149,144,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Reial Madrid&#34;,&#34;legendgroup&#34;:&#34;Reial Madrid&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[56.1965522133273,56.2482728902879],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 56.19655&lt;br /&gt;Club: Reial Societat&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 56.24827&lt;br /&gt;Club: Reial Societat&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(199,124,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Reial Societat&#34;,&#34;legendgroup&#34;:&#34;Reial Societat&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[61.7375044817055,61.7371305578765],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 61.73750&lt;br /&gt;Club: Sevilla&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 61.73713&lt;br /&gt;Club: Sevilla&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(231,107,243,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Sevilla&#34;,&#34;legendgroup&#34;:&#34;Sevilla&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[57.8022349961618,56.0877893999526],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 57.80223&lt;br /&gt;Club: València&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 56.08779&lt;br /&gt;Club: València&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(250,98,219,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;València&#34;,&#34;legendgroup&#34;:&#34;València&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[38.5828164999432,38.6157463997112],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 38.58282&lt;br /&gt;Club: Valladolid&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 38.61575&lt;br /&gt;Club: Valladolid&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(255,98,188,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Valladolid&#34;,&#34;legendgroup&#34;:&#34;Valladolid&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[60.648690467803,61.4390163473324],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 60.64869&lt;br /&gt;Club: Vila-real&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 61.43902&lt;br /&gt;Club: Vila-real&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(255,106,152,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Vila-real&#34;,&#34;legendgroup&#34;:&#34;Vila-real&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null}],&#34;layout&#34;:{&#34;margin&#34;:{&#34;t&#34;:26.6544901065449,&#34;r&#34;:7.30593607305936,&#34;b&#34;:40.6088280060883,&#34;l&#34;:37.2602739726027},&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187},&#34;xaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;type&#34;:&#34;linear&#34;,&#34;autorange&#34;:false,&#34;range&#34;:[0.95,2.05],&#34;tickmode&#34;:&#34;array&#34;,&#34;ticktext&#34;:[&#34;1.00&#34;,&#34;1.25&#34;,&#34;1.50&#34;,&#34;1.75&#34;,&#34;2.00&#34;],&#34;tickvals&#34;:[1,1.25,1.5,1.75,2],&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;1.00&#34;,&#34;1.25&#34;,&#34;1.50&#34;,&#34;1.75&#34;,&#34;2.00&#34;],&#34;nticks&#34;:null,&#34;ticks&#34;:&#34;&#34;,&#34;tickcolor&#34;:null,&#34;ticklen&#34;:3.65296803652968,&#34;tickwidth&#34;:0,&#34;showticklabels&#34;:true,&#34;tickfont&#34;:{&#34;color&#34;:&#34;rgba(77,77,77,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;tickangle&#34;:-0,&#34;showline&#34;:false,&#34;linecolor&#34;:null,&#34;linewidth&#34;:0,&#34;showgrid&#34;:true,&#34;gridcolor&#34;:&#34;rgba(235,235,235,1)&#34;,&#34;gridwidth&#34;:0.66417600664176,&#34;zeroline&#34;:false,&#34;anchor&#34;:&#34;y&#34;,&#34;title&#34;:{&#34;text&#34;:&#34;Jornada&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187}},&#34;hoverformat&#34;:&#34;.2f&#34;},&#34;yaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;type&#34;:&#34;linear&#34;,&#34;autorange&#34;:false,&#34;range&#34;:[25.5658958036289,85.7633675157468],&#34;tickmode&#34;:&#34;array&#34;,&#34;ticktext&#34;:[&#34;40&#34;,&#34;60&#34;,&#34;80&#34;],&#34;tickvals&#34;:[40,60,80],&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;40&#34;,&#34;60&#34;,&#34;80&#34;],&#34;nticks&#34;:null,&#34;ticks&#34;:&#34;&#34;,&#34;tickcolor&#34;:null,&#34;ticklen&#34;:3.65296803652968,&#34;tickwidth&#34;:0,&#34;showticklabels&#34;:true,&#34;tickfont&#34;:{&#34;color&#34;:&#34;rgba(77,77,77,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;tickangle&#34;:-0,&#34;showline&#34;:false,&#34;linecolor&#34;:null,&#34;linewidth&#34;:0,&#34;showgrid&#34;:true,&#34;gridcolor&#34;:&#34;rgba(235,235,235,1)&#34;,&#34;gridwidth&#34;:0.66417600664176,&#34;zeroline&#34;:false,&#34;anchor&#34;:&#34;x&#34;,&#34;title&#34;:{&#34;text&#34;:&#34;Punts.Projectats&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187}},&#34;hoverformat&#34;:&#34;.2f&#34;},&#34;shapes&#34;:[{&#34;type&#34;:&#34;rect&#34;,&#34;fillcolor&#34;:null,&#34;line&#34;:{&#34;color&#34;:null,&#34;width&#34;:0,&#34;linetype&#34;:[]},&#34;yref&#34;:&#34;paper&#34;,&#34;xref&#34;:&#34;paper&#34;,&#34;x0&#34;:0,&#34;x1&#34;:1,&#34;y0&#34;:0,&#34;y1&#34;:1}],&#34;showlegend&#34;:true,&#34;legend&#34;:{&#34;bgcolor&#34;:null,&#34;bordercolor&#34;:null,&#34;borderwidth&#34;:0,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;y&#34;:0.948031496062992},&#34;annotations&#34;:[{&#34;text&#34;:&#34;Club&#34;,&#34;x&#34;:1.02,&#34;y&#34;:1,&#34;showarrow&#34;:false,&#34;ax&#34;:0,&#34;ay&#34;:0,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187},&#34;xref&#34;:&#34;paper&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;textangle&#34;:-0,&#34;xanchor&#34;:&#34;left&#34;,&#34;yanchor&#34;:&#34;bottom&#34;,&#34;legendTitle&#34;:true}],&#34;hovermode&#34;:&#34;closest&#34;,&#34;width&#34;:875,&#34;height&#34;:600,&#34;barmode&#34;:&#34;relative&#34;},&#34;config&#34;:{&#34;doubleClick&#34;:&#34;reset&#34;,&#34;showSendToCloud&#34;:false,&#34;displayModeBar&#34;:false},&#34;source&#34;:&#34;A&#34;,&#34;attrs&#34;:{&#34;242f6a9df7ba&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;colour&#34;:{},&#34;type&#34;:&#34;scatter&#34;}},&#34;cur_data&#34;:&#34;242f6a9df7ba&#34;,&#34;visdat&#34;:{&#34;242f6a9df7ba&#34;:[&#34;function (y) &#34;,&#34;x&#34;]},&#34;highlight&#34;:{&#34;on&#34;:&#34;plotly_click&#34;,&#34;persistent&#34;:false,&#34;dynamic&#34;:false,&#34;selectize&#34;:false,&#34;opacityDim&#34;:0.2,&#34;selected&#34;:{&#34;opacity&#34;:1},&#34;debounce&#34;:0},&#34;shinyEvents&#34;:[&#34;plotly_hover&#34;,&#34;plotly_click&#34;,&#34;plotly_selected&#34;,&#34;plotly_relayout&#34;,&#34;plotly_brushed&#34;,&#34;plotly_brushing&#34;,&#34;plotly_clickannotation&#34;,&#34;plotly_doubleclick&#34;,&#34;plotly_deselect&#34;,&#34;plotly_afterplot&#34;,&#34;plotly_sunburstclick&#34;],&#34;base_url&#34;:&#34;https://plot.ly&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -826,16 +826,16 @@ Qualitat
 &lt;a href=&#34;/clubs/rcd-espanyol-segunda&#34;&gt;Espanyol&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-78.2
+78.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-31.5
+32.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-69.2
+68.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-95.3
+95.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 0.0
@@ -847,7 +847,7 @@ Qualitat
 0.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-73.0
+73.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -855,28 +855,28 @@ Qualitat
 &lt;a href=&#34;/clubs/cd-leganes-segunda&#34;&gt;Leganés&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-77.6
+78.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-25.5
+26.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-67.1
+66.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-95.4
+95.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.0
+1.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-71.1
+71.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -884,16 +884,16 @@ Qualitat
 &lt;a href=&#34;/clubs/ud-almeria-segunda&#34;&gt;Almeria&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-67.6
+68.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-15.0
+15.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-17.5
+17.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-64.7
+66.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 0.2
@@ -905,7 +905,7 @@ Qualitat
 0.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-66.4
+66.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -913,19 +913,19 @@ Qualitat
 &lt;a href=&#34;/clubs/reial-sporting-segunda&#34;&gt;Sporting&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-65.2
+65.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-10.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
 11.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-55.0
+11.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+54.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-0.5
+0.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.1
@@ -934,7 +934,7 @@ Qualitat
 0.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-64.3
+64.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -942,16 +942,16 @@ Qualitat
 &lt;a href=&#34;/clubs/ad-alcorcon-segunda&#34;&gt;Alcorcón&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-63.0
+63.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-8.6
+9.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-6.5
+6.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.6
+41.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 1.2
@@ -963,7 +963,7 @@ Qualitat
 1.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-62.9
+63.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -971,19 +971,19 @@ Qualitat
 &lt;a href=&#34;/clubs/fc-girona-segunda&#34;&gt;Girona&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-62.7
+63.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-8.2
+8.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-6.2
+6.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.7
+40.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-1.5
+0.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.1
@@ -992,65 +992,7 @@ Qualitat
 0.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-63.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/clubs/malaga-cf-segunda&#34;&gt;Màlaga&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-61.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-6.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-4.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-35.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-1.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-63.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/clubs/cf-fuenlabrada-segunda&#34;&gt;Fuenlabrada&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-61.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-6.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-4.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-33.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-2.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-62.0
+63.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1058,19 +1000,19 @@ Qualitat
 &lt;a href=&#34;/clubs/rayo-vallecano-segunda&#34;&gt;Rayo Vallecano&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-61.0
+62.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-4.0
+5.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-4.7
+6.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.0
+38.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-2.5
+1.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.2
@@ -1079,7 +1021,65 @@ Qualitat
 1.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-61.0
+61.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/clubs/malaga-cf-segunda&#34;&gt;Màlaga&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+62.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+6.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+63.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/clubs/cf-fuenlabrada-segunda&#34;&gt;Fuenlabrada&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+61.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+6.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+1.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+62.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1087,19 +1087,19 @@ Qualitat
 &lt;a href=&#34;/clubs/cd-tenerife-segunda&#34;&gt;Tenerife&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-59.6
+60.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-3.8
+4.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
+3.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+27.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
 2.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-26.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-3.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.0
@@ -1108,7 +1108,7 @@ Qualitat
 0.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-61.4
+61.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1116,19 +1116,19 @@ Qualitat
 &lt;a href=&#34;/clubs/rcd-mallorca-segunda&#34;&gt;Mallorca&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-58.8
+59.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-3.8
+4.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2.6
+2.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.5
+23.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-4.0
+3.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.0
@@ -1137,7 +1137,7 @@ Qualitat
 0.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-62.1
+62.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1145,19 +1145,19 @@ Qualitat
 &lt;a href=&#34;/clubs/reial-oviedo-segunda&#34;&gt;Oviedo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-56.9
+57.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-1.3
+1.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16.6
+17.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-6.5
+4.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.0
@@ -1166,7 +1166,7 @@ Qualitat
 1.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-60.8
+61.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1174,28 +1174,28 @@ Qualitat
 &lt;a href=&#34;/clubs/ud-las-palmas-segunda&#34;&gt;Las Palmas&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-54.9
+55.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--1.4
+-0.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.6
+0.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 12.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-9.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0.9
+7.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-59.3
+1.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+59.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1203,19 +1203,19 @@ Qualitat
 &lt;a href=&#34;/clubs/reial-saragossa-segunda&#34;&gt;Saragossa&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-53.5
+54.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--6.6
+-5.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.7
+0.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-9.5
+9.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-14.0
+11.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.3
@@ -1224,36 +1224,7 @@ Qualitat
 1.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-56.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/clubs/cd-sabadell-fc-segunda&#34;&gt;Sabadell&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-51.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--5.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-4.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-19.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-57.6
+57.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1261,19 +1232,19 @@ Qualitat
 &lt;a href=&#34;/clubs/cd-mirandes-segunda&#34;&gt;Mirandés&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-50.5
+51.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--8.9
+-8.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.1
+0.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-4.2
+4.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-23.0
+18.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.1
@@ -1282,7 +1253,7 @@ Qualitat
 1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-55.8
+56.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1290,19 +1261,19 @@ Qualitat
 &lt;a href=&#34;/clubs/albacete-balompie-segunda&#34;&gt;Albacete&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.8
+49.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--11.7
+-11.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2.5
+2.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-31.2
+26.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.9
@@ -1311,7 +1282,7 @@ Qualitat
 1.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-55.4
+55.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1319,19 +1290,19 @@ Qualitat
 &lt;a href=&#34;/clubs/ud-logronyes-segunda&#34;&gt;Logronyés&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-47.5
+47.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--9.6
+-10.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.8
+1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-35.4
+34.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.7
@@ -1340,7 +1311,7 @@ Qualitat
 0.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-55.8
+55.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1348,28 +1319,28 @@ Qualitat
 &lt;a href=&#34;/clubs/sd-ponferradina-segunda&#34;&gt;Ponferradina&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.2
+46.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--14.2
+-13.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
+0.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.4
+1.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-42.8
+38.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 1.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.2
+1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-54.2
+54.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1377,10 +1348,10 @@ Qualitat
 &lt;a href=&#34;/clubs/cd-lugo-segunda&#34;&gt;Lugo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-45.6
+46.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--15.9
+-15.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.0
@@ -1389,7 +1360,7 @@ Qualitat
 1.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-47.1
+40.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.9
@@ -1398,7 +1369,36 @@ Qualitat
 1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-53.3
+53.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/clubs/cd-sabadell-fc-segunda&#34;&gt;Sabadell&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+-15.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
+48.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+53.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1406,28 +1406,28 @@ Qualitat
 &lt;a href=&#34;/clubs/cd-castello-segunda&#34;&gt;Castelló&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.5
+41.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--21.7
+-22.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.2
+0.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-63.8
+68.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.9
+0.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.4
+1.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-49.7
+49.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1435,10 +1435,10 @@ Qualitat
 &lt;a href=&#34;/clubs/fc-cartagena-segunda&#34;&gt;Cartagena&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.3
+35.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
--29.6
+-29.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.0
@@ -1447,7 +1447,7 @@ Qualitat
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;border-right:1px solid;&#34;&gt;
-90.2
+88.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 0.7
@@ -1456,7 +1456,7 @@ Qualitat
 1.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.2
+46.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -1484,7 +1484,7 @@ Qualitat
 &lt;div id=&#34;trajectòria-dels-equips&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Trajectòria dels equips&lt;/h3&gt;
 &lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:875px;height:600px;&#34; class=&#34;plotly html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;data&#34;:[{&#34;x&#34;:[1,2],&#34;y&#34;:[47.9558276631542,48.8317482563708],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 47.95583&lt;br /&gt;Club: Albacete&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 48.83175&lt;br /&gt;Club: Albacete&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(248,118,109,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Albacete&#34;,&#34;legendgroup&#34;:&#34;Albacete&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[58.7726496153962,62.9217398215549],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 58.77265&lt;br /&gt;Club: Alcorcón&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 62.92174&lt;br /&gt;Club: Alcorcón&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(236,130,57,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Alcorcón&#34;,&#34;legendgroup&#34;:&#34;Alcorcón&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[66.7813893007844,67.6823790010856],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 66.78139&lt;br /&gt;Club: Almeria&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 67.68238&lt;br /&gt;Club: Almeria&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(219,142,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Almeria&#34;,&#34;legendgroup&#34;:&#34;Almeria&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[34.7833061702296,35.3974671958062],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 34.78331&lt;br /&gt;Club: Cartagena&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 35.39747&lt;br /&gt;Club: Cartagena&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(199,152,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Cartagena&#34;,&#34;legendgroup&#34;:&#34;Cartagena&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[51.4163003210412,42.4428776065623],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 51.41630&lt;br /&gt;Club: Castelló&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 42.44288&lt;br /&gt;Club: Castelló&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(174,162,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Castelló&#34;,&#34;legendgroup&#34;:&#34;Castelló&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[77.4139274031693,78.1395800033819],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 77.41393&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 78.13958&lt;br /&gt;Club: Espanyol&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(143,170,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Espanyol&#34;,&#34;legendgroup&#34;:&#34;Espanyol&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[60.328313228421,61.0997427607038],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 60.32831&lt;br /&gt;Club: Fuenlabrada&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 61.09974&lt;br /&gt;Club: Fuenlabrada&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(100,178,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Fuenlabrada&#34;,&#34;legendgroup&#34;:&#34;Fuenlabrada&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[61.8566127583057,62.7321489029561],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 61.85661&lt;br /&gt;Club: Girona&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 62.73215&lt;br /&gt;Club: Girona&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,184,27,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Girona&#34;,&#34;legendgroup&#34;:&#34;Girona&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[54.194801412333,54.8660190200135],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 54.19480&lt;br /&gt;Club: Las Palmas&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 54.86602&lt;br /&gt;Club: Las Palmas&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,189,92,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Las Palmas&#34;,&#34;legendgroup&#34;:&#34;Las Palmas&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[77.1856830930847,77.7286602163374],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 77.18568&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 77.72866&lt;br /&gt;Club: Leganés&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,192,133,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Leganés&#34;,&#34;legendgroup&#34;:&#34;Leganés&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[48.9933880602644,47.493007335185],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 48.99339&lt;br /&gt;Club: Logronyés&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 47.49301&lt;br /&gt;Club: Logronyés&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,193,167,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Logronyés&#34;,&#34;legendgroup&#34;:&#34;Logronyés&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[44.8642324680501,45.7551050489902],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 44.86423&lt;br /&gt;Club: Lugo&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 45.75511&lt;br /&gt;Club: Lugo&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,191,196,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Lugo&#34;,&#34;legendgroup&#34;:&#34;Lugo&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[58.7665734181709,61.7049398040907],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 58.76657&lt;br /&gt;Club: Màlaga&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 61.70494&lt;br /&gt;Club: Màlaga&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,186,222,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Màlaga&#34;,&#34;legendgroup&#34;:&#34;Màlaga&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[58.0727704282288,58.768978024478],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 58.07277&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 58.76898&lt;br /&gt;Club: Mallorca&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,178,243,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Mallorca&#34;,&#34;legendgroup&#34;:&#34;Mallorca&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[49.913106899424,50.4083519858716],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 49.91311&lt;br /&gt;Club: Mirandés&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 50.40835&lt;br /&gt;Club: Mirandés&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,166,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Mirandés&#34;,&#34;legendgroup&#34;:&#34;Mirandés&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[56.2905011971872,56.7812094780285],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 56.29050&lt;br /&gt;Club: Oviedo&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 56.78121&lt;br /&gt;Club: Oviedo&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(124,150,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Oviedo&#34;,&#34;legendgroup&#34;:&#34;Oviedo&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[45.9925739379311,46.2589278577691],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 45.99257&lt;br /&gt;Club: Ponferradina&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 46.25893&lt;br /&gt;Club: Ponferradina&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(179,133,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Ponferradina&#34;,&#34;legendgroup&#34;:&#34;Ponferradina&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[59.9229818957337,60.8673481864609],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 59.92298&lt;br /&gt;Club: Rayo Vallecano&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 60.86735&lt;br /&gt;Club: Rayo Vallecano&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(216,116,253,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Rayo Vallecano&#34;,&#34;legendgroup&#34;:&#34;Rayo Vallecano&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[55.9522502683493,51.217008873315],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 55.95225&lt;br /&gt;Club: Sabadell&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 51.21701&lt;br /&gt;Club: Sabadell&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(239,103,235,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Sabadell&#34;,&#34;legendgroup&#34;:&#34;Sabadell&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[52.4806568745897,53.4685194297024],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 52.48066&lt;br /&gt;Club: Saragossa&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 53.46852&lt;br /&gt;Club: Saragossa&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(253,97,211,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Saragossa&#34;,&#34;legendgroup&#34;:&#34;Saragossa&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[64.7480322285239,65.3822875162097],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 64.74803&lt;br /&gt;Club: Sporting&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 65.38229&lt;br /&gt;Club: Sporting&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(255,99,182,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Sporting&#34;,&#34;legendgroup&#34;:&#34;Sporting&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[61.9512198644226,59.658602441759],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 61.95122&lt;br /&gt;Club: Tenerife&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 59.65860&lt;br /&gt;Club: Tenerife&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(255,107,148,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Tenerife&#34;,&#34;legendgroup&#34;:&#34;Tenerife&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null}],&#34;layout&#34;:{&#34;margin&#34;:{&#34;t&#34;:26.6544901065449,&#34;r&#34;:7.30593607305936,&#34;b&#34;:40.6088280060883,&#34;l&#34;:37.2602739726027},&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187},&#34;xaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;type&#34;:&#34;linear&#34;,&#34;autorange&#34;:false,&#34;range&#34;:[0.95,2.05],&#34;tickmode&#34;:&#34;array&#34;,&#34;ticktext&#34;:[&#34;1.00&#34;,&#34;1.25&#34;,&#34;1.50&#34;,&#34;1.75&#34;,&#34;2.00&#34;],&#34;tickvals&#34;:[1,1.25,1.5,1.75,2],&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;1.00&#34;,&#34;1.25&#34;,&#34;1.50&#34;,&#34;1.75&#34;,&#34;2.00&#34;],&#34;nticks&#34;:null,&#34;ticks&#34;:&#34;&#34;,&#34;tickcolor&#34;:null,&#34;ticklen&#34;:3.65296803652968,&#34;tickwidth&#34;:0,&#34;showticklabels&#34;:true,&#34;tickfont&#34;:{&#34;color&#34;:&#34;rgba(77,77,77,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;tickangle&#34;:-0,&#34;showline&#34;:false,&#34;linecolor&#34;:null,&#34;linewidth&#34;:0,&#34;showgrid&#34;:true,&#34;gridcolor&#34;:&#34;rgba(235,235,235,1)&#34;,&#34;gridwidth&#34;:0.66417600664176,&#34;zeroline&#34;:false,&#34;anchor&#34;:&#34;y&#34;,&#34;title&#34;:{&#34;text&#34;:&#34;Jornada&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187}},&#34;hoverformat&#34;:&#34;.2f&#34;},&#34;yaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;type&#34;:&#34;linear&#34;,&#34;autorange&#34;:false,&#34;range&#34;:[32.615492478572,80.3073936950395],&#34;tickmode&#34;:&#34;array&#34;,&#34;ticktext&#34;:[&#34;40&#34;,&#34;50&#34;,&#34;60&#34;,&#34;70&#34;,&#34;80&#34;],&#34;tickvals&#34;:[40,50,60,70,80],&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;40&#34;,&#34;50&#34;,&#34;60&#34;,&#34;70&#34;,&#34;80&#34;],&#34;nticks&#34;:null,&#34;ticks&#34;:&#34;&#34;,&#34;tickcolor&#34;:null,&#34;ticklen&#34;:3.65296803652968,&#34;tickwidth&#34;:0,&#34;showticklabels&#34;:true,&#34;tickfont&#34;:{&#34;color&#34;:&#34;rgba(77,77,77,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;tickangle&#34;:-0,&#34;showline&#34;:false,&#34;linecolor&#34;:null,&#34;linewidth&#34;:0,&#34;showgrid&#34;:true,&#34;gridcolor&#34;:&#34;rgba(235,235,235,1)&#34;,&#34;gridwidth&#34;:0.66417600664176,&#34;zeroline&#34;:false,&#34;anchor&#34;:&#34;x&#34;,&#34;title&#34;:{&#34;text&#34;:&#34;Punts.Projectats&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187}},&#34;hoverformat&#34;:&#34;.2f&#34;},&#34;shapes&#34;:[{&#34;type&#34;:&#34;rect&#34;,&#34;fillcolor&#34;:null,&#34;line&#34;:{&#34;color&#34;:null,&#34;width&#34;:0,&#34;linetype&#34;:[]},&#34;yref&#34;:&#34;paper&#34;,&#34;xref&#34;:&#34;paper&#34;,&#34;x0&#34;:0,&#34;x1&#34;:1,&#34;y0&#34;:0,&#34;y1&#34;:1}],&#34;showlegend&#34;:true,&#34;legend&#34;:{&#34;bgcolor&#34;:null,&#34;bordercolor&#34;:null,&#34;borderwidth&#34;:0,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;y&#34;:0.948031496062992},&#34;annotations&#34;:[{&#34;text&#34;:&#34;Club&#34;,&#34;x&#34;:1.02,&#34;y&#34;:1,&#34;showarrow&#34;:false,&#34;ax&#34;:0,&#34;ay&#34;:0,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187},&#34;xref&#34;:&#34;paper&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;textangle&#34;:-0,&#34;xanchor&#34;:&#34;left&#34;,&#34;yanchor&#34;:&#34;bottom&#34;,&#34;legendTitle&#34;:true}],&#34;hovermode&#34;:&#34;closest&#34;,&#34;width&#34;:875,&#34;height&#34;:600,&#34;barmode&#34;:&#34;relative&#34;},&#34;config&#34;:{&#34;doubleClick&#34;:&#34;reset&#34;,&#34;showSendToCloud&#34;:false,&#34;displayModeBar&#34;:false},&#34;source&#34;:&#34;A&#34;,&#34;attrs&#34;:{&#34;104c70e7b891&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;colour&#34;:{},&#34;type&#34;:&#34;scatter&#34;}},&#34;cur_data&#34;:&#34;104c70e7b891&#34;,&#34;visdat&#34;:{&#34;104c70e7b891&#34;:[&#34;function (y) &#34;,&#34;x&#34;]},&#34;highlight&#34;:{&#34;on&#34;:&#34;plotly_click&#34;,&#34;persistent&#34;:false,&#34;dynamic&#34;:false,&#34;selectize&#34;:false,&#34;opacityDim&#34;:0.2,&#34;selected&#34;:{&#34;opacity&#34;:1},&#34;debounce&#34;:0},&#34;shinyEvents&#34;:[&#34;plotly_hover&#34;,&#34;plotly_click&#34;,&#34;plotly_selected&#34;,&#34;plotly_relayout&#34;,&#34;plotly_brushed&#34;,&#34;plotly_brushing&#34;,&#34;plotly_clickannotation&#34;,&#34;plotly_doubleclick&#34;,&#34;plotly_deselect&#34;,&#34;plotly_afterplot&#34;,&#34;plotly_sunburstclick&#34;],&#34;base_url&#34;:&#34;https://plot.ly&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;data&#34;:[{&#34;x&#34;:[1,2],&#34;y&#34;:[47.9558276631542,49.3085263480592],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 47.95583&lt;br /&gt;Club: Albacete&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 49.30853&lt;br /&gt;Club: Albacete&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(248,118,109,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Albacete&#34;,&#34;legendgroup&#34;:&#34;Albacete&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[58.7726496153962,63.4654083619996],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 58.77265&lt;br /&gt;Club: Alcorcón&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 63.46541&lt;br /&gt;Club: Alcorcón&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(236,130,57,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Alcorcón&#34;,&#34;legendgroup&#34;:&#34;Alcorcón&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[66.7813893007844,68.219019869063],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 66.78139&lt;br /&gt;Club: Almeria&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 68.21902&lt;br /&gt;Club: Almeria&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(219,142,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Almeria&#34;,&#34;legendgroup&#34;:&#34;Almeria&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[34.7833061702296,35.7112952255986],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 34.78331&lt;br /&gt;Club: Cartagena&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 35.71130&lt;br /&gt;Club: Cartagena&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(199,152,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Cartagena&#34;,&#34;legendgroup&#34;:&#34;Cartagena&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[51.4163003210412,41.1073888622211],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 51.41630&lt;br /&gt;Club: Castelló&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 41.10739&lt;br /&gt;Club: Castelló&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(174,162,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Castelló&#34;,&#34;legendgroup&#34;:&#34;Castelló&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[77.4139274031693,78.7443135261832],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 77.41393&lt;br /&gt;Club: Espanyol&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 78.74431&lt;br /&gt;Club: Espanyol&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(143,170,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Espanyol&#34;,&#34;legendgroup&#34;:&#34;Espanyol&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[60.328313228421,61.5888093178656],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 60.32831&lt;br /&gt;Club: Fuenlabrada&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 61.58881&lt;br /&gt;Club: Fuenlabrada&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(100,178,0,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Fuenlabrada&#34;,&#34;legendgroup&#34;:&#34;Fuenlabrada&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[61.8566127583057,63.2713514743856],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 61.85661&lt;br /&gt;Club: Girona&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 63.27135&lt;br /&gt;Club: Girona&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,184,27,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Girona&#34;,&#34;legendgroup&#34;:&#34;Girona&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[54.194801412333,55.3380046620014],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 54.19480&lt;br /&gt;Club: Las Palmas&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 55.33800&lt;br /&gt;Club: Las Palmas&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,189,92,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Las Palmas&#34;,&#34;legendgroup&#34;:&#34;Las Palmas&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[77.1856830930847,78.2449883726577],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 77.18568&lt;br /&gt;Club: Leganés&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 78.24499&lt;br /&gt;Club: Leganés&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,192,133,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Leganés&#34;,&#34;legendgroup&#34;:&#34;Leganés&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[48.9933880602644,47.4621375498704],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 48.99339&lt;br /&gt;Club: Logronyés&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 47.46214&lt;br /&gt;Club: Logronyés&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,193,167,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Logronyés&#34;,&#34;legendgroup&#34;:&#34;Logronyés&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[44.8642324680501,46.2471093471238],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 44.86423&lt;br /&gt;Club: Lugo&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 46.24711&lt;br /&gt;Club: Lugo&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,191,196,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Lugo&#34;,&#34;legendgroup&#34;:&#34;Lugo&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[58.7665734181709,62.1197311151319],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 58.76657&lt;br /&gt;Club: Màlaga&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 62.11973&lt;br /&gt;Club: Màlaga&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,186,222,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Màlaga&#34;,&#34;legendgroup&#34;:&#34;Màlaga&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[58.0727704282288,59.1302363742843],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 58.07277&lt;br /&gt;Club: Mallorca&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 59.13024&lt;br /&gt;Club: Mallorca&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,178,243,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Mallorca&#34;,&#34;legendgroup&#34;:&#34;Mallorca&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[49.913106899424,50.9129681470453],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 49.91311&lt;br /&gt;Club: Mirandés&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 50.91297&lt;br /&gt;Club: Mirandés&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(0,166,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Mirandés&#34;,&#34;legendgroup&#34;:&#34;Mirandés&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[56.2905011971872,57.3080373966365],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 56.29050&lt;br /&gt;Club: Oviedo&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 57.30804&lt;br /&gt;Club: Oviedo&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(124,150,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Oviedo&#34;,&#34;legendgroup&#34;:&#34;Oviedo&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[45.9925739379311,46.6679007809766],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 45.99257&lt;br /&gt;Club: Ponferradina&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 46.66790&lt;br /&gt;Club: Ponferradina&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(179,133,255,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Ponferradina&#34;,&#34;legendgroup&#34;:&#34;Ponferradina&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[59.9229818957337,62.8825330037145],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 59.92298&lt;br /&gt;Club: Rayo Vallecano&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 62.88253&lt;br /&gt;Club: Rayo Vallecano&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(216,116,253,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Rayo Vallecano&#34;,&#34;legendgroup&#34;:&#34;Rayo Vallecano&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[55.9522502683493,44.4774979062466],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 55.95225&lt;br /&gt;Club: Sabadell&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 44.47750&lt;br /&gt;Club: Sabadell&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(239,103,235,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Sabadell&#34;,&#34;legendgroup&#34;:&#34;Sabadell&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[52.4806568745897,54.0464622282944],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 52.48066&lt;br /&gt;Club: Saragossa&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 54.04646&lt;br /&gt;Club: Saragossa&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(253,97,211,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Saragossa&#34;,&#34;legendgroup&#34;:&#34;Saragossa&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[64.7480322285239,65.8640297765269],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 64.74803&lt;br /&gt;Club: Sporting&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 65.86403&lt;br /&gt;Club: Sporting&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(255,99,182,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Sporting&#34;,&#34;legendgroup&#34;:&#34;Sporting&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null},{&#34;x&#34;:[1,2],&#34;y&#34;:[61.9512198644226,60.1671410593354],&#34;text&#34;:[&#34;Jornada: 1&lt;br /&gt;Punts.Projectats: 61.95122&lt;br /&gt;Club: Tenerife&#34;,&#34;Jornada: 2&lt;br /&gt;Punts.Projectats: 60.16714&lt;br /&gt;Club: Tenerife&#34;],&#34;type&#34;:&#34;scatter&#34;,&#34;mode&#34;:&#34;lines&#34;,&#34;line&#34;:{&#34;width&#34;:1.88976377952756,&#34;color&#34;:&#34;rgba(255,107,148,1)&#34;,&#34;dash&#34;:&#34;solid&#34;},&#34;hoveron&#34;:&#34;points&#34;,&#34;name&#34;:&#34;Tenerife&#34;,&#34;legendgroup&#34;:&#34;Tenerife&#34;,&#34;showlegend&#34;:true,&#34;xaxis&#34;:&#34;x&#34;,&#34;yaxis&#34;:&#34;y&#34;,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null}],&#34;layout&#34;:{&#34;margin&#34;:{&#34;t&#34;:26.6544901065449,&#34;r&#34;:7.30593607305936,&#34;b&#34;:40.6088280060883,&#34;l&#34;:37.2602739726027},&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187},&#34;xaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;type&#34;:&#34;linear&#34;,&#34;autorange&#34;:false,&#34;range&#34;:[0.95,2.05],&#34;tickmode&#34;:&#34;array&#34;,&#34;ticktext&#34;:[&#34;1.00&#34;,&#34;1.25&#34;,&#34;1.50&#34;,&#34;1.75&#34;,&#34;2.00&#34;],&#34;tickvals&#34;:[1,1.25,1.5,1.75,2],&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;1.00&#34;,&#34;1.25&#34;,&#34;1.50&#34;,&#34;1.75&#34;,&#34;2.00&#34;],&#34;nticks&#34;:null,&#34;ticks&#34;:&#34;&#34;,&#34;tickcolor&#34;:null,&#34;ticklen&#34;:3.65296803652968,&#34;tickwidth&#34;:0,&#34;showticklabels&#34;:true,&#34;tickfont&#34;:{&#34;color&#34;:&#34;rgba(77,77,77,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;tickangle&#34;:-0,&#34;showline&#34;:false,&#34;linecolor&#34;:null,&#34;linewidth&#34;:0,&#34;showgrid&#34;:true,&#34;gridcolor&#34;:&#34;rgba(235,235,235,1)&#34;,&#34;gridwidth&#34;:0.66417600664176,&#34;zeroline&#34;:false,&#34;anchor&#34;:&#34;y&#34;,&#34;title&#34;:{&#34;text&#34;:&#34;Jornada&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187}},&#34;hoverformat&#34;:&#34;.2f&#34;},&#34;yaxis&#34;:{&#34;domain&#34;:[0,1],&#34;automargin&#34;:true,&#34;type&#34;:&#34;linear&#34;,&#34;autorange&#34;:false,&#34;range&#34;:[32.5852558024319,80.9423638939809],&#34;tickmode&#34;:&#34;array&#34;,&#34;ticktext&#34;:[&#34;40&#34;,&#34;50&#34;,&#34;60&#34;,&#34;70&#34;,&#34;80&#34;],&#34;tickvals&#34;:[40,50,60,70,80],&#34;categoryorder&#34;:&#34;array&#34;,&#34;categoryarray&#34;:[&#34;40&#34;,&#34;50&#34;,&#34;60&#34;,&#34;70&#34;,&#34;80&#34;],&#34;nticks&#34;:null,&#34;ticks&#34;:&#34;&#34;,&#34;tickcolor&#34;:null,&#34;ticklen&#34;:3.65296803652968,&#34;tickwidth&#34;:0,&#34;showticklabels&#34;:true,&#34;tickfont&#34;:{&#34;color&#34;:&#34;rgba(77,77,77,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;tickangle&#34;:-0,&#34;showline&#34;:false,&#34;linecolor&#34;:null,&#34;linewidth&#34;:0,&#34;showgrid&#34;:true,&#34;gridcolor&#34;:&#34;rgba(235,235,235,1)&#34;,&#34;gridwidth&#34;:0.66417600664176,&#34;zeroline&#34;:false,&#34;anchor&#34;:&#34;x&#34;,&#34;title&#34;:{&#34;text&#34;:&#34;Punts.Projectats&#34;,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187}},&#34;hoverformat&#34;:&#34;.2f&#34;},&#34;shapes&#34;:[{&#34;type&#34;:&#34;rect&#34;,&#34;fillcolor&#34;:null,&#34;line&#34;:{&#34;color&#34;:null,&#34;width&#34;:0,&#34;linetype&#34;:[]},&#34;yref&#34;:&#34;paper&#34;,&#34;xref&#34;:&#34;paper&#34;,&#34;x0&#34;:0,&#34;x1&#34;:1,&#34;y0&#34;:0,&#34;y1&#34;:1}],&#34;showlegend&#34;:true,&#34;legend&#34;:{&#34;bgcolor&#34;:null,&#34;bordercolor&#34;:null,&#34;borderwidth&#34;:0,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:11.689497716895},&#34;y&#34;:0.948031496062992},&#34;annotations&#34;:[{&#34;text&#34;:&#34;Club&#34;,&#34;x&#34;:1.02,&#34;y&#34;:1,&#34;showarrow&#34;:false,&#34;ax&#34;:0,&#34;ay&#34;:0,&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;&#34;,&#34;size&#34;:14.6118721461187},&#34;xref&#34;:&#34;paper&#34;,&#34;yref&#34;:&#34;paper&#34;,&#34;textangle&#34;:-0,&#34;xanchor&#34;:&#34;left&#34;,&#34;yanchor&#34;:&#34;bottom&#34;,&#34;legendTitle&#34;:true}],&#34;hovermode&#34;:&#34;closest&#34;,&#34;width&#34;:875,&#34;height&#34;:600,&#34;barmode&#34;:&#34;relative&#34;},&#34;config&#34;:{&#34;doubleClick&#34;:&#34;reset&#34;,&#34;showSendToCloud&#34;:false,&#34;displayModeBar&#34;:false},&#34;source&#34;:&#34;A&#34;,&#34;attrs&#34;:{&#34;244a302fa78&#34;:{&#34;x&#34;:{},&#34;y&#34;:{},&#34;colour&#34;:{},&#34;type&#34;:&#34;scatter&#34;}},&#34;cur_data&#34;:&#34;244a302fa78&#34;,&#34;visdat&#34;:{&#34;244a302fa78&#34;:[&#34;function (y) &#34;,&#34;x&#34;]},&#34;highlight&#34;:{&#34;on&#34;:&#34;plotly_click&#34;,&#34;persistent&#34;:false,&#34;dynamic&#34;:false,&#34;selectize&#34;:false,&#34;opacityDim&#34;:0.2,&#34;selected&#34;:{&#34;opacity&#34;:1},&#34;debounce&#34;:0},&#34;shinyEvents&#34;:[&#34;plotly_hover&#34;,&#34;plotly_click&#34;,&#34;plotly_selected&#34;,&#34;plotly_relayout&#34;,&#34;plotly_brushed&#34;,&#34;plotly_brushing&#34;,&#34;plotly_clickannotation&#34;,&#34;plotly_doubleclick&#34;,&#34;plotly_deselect&#34;,&#34;plotly_afterplot&#34;,&#34;plotly_sunburstclick&#34;],&#34;base_url&#34;:&#34;https://plot.ly&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;/div&gt;
 </description>
     </item>
