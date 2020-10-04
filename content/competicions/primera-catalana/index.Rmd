@@ -18,40 +18,56 @@ title: Primera Catalana
 suppressMessages(library(dplyr))
 suppressMessages(library(kableExtra))
 teamnames <- read.csv("~/Google Drive/Futbol/teamlist.csv")
-data <- read.csv("~/Google Drive/Futbol/primcatpreview.csv")
-table <- data %>% filter(league == 'primera_catalana_1a')
+data <- read.csv("~/Google Drive/Futbol/data_tables.csv")
+table <- data %>% filter(league == 'primera_catalana_1')
 table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
 table <- table[complete.cases(table),]
-table <- table %>% select(-fullname,-team, -league)
-kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Fase Ascens', 'Fase Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Primer Fase de 2020-2021' = 1, 'Projecció' = 2, 'Probabilitat (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
+table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
+table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
+table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
+table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
+table <- table %>% select(-fullname,-shortname, -league, -type2, -typex, -linkteam)
+kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Fase Ascens', 'Fase Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció del Primer Fase' = 1, 'Projecció' = 2, 'Probabilitat (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
 ```
 
 ### Subgrup 1-B
 
 ```{r echo=F,warning=FALSE,message=FALSE}
-table <- data %>% filter(league == 'primera_catalana_1b')
+table <- data %>% filter(league == 'primera_catalana_2')
 table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
 table <- table[complete.cases(table),]
-table <- table %>% select(-fullname,-team, -league)
-kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Fase Ascens', 'Fase Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Primer Fase de 2020-2021' = 1, 'Projecció' = 2, 'Probabilitat (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
+table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
+table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
+table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
+table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
+table <- table %>% select(-fullname,-shortname, -league, -type2, -typex, -linkteam)
+kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Fase Ascens', 'Fase Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció del Primer Fase' = 1, 'Projecció' = 2, 'Probabilitat (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
 ```
 
 ### Subgrup 2-A
 
 ```{r echo=F,warning=FALSE,message=FALSE}
-table <- data %>% filter(league == 'primera_catalana_2a')
+table <- data %>% filter(league == 'primera_catalana_3')
 table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
 table <- table[complete.cases(table),]
-table <- table %>% select(-fullname,-team, -league)
-kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Fase Ascens', 'Fase Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Primer Fase de 2020-2021' = 1, 'Projecció' = 2, 'Probabilitat (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
+table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
+table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
+table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
+table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
+table <- table %>% select(-fullname,-shortname, -league, -type2, -typex, -linkteam)
+kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Fase Ascens', 'Fase Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció del Primer Fase' = 1, 'Projecció' = 2, 'Probabilitat (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
 ```
 
 ### Subgrup 2-B
 
 ```{r echo=F,warning=FALSE,message=FALSE}
-table <- data %>% filter(league == 'primera_catalana_2b')
+table <- data %>% filter(league == 'primera_catalana_4')
 table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
 table <- table[complete.cases(table),]
-table <- table %>% select(-fullname,-team, -league)
-kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Fase Ascens', 'Fase Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Primer Fase de 2020-2021' = 1, 'Projecció' = 2, 'Probabilitat (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
+table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
+table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
+table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
+table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
+table <- table %>% select(-fullname,-shortname, -league, -type2, -typex, -linkteam)
+kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Fase Ascens', 'Fase Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció del Primer Fase' = 1, 'Projecció' = 2, 'Probabilitat (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
 ```
