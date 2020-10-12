@@ -9,20 +9,20 @@ summary: Projecció de 2020-2021
 tags:
 - 2020-2021
 - Femenina
-title: Reto, Grup Nord
+title: Reto, Grup Nord B
 subtitle: Projecció de 2020-2021
 ---
 ```{r echo=F}
 suppressMessages(library(dplyr))
 suppressMessages(library(kableExtra))
 teamnames <- read.csv("~/Google Drive/Futbol/teamlist.csv")
-table <- read.csv("~/Google Drive/Futbol/reto2021.csv") %>% filter(league == "primera_division_b_femenina")
+table <- read.csv("~/Google Drive/Futbol/data_tables.csv") %>% filter(league == "primera_division_b_femenina_1")
 table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
 table <- table[complete.cases(table),]
-#table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
-#table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
-#table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
-#table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
-table <- table %>% select(-team,-fullname,-league,-typex)
-kable(table, digits = 1, align = 'lccccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Campió', 'UCL', 'Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Probabilitat (%)' = 3, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(6, border_right = T)
+table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
+table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
+table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
+table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
+table <- table %>% select(-shortname,-fullname,-league,-typex,-type2,-linkteam)
+kable(table, digits = 1, align = 'lccccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Fase Ascens', 'Fase Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Probabilitat (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
 ```

@@ -18,21 +18,29 @@ title: Segona B, Grup III
 suppressMessages(library(dplyr))
 suppressMessages(library(kableExtra))
 teamnames <- read.csv("~/Google Drive/Futbol/teamlist.csv")
-data <- read.csv("~/Google Drive/Futbol/segbpreview.csv")
-table <- data %>% filter(league == 'segundab_a')
+data <- read.csv("~/Google Drive/Futbol/data_tables.csv")
+table <- data %>% filter(league == 'segundab_2')
 table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
 table <- table[complete.cases(table),]
-table <- table %>% select(-fullname,-team, -league)
+table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
+table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
+table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
+table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
+table <- table %>% select(-shortname,-fullname,-linkteam, -league,-typex)
 kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', '1-3', '4-7','8-11', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Primer Fase de 2020-2021' = 1, 'Projecció' = 2, 'Probabilitat (%)' = 3, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(6, border_right = T)
 ```
 
 ### Subgrup B
 
 ```{r echo=F,warning=FALSE,message=FALSE}
-table <- data %>% filter(league == 'segundab_b')
+table <- data %>% filter(league == 'segundab_3')
 table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
 table <- table[complete.cases(table),]
-table <- table %>% select(-fullname,-team, -league)
+table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
+table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
+table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
+table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
+table <- table %>% select(-shortname,-fullname,-linkteam, -league,-typex)
 kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', '1-3', '4-7','8-10', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Primer Fase de 2020-2021' = 1, 'Projecció' = 2, 'Probabilitat (%)' = 3, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(6, border_right = T)
 ```
 

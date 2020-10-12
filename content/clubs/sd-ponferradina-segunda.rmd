@@ -1,6 +1,6 @@
 ---
 date: "2020-06-17"
-title: 'SD Ponferradina'
+title: "SD Ponferradina"
 subtitle: 'Segona A'
 summary: 'Segona A'
 ---
@@ -13,8 +13,8 @@ h <- read.csv('~/Google Drive/Futbol/data_tables.csv') %>% filter(league == 'seg
 type1 <- as.numeric(h[2,2] + h[3,2])/2
 type2 <- as.numeric(h[7,2] + h[6,2])/2
 type3 <- as.numeric(h[18,2] + h[19,2])/2
-p <- ggplot(data=d) + geom_line(aes(round,points), size = 1.5, color = 'blue') + geom_hline(aes(yintercept=type1), linetype='dashed', color='#5c5c5c') + annotate('text',0,type1,label = 'Top 2', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=type2), linetype='dashed', color='#5c5c5c') + annotate('text',0,type2,label = 'Top 6', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=type3), linetype='dashed', color='#5c5c5c') + annotate('text',0,type3,label = 'Descens', vjust = -.5, hjust = 'left', color='#5c5c5c')
-p + theme_minimal() + labs(x = "Jornada", y = "Punts Projectats")
+p <- ggplot(data=d) + geom_line(aes(round,points), size = 1.5, color = 'blue') + geom_hline(aes(yintercept=type1), linetype='dashed', color='#5c5c5c') + annotate('text',0,type1,label = 'Ascens', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=type2), linetype='dashed', color='#5c5c5c') + annotate('text',0,type2,label = 'Playoffs', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=type3), linetype='dashed', color='#5c5c5c') + annotate('text',0,type3,label = 'Descens', vjust = -.5, hjust = 'left', color='#5c5c5c')
+if (nrow(d)>0){p + theme_minimal() + labs(x = "Jornada", y = "Punts Projectats")}
 ```
  
 ### Pròxims partits
