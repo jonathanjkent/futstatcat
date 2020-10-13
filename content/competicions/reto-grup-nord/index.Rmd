@@ -5,12 +5,12 @@ image:
   caption: 
   focal_point: Smart
   preview_only: true
-summary: Projecció de 2020-2021
+summary: Projecció del primer fase de 2020-2021 
 tags:
 - 2020-2021
 - Femenina
 title: Reto, Grup Nord B
-subtitle: Projecció de 2020-2021
+subtitle: Projecció del primer fase de 2020-2021 
 ---
 ```{r echo=F}
 suppressMessages(library(dplyr))
