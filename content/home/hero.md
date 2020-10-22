@@ -42,4 +42,4 @@ hero_media = "heroimg.png"
 +++
 ## Projeccions del Futbol Català
 
-Les projeccions aquí es basen en la investigació de [Dixon & Coles](https://rss.onlinelibrary.wiley.com/doi/10.1111/1467-9876.00065). Fem servir [goalmodel.R](https://github.com/opisthokonta/goalmodel) i 10.000 simulacions Monte Carlo dels pròxims partits per projectar els resultats. Ara mateix tenim gràfics sobre [COVID-19](/covid-19) a Catalunya també. 
+Les projeccions aquí es basen en la investigació de [Dixon & Coles](https://rss.onlinelibrary.wiley.com/doi/10.1111/1467-9876.00065). Fem servir [goalmodel.R](https://github.com/opisthokonta/goalmodel) i 10.000 simulacions Monte Carlo dels pròxims partits per projectar els resultats. 
