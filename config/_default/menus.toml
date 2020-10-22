@@ -9,14 +9,17 @@
   weight = 10
 
 [[main]]
-  name = "Projeccions 2020-2021"
-  url = "tags/2020-2021/"
-  weight = 50
+  name = "Masculina"
+  url = "tags/masculina/"
+  weight = 20
 
 [[main]]
-  name = "COVID-19"
-  url = "covid-19/"
-  weight = 60
+  name = "Femenina"
+  url = "tags/femenina/"
+  weight = 21
+
+
+
 
 
 
