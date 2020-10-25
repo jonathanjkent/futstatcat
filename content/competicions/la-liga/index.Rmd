@@ -2,7 +2,7 @@
 date: "2020-06-17"
 image:
   preview_only: true
-summary: Campió Projectat, Barça
+summary: Campió Projectat, Reial Madrid
 tags:
   - 2020-2021
   - Masculina
