@@ -12,6 +12,9 @@ tags:
 - Masculina
 title: Tercera, Grup V
 ---
+ | [Trajectòria dels equips](/competicions/tercera-trajectoria/) |
+<br>
+
 ### Subgrup A
 
 ```{r echo=F,warning=FALSE,message=FALSE}

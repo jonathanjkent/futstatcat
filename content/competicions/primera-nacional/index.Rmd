@@ -12,6 +12,10 @@ tags:
 title: Primera Nacional, Grup V
 subtitle: Projecció de 2020-2021
 ---
+ | [Trajectòria dels equips](/competicions/primera-nacional-trajectoria/) |
+<br>
+<br>
+
 ```{r echo=F}
 suppressMessages(library(dplyr))
 suppressMessages(library(kableExtra))

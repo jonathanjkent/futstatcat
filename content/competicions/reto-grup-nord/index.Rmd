@@ -12,6 +12,10 @@ tags:
 title: Reto, Grup Nord B
 subtitle: Projecció del primer fase de 2020-2021 
 ---
+ | [Trajectòria dels equips](/competicions/reto-grup-nord-trajectoria/) |
+<br>
+<br>
+
 ```{r echo=F}
 suppressMessages(library(dplyr))
 suppressMessages(library(kableExtra))

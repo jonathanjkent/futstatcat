@@ -1,0 +1,21 @@
+---
+date: "2020-06-17"
+image:
+  preview_only: true
+summary: Trajectòria dels equips
+title: Primera Nacional, Grup V | Trajectòria
+---
+
+### Trajectòria dels equips
+```{r, echo=F,warning=FALSE,message=FALSE}
+suppressMessages(library(tidyverse))
+suppressMessages(library(plotly))
+d <- suppressMessages(read_csv("~/Google Drive/Futbol/data_trajectories.csv", col_types = cols())) %>% filter(league == "segunda_division_femenina")
+teams <- suppressMessages(read_csv("~/Google Drive/Futbol/teamlist.csv", col_types = cols())) %>% select(-fullname)
+d <- d %>% left_join(teams, by = "team") %>% select(shortname, points, round)
+names(d) <- c("Club", "Punts.Projectats", "Jornada")
+plot <- ggplot() + geom_line(data = d, aes(Jornada, Punts.Projectats, color = Club)) + theme_minimal()
+plot2 <- ggplotly(plot, width=875, height=600)
+plot2 <- config(plot2, displayModeBar = FALSE)
+plot2
+```
