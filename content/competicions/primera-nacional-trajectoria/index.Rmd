@@ -14,7 +14,13 @@ d <- suppressMessages(read_csv("~/Google Drive/Futbol/data_trajectories.csv", co
 teams <- suppressMessages(read_csv("~/Google Drive/Futbol/teamlist.csv", col_types = cols())) %>% select(-fullname)
 d <- d %>% left_join(teams, by = "team") %>% select(shortname, points, round)
 names(d) <- c("Club", "Punts.Projectats", "Jornada")
-plot <- ggplot() + geom_line(data = d, aes(Jornada, Punts.Projectats, color = Club)) + theme_minimal()
+levels <- d %>% filter(Jornada == max(Jornada)) %>% arrange(desc(Punts.Projectats)) %>% select(Club)
+levels <- levels$Club
+d$Club <- factor(d$Club, levels = levels)
+h <- read.csv('~/Google Drive/Futbol/data_tables.csv') %>% filter(league == 'segunda_division_femenina')
+type1 <- as.numeric(h[1,2] + h[2,2])/2
+type2 <- as.numeric(h[12,2] + h[11,2])/2
+plot <- ggplot() + geom_line(data = d, aes(Jornada, Punts.Projectats, color = Club)) + geom_hline(aes(yintercept=type1), linetype='dashed', color='#dddddd') + geom_hline(aes(yintercept=type2), linetype='dashed', color='#dddddd') + theme_minimal()
 plot2 <- ggplotly(plot, width=875, height=600)
 plot2 <- config(plot2, displayModeBar = FALSE)
 plot2

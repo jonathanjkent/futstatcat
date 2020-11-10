@@ -88,10 +88,10 @@ Sabadell
 37.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30.3
+30.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.6
+32.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -165,13 +165,13 @@ Alcorcón
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.2
+33.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30.3
+30.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.5
+36.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -185,13 +185,13 @@ Girona
 Oviedo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-53.5
+53.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 25.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.6
+20.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -205,13 +205,13 @@ Alcorcón
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.7
+27.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.7
+43.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Almeria
@@ -225,13 +225,13 @@ Almeria
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-49.7
+50.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.0
+23.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -285,7 +285,7 @@ Alcorcón
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.4
+42.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.3
@@ -325,13 +325,13 @@ Alcorcón
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.5
+35.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.1
+32.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -345,13 +345,13 @@ Màlaga
 Ponferradina
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.8
+43.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.4
+28.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -365,13 +365,13 @@ Alcorcón
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.1
+35.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.7
+34.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Logronyés
@@ -385,13 +385,13 @@ Logronyés
 Saragossa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-49.7
+49.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 24.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.7
+25.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -405,7 +405,7 @@ Alcorcón
 Tenerife
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.1
+48.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.5
@@ -448,10 +448,10 @@ Almeria
 59.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.1
+24.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-15.9
+16.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -465,7 +465,7 @@ Alcorcón
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.1
+35.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.1
@@ -488,10 +488,10 @@ Sporting
 55.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.3
+27.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16.7
+16.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -505,7 +505,7 @@ Alcorcón
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.1
+34.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.7
@@ -525,13 +525,13 @@ Oviedo
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-55.8
+55.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 23.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.5
+20.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -545,7 +545,7 @@ Alcorcón
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-54.1
+54.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.7
@@ -565,7 +565,7 @@ Castelló
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.3
+48.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.1
@@ -625,13 +625,13 @@ Alcorcón
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-38.6
+38.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.5
+33.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -665,13 +665,13 @@ Alcorcón
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-47.7
+47.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.5
+23.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sabadell
@@ -685,13 +685,13 @@ Sabadell
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.0
+51.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.6
+27.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.4
+20.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -2460,7 +2460,7 @@ Equip
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.8
+46.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.5
@@ -2543,10 +2543,10 @@ Sporting
 53.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.1
+29.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16.9
+17.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Albacete
@@ -2560,13 +2560,13 @@ Albacete
 Albacete
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.8
+33.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.8
+31.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.4
+35.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -2586,7 +2586,7 @@ Castelló
 31.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.8
+37.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Albacete
@@ -2600,10 +2600,10 @@ Albacete
 Mirandés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.9
+46.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.7
+28.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 24.4
@@ -2626,7 +2626,7 @@ Albacete
 34.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.1
+31.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -2640,7 +2640,7 @@ Màlaga
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.4
+42.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.3
@@ -2686,7 +2686,7 @@ Oviedo
 27.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.8
+20.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Albacete
@@ -2703,7 +2703,7 @@ Albacete
 18.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.6
+33.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 47.8
@@ -2720,13 +2720,13 @@ Mallorca
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.6
+52.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16.2
+16.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Albacete
@@ -2760,7 +2760,7 @@ Sporting
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.9
+35.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.8
@@ -2786,7 +2786,7 @@ Albacete
 31.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.7
+33.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Logronyés
@@ -2800,7 +2800,7 @@ Logronyés
 Tenerife
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.4
+46.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.1
@@ -2840,13 +2840,13 @@ Cartagena
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-50.2
+49.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.3
+29.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.6
+20.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Albacete
@@ -2866,7 +2866,7 @@ Albacete
 28.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.9
+19.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Castelló
@@ -2900,13 +2900,13 @@ Espanyol
 Màlaga
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-44.7
+44.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-22.8
+22.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Albacete
@@ -2926,7 +2926,7 @@ Albacete
 30.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.8
+31.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -2940,13 +2940,13 @@ Mirandés
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-51.6
+51.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.4
+21.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Albacete
@@ -2980,7 +2980,7 @@ Alcorcón
 Ponferradina
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.4
+42.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.2
@@ -3040,13 +3040,13 @@ Lugo
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.1
+48.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.8
+27.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.1
+23.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Albacete
@@ -9854,7 +9854,7 @@ Cartagena
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-63.4
+63.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 23.0
@@ -9920,7 +9920,7 @@ Castelló
 26.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.7
+43.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Saragossa
@@ -9960,7 +9960,7 @@ Castelló
 31.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.8
+37.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Albacete
@@ -9974,7 +9974,7 @@ Albacete
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.7
+46.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.5
@@ -10000,7 +10000,7 @@ Castelló
 32.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.5
+42.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -10014,7 +10014,7 @@ Tenerife
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-79.8
+79.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 16.0
@@ -10054,7 +10054,7 @@ Sporting
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-69.0
+68.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 21.0
@@ -10074,7 +10074,7 @@ Castelló
 Castelló
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.5
+27.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.7
@@ -10114,13 +10114,13 @@ Fuenlabrada
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-61.3
+60.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.3
+25.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-13.5
+13.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Castelló
@@ -10134,13 +10134,13 @@ Castelló
 Castelló
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.3
+26.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.9
+44.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -10154,13 +10154,13 @@ Las Palmas
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-62.8
+62.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-10.6
+10.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Castelló
@@ -10174,7 +10174,7 @@ Castelló
 Castelló
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.6
+35.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.1
@@ -10200,7 +10200,7 @@ Lugo
 24.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16.8
+16.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Castelló
@@ -10240,7 +10240,7 @@ Albacete
 28.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.9
+19.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Castelló
@@ -10257,10 +10257,10 @@ Castelló
 23.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.8
+28.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-47.5
+47.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -10274,7 +10274,7 @@ Oviedo
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-54.1
+54.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.7
@@ -10300,7 +10300,7 @@ Castelló
 29.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-57.8
+57.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -10314,7 +10314,7 @@ Mallorca
 Tenerife
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-57.3
+57.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.6
@@ -10340,7 +10340,7 @@ Castelló
 30.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-44.4
+44.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Logronyés
@@ -10357,10 +10357,10 @@ Cartagena
 66.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.9
+21.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-12.9
+13.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Castelló
@@ -10394,13 +10394,13 @@ Ponferradina
 Saragossa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-60.8
+60.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 22.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16.6
+16.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Castelló
@@ -10417,10 +10417,10 @@ Castelló
 24.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.3
+28.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-47.3
+47.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Rayo Vallecano
@@ -10440,7 +10440,7 @@ Màlaga
 29.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-15.5
+15.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Castelló
@@ -10565,10 +10565,10 @@ Leganés
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.6
+21.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.3
+39.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 39.2
@@ -10588,7 +10588,7 @@ Ponferradina
 26.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.4
+33.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 40.3
@@ -10628,7 +10628,7 @@ Tenerife
 29.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.6
+37.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.6
@@ -10651,7 +10651,7 @@ Leganés
 41.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.4
+31.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -10705,7 +10705,7 @@ Leganés
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.0
+38.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 34.6
@@ -10725,13 +10725,13 @@ Almeria
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30.6
+30.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 33.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.0
+35.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Leganés
@@ -10745,7 +10745,7 @@ Leganés
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.8
+52.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.1
@@ -10765,13 +10765,13 @@ Lugo
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.7
+32.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 36.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30.9
+31.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Leganés
@@ -10785,13 +10785,13 @@ Leganés
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.6
+52.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16.2
+16.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Albacete
@@ -10805,7 +10805,7 @@ Albacete
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-45.3
+45.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 35.2
@@ -10828,10 +10828,10 @@ Cartagena
 35.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.9
+31.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.1
+33.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Leganés
@@ -10845,13 +10845,13 @@ Leganés
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-62.8
+62.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-10.6
+10.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Castelló
@@ -10871,7 +10871,7 @@ Oviedo
 34.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.0
+32.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Leganés
@@ -10885,13 +10885,13 @@ Leganés
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-44.5
+44.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 34.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.0
+21.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Fuenlabrada
@@ -11065,13 +11065,13 @@ Leganés
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-45.7
+45.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 33.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.4
+20.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Logronyés
@@ -11105,7 +11105,7 @@ Leganés
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-44.9
+44.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 36.3
@@ -11216,7 +11216,7 @@ Equip
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.8
+46.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.5
@@ -11256,10 +11256,10 @@ Lugo
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-38.1
+38.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.6
+27.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 34.4
@@ -11282,7 +11282,7 @@ Màlaga
 30.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.7
+25.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -11296,13 +11296,13 @@ Lugo
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.0
+42.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.5
+26.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30.5
+30.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -11316,13 +11316,13 @@ Las Palmas
 Mirandés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-45.8
+45.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.4
+27.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -11336,10 +11336,10 @@ Lugo
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.4
+48.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.0
+26.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 25.6
@@ -11362,7 +11362,7 @@ Saragossa
 24.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.1
+29.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -11376,7 +11376,7 @@ Lugo
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.2
+31.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.5
@@ -11396,13 +11396,13 @@ Sporting
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.4
+34.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.4
+36.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -11416,7 +11416,7 @@ Lugo
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.3
+39.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.9
@@ -11436,7 +11436,7 @@ Tenerife
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.8
+52.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.1
@@ -11462,7 +11462,7 @@ Lugo
 27.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-57.8
+57.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Espanyol
@@ -11496,7 +11496,7 @@ Lugo
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.1
+39.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.9
@@ -11522,7 +11522,7 @@ Almeria
 24.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.1
+18.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -11542,7 +11542,7 @@ Lugo
 29.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.0
+33.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Fuenlabrada
@@ -11556,13 +11556,13 @@ Fuenlabrada
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-49.5
+49.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.3
+27.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.1
+23.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -11582,7 +11582,7 @@ Lugo
 24.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16.8
+16.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Castelló
@@ -11596,13 +11596,13 @@ Castelló
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.4
+52.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.0
+21.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sabadell
@@ -11616,13 +11616,13 @@ Sabadell
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.9
+47.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.0
+25.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.1
+26.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -11636,13 +11636,13 @@ Lugo
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.4
+39.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.7
+29.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -11676,7 +11676,7 @@ Lugo
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.3
+48.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.1
@@ -11716,13 +11716,13 @@ Lugo
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.5
+46.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 24.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.2
+29.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Saragossa
@@ -11742,7 +11742,7 @@ Sporting
 27.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.9
+19.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -11762,7 +11762,7 @@ Lugo
 27.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.8
+29.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -11796,13 +11796,13 @@ Lugo
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.1
+39.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 25.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.3
+35.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Cartagena
@@ -11816,13 +11816,13 @@ Cartagena
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-50.7
+50.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 25.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.0
+24.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -11907,13 +11907,13 @@ Equip
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-54.7
+54.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-19.1
+19.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -11930,10 +11930,10 @@ Mirandés
 39.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.9
+26.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.4
+33.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Cartagena
@@ -11947,13 +11947,13 @@ Cartagena
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-44.4
+44.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.0
+27.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -11987,13 +11987,13 @@ Castelló
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.8
+46.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.2
+29.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.9
+24.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -12007,13 +12007,13 @@ Mirandés
 Mirandés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-45.8
+45.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.4
+27.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -12033,7 +12033,7 @@ Fuenlabrada
 29.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.6
+24.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -12047,10 +12047,10 @@ Mirandés
 Mirandés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.9
+46.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.7
+28.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 24.4
@@ -12107,13 +12107,13 @@ Rayo Vallecano
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-50.2
+50.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 25.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.4
+24.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -12127,13 +12127,13 @@ Mirandés
 Mirandés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.4
+42.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.7
+27.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.9
+29.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -12147,7 +12147,7 @@ Las Palmas
 Castelló
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.5
+27.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.7
@@ -12167,13 +12167,13 @@ Mirandés
 Mirandés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.4
+37.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.0
+31.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -12187,13 +12187,13 @@ Girona
 Ponferradina
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-38.7
+38.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.7
+32.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -12250,7 +12250,7 @@ Mirandés
 15.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.4
+29.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 54.7
@@ -12290,10 +12290,10 @@ Rayo Vallecano
 47.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.0
+27.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.0
+25.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -12333,7 +12333,7 @@ Sporting
 29.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-19.7
+19.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -12347,13 +12347,13 @@ Mirandés
 Mirandés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.4
+39.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30.3
+30.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Logronyés
@@ -12373,7 +12373,7 @@ Albacete
 30.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.8
+31.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -12387,13 +12387,13 @@ Mirandés
 Mirandés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.8
+31.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-38.7
+38.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Almeria
@@ -12453,7 +12453,7 @@ Lugo
 27.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.8
+29.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -12487,13 +12487,13 @@ Leganés
 Oviedo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.2
+48.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.3
+24.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -12507,7 +12507,7 @@ Mirandés
 Mirandés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.2
+52.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.8
@@ -13152,10 +13152,10 @@ Sabadell
 37.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30.3
+30.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.6
+32.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -13175,7 +13175,7 @@ Logronyés
 28.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.0
+18.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sabadell
@@ -13189,13 +13189,13 @@ Sabadell
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.4
+32.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.8
+38.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -13235,7 +13235,7 @@ Sabadell
 32.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.4
+39.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Fuenlabrada
@@ -13249,7 +13249,7 @@ Fuenlabrada
 Tenerife
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-51.3
+51.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.2
@@ -13269,13 +13269,13 @@ Sabadell
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.5
+28.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.3
+41.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -13289,10 +13289,10 @@ Oviedo
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-59.6
+59.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.7
+23.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 16.7
@@ -13309,7 +13309,7 @@ Sabadell
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.7
+46.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.5
@@ -13329,13 +13329,13 @@ Castelló
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-55.1
+54.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.0
+28.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16.8
+17.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sabadell
@@ -13349,13 +13349,13 @@ Sabadell
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.4
+34.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.4
+36.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -13369,7 +13369,7 @@ Lugo
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-62.9
+62.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 24.1
@@ -13409,13 +13409,13 @@ Logronyés
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-53.6
+53.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.8
+26.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-19.7
+19.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sabadell
@@ -13429,7 +13429,7 @@ Sabadell
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.1
+35.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.7
@@ -13449,10 +13449,10 @@ Saragossa
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-74.9
+74.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-19.4
+19.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 5.7
@@ -13469,7 +13469,7 @@ Sabadell
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.9
+35.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.8
@@ -13509,7 +13509,7 @@ Sabadell
 Castelló
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.6
+35.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.1
@@ -13529,13 +13529,13 @@ Sabadell
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.2
+23.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-44.1
+44.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sporting
@@ -13549,13 +13549,13 @@ Sporting
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.4
+52.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.0
+21.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sabadell
@@ -13569,13 +13569,13 @@ Sabadell
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.8
+28.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.0
+32.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.2
+39.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -13615,7 +13615,7 @@ Sabadell
 28.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.0
+43.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Cartagena
@@ -13629,7 +13629,7 @@ Cartagena
 Fuenlabrada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-54.3
+54.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.4
@@ -13649,7 +13649,7 @@ Sabadell
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-15.5
+15.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.4
@@ -13715,7 +13715,7 @@ Sabadell
 33.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.9
+37.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -13729,13 +13729,13 @@ Tenerife
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-47.7
+47.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.5
+23.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sabadell
@@ -13749,7 +13749,7 @@ Sabadell
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.1
+37.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.3
@@ -13769,7 +13769,7 @@ Ponferradina
 Mirandés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.2
+52.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.8
@@ -15042,13 +15042,13 @@ Equip
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.6
+40.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.0
+28.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -15062,7 +15062,7 @@ Tenerife
 Tenerife
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.4
+39.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.9
@@ -15082,13 +15082,13 @@ Logronyés
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-50.0
+49.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.3
+20.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -15122,7 +15122,7 @@ Tenerife
 Tenerife
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-51.3
+51.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.2
@@ -15145,7 +15145,7 @@ Tenerife
 29.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.6
+37.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.6
@@ -15182,13 +15182,13 @@ Tenerife
 Tenerife
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.5
+37.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 33.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.3
+28.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -15208,7 +15208,7 @@ Castelló
 32.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.5
+42.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -15242,7 +15242,7 @@ Cartagena
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.3
+39.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.9
@@ -15265,7 +15265,7 @@ Tenerife
 38.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.3
+33.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.6
@@ -15288,7 +15288,7 @@ Rayo Vallecano
 30.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.1
+26.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -15322,7 +15322,7 @@ Ponferradina
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-45.3
+45.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 35.2
@@ -15342,7 +15342,7 @@ Tenerife
 Tenerife
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.1
+48.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.5
@@ -15368,7 +15368,7 @@ Saragossa
 28.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.3
+31.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -15382,7 +15382,7 @@ Tenerife
 Tenerife
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.4
+46.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.1
@@ -15408,7 +15408,7 @@ Màlaga
 35.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.8
+26.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -15422,13 +15422,13 @@ Tenerife
 Tenerife
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.4
+43.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30.0
+30.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.6
+26.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -15462,13 +15462,13 @@ Tenerife
 Logronyés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.1
+41.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.3
+26.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -15482,7 +15482,7 @@ Tenerife
 Tenerife
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.9
+31.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 35.2
@@ -15502,7 +15502,7 @@ Sporting
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.0
+45.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.3
@@ -15522,7 +15522,7 @@ Tenerife
 Tenerife
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-57.3
+57.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.6
@@ -15542,13 +15542,13 @@ Castelló
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.7
+42.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.5
+32.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.8
+25.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -15588,7 +15588,7 @@ Sabadell
 33.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.9
+37.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -15622,10 +15622,10 @@ Mallorca
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-63.5
+63.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.8
+26.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 9.7
@@ -15648,7 +15648,7 @@ Tenerife
 31.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.8
+29.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -20645,10 +20645,10 @@ Equip
 Fuenlabrada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.1
+18.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.9
+32.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 49.1
@@ -20665,7 +20665,7 @@ Espanyol
 Oviedo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.8
+42.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.0
@@ -20685,10 +20685,10 @@ Fuenlabrada
 Fuenlabrada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-51.1
+51.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.8
+27.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 21.1
@@ -20711,7 +20711,7 @@ Sabadell
 32.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.4
+39.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Fuenlabrada
@@ -20731,7 +20731,7 @@ Fuenlabrada
 33.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.5
+24.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -20745,13 +20745,13 @@ Màlaga
 Saragossa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-38.8
+38.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.6
+33.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Fuenlabrada
@@ -20771,7 +20771,7 @@ Fuenlabrada
 29.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.6
+24.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -20791,7 +20791,7 @@ Mallorca
 31.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-14.7
+14.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Fuenlabrada
@@ -20825,7 +20825,7 @@ Leganés
 Sporting
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-45.5
+45.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.4
@@ -20868,7 +20868,7 @@ Tenerife
 38.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.3
+33.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.6
@@ -20925,13 +20925,13 @@ Fuenlabrada
 Fuenlabrada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.4
+41.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.4
+28.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -20945,13 +20945,13 @@ Oviedo
 Fuenlabrada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.0
+40.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.0
+27.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -20971,7 +20971,7 @@ Lugo
 29.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.0
+33.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Fuenlabrada
@@ -20985,13 +20985,13 @@ Fuenlabrada
 Fuenlabrada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.2
+45.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.7
+28.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.2
+25.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -21005,13 +21005,13 @@ Las Palmas
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-44.5
+44.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 34.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.0
+21.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Fuenlabrada
@@ -21048,7 +21048,7 @@ Espanyol
 63.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.5
+26.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 10.4
@@ -21105,7 +21105,7 @@ Fuenlabrada
 Fuenlabrada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-54.3
+54.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.4
@@ -21131,7 +21131,7 @@ Màlaga
 34.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.7
+28.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Fuenlabrada
@@ -21151,7 +21151,7 @@ Fuenlabrada
 28.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.1
+29.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Cartagena
@@ -21185,7 +21185,7 @@ Fuenlabrada
 Fuenlabrada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.6
+42.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.4
@@ -21211,7 +21211,7 @@ Logronyés
 31.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.2
+28.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Fuenlabrada
@@ -21225,13 +21225,13 @@ Fuenlabrada
 Fuenlabrada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.1
+34.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 34.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.8
+31.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sporting
@@ -35942,10 +35942,10 @@ Mirandés
 39.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.9
+26.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.4
+33.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Cartagena
@@ -35959,13 +35959,13 @@ Cartagena
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.6
+25.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.7
+42.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -35979,7 +35979,7 @@ Mallorca
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-44.5
+44.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 25.8
@@ -36005,7 +36005,7 @@ Cartagena
 28.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.8
+52.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Espanyol
@@ -36039,10 +36039,10 @@ Cartagena
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-59.6
+59.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.7
+23.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 16.7
@@ -36085,7 +36085,7 @@ Cartagena
 22.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.3
+23.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Saragossa
@@ -36119,13 +36119,13 @@ Cartagena
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-50.2
+50.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 25.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.4
+24.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -36142,10 +36142,10 @@ Sporting
 48.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.2
+28.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.4
+23.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Cartagena
@@ -36159,13 +36159,13 @@ Cartagena
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-45.1
+45.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.7
+28.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -36185,7 +36185,7 @@ Cartagena
 25.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.1
+28.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Rayo Vallecano
@@ -36199,13 +36199,13 @@ Rayo Vallecano
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.7
+41.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.2
+32.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Cartagena
@@ -36222,10 +36222,10 @@ Cartagena
 35.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.9
+31.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.1
+33.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Leganés
@@ -36299,13 +36299,13 @@ Cartagena
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.0
+45.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.9
+25.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -36325,7 +36325,7 @@ Saragossa
 24.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.8
+35.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Cartagena
@@ -36339,13 +36339,13 @@ Cartagena
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-55.8
+55.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 23.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.5
+20.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -36365,7 +36365,7 @@ Sabadell
 28.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.0
+43.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Cartagena
@@ -36379,7 +36379,7 @@ Cartagena
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.0
+45.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.3
@@ -36425,7 +36425,7 @@ Fuenlabrada
 28.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.1
+29.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Cartagena
@@ -36442,10 +36442,10 @@ Cartagena
 66.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.9
+21.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-12.9
+13.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Castelló
@@ -36479,7 +36479,7 @@ Cartagena
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.4
+37.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.4
@@ -36499,13 +36499,13 @@ Almeria
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.1
+39.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 25.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.3
+35.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Cartagena
@@ -36519,13 +36519,13 @@ Cartagena
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.7
+44.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.5
+28.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -36610,36 +36610,16 @@ Equip
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.8
+42.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.4
+31.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.8
+26.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Logronyés
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-11
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Girona
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-47.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-28.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-24.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Las Palmas
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -36650,13 +36630,13 @@ Las Palmas
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.3
+24.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 36.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.3
+39.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -36670,13 +36650,13 @@ Mallorca
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-62.3
+62.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.9
+26.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-10.8
+10.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -36690,13 +36670,13 @@ Girona
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.6
+42.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.5
+33.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.9
+24.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -36710,13 +36690,13 @@ Màlaga
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.2
+33.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30.3
+30.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.5
+36.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -36730,13 +36710,13 @@ Girona
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.8
+46.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.2
+29.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.9
+24.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -36750,13 +36730,13 @@ Mirandés
 Albacete
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.8
+33.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.8
+31.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.4
+35.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -36770,13 +36750,13 @@ Girona
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.5
+43.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.2
+29.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.3
+27.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Rayo Vallecano
@@ -36790,13 +36770,13 @@ Rayo Vallecano
 Tenerife
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.5
+37.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 33.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.3
+28.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -36810,13 +36790,13 @@ Girona
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-55.1
+54.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.0
+28.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16.8
+17.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sabadell
@@ -36830,13 +36810,13 @@ Sabadell
 Ponferradina
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.2
+33.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.5
+36.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -36850,13 +36830,13 @@ Girona
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.6
+18.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.1
+33.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.4
+48.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Espanyol
@@ -36870,13 +36850,13 @@ Espanyol
 Mallorca
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.7
+53.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.1
+32.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-15.2
+15.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -36890,13 +36870,13 @@ Girona
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.7
+32.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 36.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30.9
+31.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Leganés
@@ -36910,13 +36890,13 @@ Leganés
 Mirandés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.4
+37.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.0
+31.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -36930,13 +36910,13 @@ Girona
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-61.3
+60.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.3
+25.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-13.5
+13.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Castelló
@@ -36950,13 +36930,13 @@ Castelló
 Fuenlabrada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.0
+40.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.0
+27.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -36970,13 +36950,13 @@ Girona
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.4
+34.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.3
+33.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Almeria
@@ -36990,13 +36970,13 @@ Almeria
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-49.5
+49.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.3
+27.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.1
+23.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -37010,13 +36990,13 @@ Lugo
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-38.4
+39.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.9
+31.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -37030,13 +37010,13 @@ Girona
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-50.2
+49.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.3
+29.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.6
+20.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Albacete
@@ -37050,13 +37030,13 @@ Albacete
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.8
+28.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.0
+32.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.2
+39.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -37070,13 +37050,13 @@ Girona
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.0
+51.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.5
+27.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.5
+20.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Ponferradina
@@ -37090,13 +37070,13 @@ Ponferradina
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.7
+42.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.8
+28.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -37110,13 +37090,13 @@ Girona
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-51.0
+50.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.8
+25.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.3
+23.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Saragossa
@@ -37130,13 +37110,13 @@ Saragossa
 Oviedo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.9
+42.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.0
+27.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -37150,13 +37130,13 @@ Girona
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.7
+42.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.5
+32.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.8
+25.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -37170,13 +37150,13 @@ Tenerife
 Logronyés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.1
+39.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.0
+28.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -37190,13 +37170,13 @@ Girona
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.8
+34.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.0
+34.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.2
+31.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sporting
@@ -37210,13 +37190,13 @@ Sporting
 Màlaga
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.1
+36.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 34.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.4
+29.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -37230,13 +37210,13 @@ Girona
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.0
+51.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.6
+27.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.4
+20.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -37250,13 +37230,13 @@ Alcorcón
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.7
+44.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.5
+28.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -47247,7 +47227,7 @@ Ponferradina
 32.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.1
+32.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -47281,13 +47261,13 @@ Leganés
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.6
+42.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.5
+33.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.9
+24.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -47307,7 +47287,7 @@ Màlaga
 30.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.7
+25.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -47327,7 +47307,7 @@ Fuenlabrada
 33.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.5
+24.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -47381,13 +47361,13 @@ Màlaga
 Màlaga
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.9
+37.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 34.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.0
+28.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Logronyés
@@ -47407,7 +47387,7 @@ Albacete
 34.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.1
+31.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -47461,13 +47441,13 @@ Ponferradina
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.5
+35.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.1
+32.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -47501,13 +47481,13 @@ Saragossa
 Sporting
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.1
+46.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 34.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-19.9
+20.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -47527,7 +47507,7 @@ Màlaga
 31.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.7
+29.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Rayo Vallecano
@@ -47581,7 +47561,7 @@ Sabadell
 Logronyés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.0
+40.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 33.6
@@ -47607,7 +47587,7 @@ Màlaga
 35.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.8
+26.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -47621,13 +47601,13 @@ Tenerife
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.0
+45.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.9
+25.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -47641,7 +47621,7 @@ Màlaga
 Màlaga
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.2
+31.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 33.4
@@ -47661,13 +47641,13 @@ Almeria
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.4
+39.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.7
+29.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -47681,13 +47661,13 @@ Màlaga
 Màlaga
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-44.7
+44.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-22.8
+22.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Albacete
@@ -47701,13 +47681,13 @@ Albacete
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.6
+40.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.0
+27.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -47727,7 +47707,7 @@ Màlaga
 34.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.7
+28.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Fuenlabrada
@@ -47741,10 +47721,10 @@ Fuenlabrada
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-62.7
+62.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.8
+27.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 9.5
@@ -47764,10 +47744,10 @@ Màlaga
 21.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-38.3
+38.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.4
+40.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -47787,7 +47767,7 @@ Oviedo
 31.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.5
+24.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -47801,13 +47781,13 @@ Màlaga
 Màlaga
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.1
+36.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 34.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.4
+29.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -47821,7 +47801,7 @@ Girona
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-44.9
+44.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 36.3
@@ -47847,7 +47827,7 @@ Màlaga
 29.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-15.5
+15.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Castelló
@@ -49776,7 +49756,7 @@ Equip
 Sporting
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-47.8
+47.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.6
@@ -49796,7 +49776,7 @@ Rayo Vallecano
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-63.4
+63.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 23.0
@@ -49822,7 +49802,7 @@ Saragossa
 25.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.4
+34.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Rayo Vallecano
@@ -49836,7 +49816,7 @@ Rayo Vallecano
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-44.5
+44.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 25.8
@@ -49876,7 +49856,7 @@ Rayo Vallecano
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.8
+43.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.0
@@ -49896,13 +49876,13 @@ Logronyés
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.5
+43.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.2
+29.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.3
+27.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Rayo Vallecano
@@ -49916,13 +49896,13 @@ Rayo Vallecano
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.1
+47.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.3
+26.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.5
+25.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -49979,10 +49959,10 @@ Rayo Vallecano
 24.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.4
+33.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.1
+42.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -50022,7 +50002,7 @@ Rayo Vallecano
 30.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.1
+26.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -50042,7 +50022,7 @@ Cartagena
 25.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.1
+28.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Rayo Vallecano
@@ -50062,7 +50042,7 @@ Màlaga
 31.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.7
+29.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Rayo Vallecano
@@ -50076,7 +50056,7 @@ Rayo Vallecano
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-53.4
+53.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 25.4
@@ -50096,13 +50076,13 @@ Ponferradina
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.7
+41.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.9
+31.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Rayo Vallecano
@@ -50122,7 +50102,7 @@ Rayo Vallecano
 23.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.1
+24.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Saragossa
@@ -50136,7 +50116,7 @@ Saragossa
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.1
+35.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.1
@@ -50159,10 +50139,10 @@ Rayo Vallecano
 47.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.0
+27.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.0
+25.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -50176,7 +50156,7 @@ Mirandés
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.5
+35.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.4
@@ -50196,13 +50176,13 @@ Sporting
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-51.3
+51.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-22.0
+22.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Rayo Vallecano
@@ -50216,13 +50196,13 @@ Rayo Vallecano
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.7
+42.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.8
+28.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -50236,7 +50216,7 @@ Girona
 Logronyés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.7
+41.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.3
@@ -50256,13 +50236,13 @@ Rayo Vallecano
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-51.6
+51.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.4
+21.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Albacete
@@ -50316,7 +50296,7 @@ Leganés
 Fuenlabrada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.6
+42.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.4
@@ -50336,13 +50316,13 @@ Rayo Vallecano
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.1
+43.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.1
+29.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -50359,10 +50339,10 @@ Castelló
 24.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.3
+28.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-47.3
+47.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Rayo Vallecano
@@ -50376,13 +50356,13 @@ Rayo Vallecano
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-50.7
+50.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 25.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.0
+24.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -52400,10 +52380,10 @@ Equip
 Fuenlabrada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.1
+18.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.9
+32.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 49.1
@@ -52420,13 +52400,13 @@ Espanyol
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-62.3
+62.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.9
+26.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-10.8
+10.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -52440,10 +52420,10 @@ Girona
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.6
+21.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.3
+39.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 39.2
@@ -52466,7 +52446,7 @@ Espanyol
 18.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-7.6
+7.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Saragossa
@@ -52486,7 +52466,7 @@ Cartagena
 28.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.8
+52.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Espanyol
@@ -52506,7 +52486,7 @@ Espanyol
 31.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-13.2
+13.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sporting
@@ -52526,7 +52506,7 @@ Logronyés
 32.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-50.3
+50.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Espanyol
@@ -52543,7 +52523,7 @@ Espanyol
 57.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.4
+28.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 13.8
@@ -52560,13 +52540,13 @@ Almeria
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16.2
+16.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.5
+28.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-55.3
+54.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Espanyol
@@ -52580,7 +52560,7 @@ Espanyol
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-79.8
+79.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 16.0
@@ -52600,13 +52580,13 @@ Castelló
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.6
+18.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.1
+33.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.4
+48.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Espanyol
@@ -52646,7 +52626,7 @@ Lugo
 27.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-57.8
+57.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Espanyol
@@ -52680,10 +52660,10 @@ Espanyol
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-74.9
+74.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-19.4
+19.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 5.7
@@ -52700,7 +52680,7 @@ Sabadell
 Sporting
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.6
+21.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 36.4
@@ -52720,13 +52700,13 @@ Espanyol
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-64.9
+64.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 24.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-10.5
+10.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -52743,7 +52723,7 @@ Mirandés
 15.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.4
+29.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 54.7
@@ -52803,7 +52783,7 @@ Espanyol
 63.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.5
+26.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 10.4
@@ -52860,13 +52840,13 @@ Leganés
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.0
+22.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 33.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.5
+43.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Espanyol
@@ -52880,13 +52860,13 @@ Espanyol
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-69.7
+69.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.6
+21.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-8.7
+8.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -52900,10 +52880,10 @@ Las Palmas
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-62.7
+62.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.8
+27.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 9.5
@@ -52966,7 +52946,7 @@ Ponferradina
 27.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-59.6
+59.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Espanyol
@@ -52980,10 +52960,10 @@ Espanyol
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-63.5
+63.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.8
+26.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 9.7
@@ -53873,13 +53853,13 @@ Equip
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.3
+24.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 36.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.3
+39.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -53913,13 +53893,13 @@ Sporting
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.6
+25.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.7
+42.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -53933,7 +53913,7 @@ Mallorca
 Mallorca
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-54.7
+54.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.1
@@ -53999,7 +53979,7 @@ Leganés
 41.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.4
+31.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -54019,7 +53999,7 @@ Mallorca
 31.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-14.7
+14.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Fuenlabrada
@@ -54039,7 +54019,7 @@ Oviedo
 34.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.9
+41.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -54053,13 +54033,13 @@ Mallorca
 Mallorca
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-59.9
+59.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.1
+27.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-13.0
+13.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -54076,10 +54056,10 @@ Rayo Vallecano
 24.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.4
+33.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.1
+42.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -54093,13 +54073,13 @@ Mallorca
 Mallorca
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.7
+53.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.1
+32.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-15.2
+15.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -54116,7 +54096,7 @@ Albacete
 18.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.6
+33.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 47.8
@@ -54159,7 +54139,7 @@ Mallorca
 33.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.9
+19.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Almeria
@@ -54293,13 +54273,13 @@ Leganés
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-22.1
+22.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.5
+32.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-45.4
+45.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -54339,7 +54319,7 @@ Castelló
 29.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-57.8
+57.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -54353,7 +54333,7 @@ Mallorca
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-15.5
+15.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.4
@@ -54396,10 +54376,10 @@ Màlaga
 21.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-38.3
+38.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.4
+40.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -54453,7 +54433,7 @@ Mallorca
 Mallorca
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-64.6
+64.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 23.5
@@ -54479,7 +54459,7 @@ Ponferradina
 31.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-49.7
+49.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -57859,7 +57839,7 @@ Oviedo
 Oviedo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.8
+42.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.0
@@ -57879,10 +57859,10 @@ Fuenlabrada
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-38.1
+38.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.6
+27.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 34.4
@@ -57899,7 +57879,7 @@ Oviedo
 Oviedo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.2
+36.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.5
@@ -57919,13 +57899,13 @@ Almeria
 Oviedo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-53.5
+53.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 25.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.6
+20.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -57939,13 +57919,13 @@ Alcorcón
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.5
+28.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.3
+41.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -58005,7 +57985,7 @@ Oviedo
 34.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.9
+41.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -58045,7 +58025,7 @@ Logronyés
 30.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.4
+29.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -58065,7 +58045,7 @@ Oviedo
 27.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.8
+20.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Albacete
@@ -58079,13 +58059,13 @@ Albacete
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-45.1
+45.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.7
+28.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -58119,13 +58099,13 @@ Lugo
 Fuenlabrada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.4
+41.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.4
+28.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -58159,13 +58139,13 @@ Saragossa
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-64.9
+64.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 24.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-10.5
+10.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -58185,7 +58165,7 @@ Oviedo
 34.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.0
+32.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Leganés
@@ -58225,7 +58205,7 @@ Oviedo
 25.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.6
+20.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Ponferradina
@@ -58239,7 +58219,7 @@ Ponferradina
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.1
+34.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.7
@@ -58262,10 +58242,10 @@ Castelló
 23.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.8
+28.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-47.5
+47.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -58279,13 +58259,13 @@ Oviedo
 Oviedo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.4
+47.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.8
+26.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.8
+25.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -58299,13 +58279,13 @@ Las Palmas
 Sporting
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.5
+46.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.0
+23.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -58319,13 +58299,13 @@ Oviedo
 Oviedo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.9
+42.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.0
+27.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -58339,7 +58319,7 @@ Girona
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-49.9
+49.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.6
@@ -58385,7 +58365,7 @@ Oviedo
 31.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.5
+24.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -58399,13 +58379,13 @@ Màlaga
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.1
+43.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.1
+29.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -58419,13 +58399,13 @@ Oviedo
 Oviedo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.2
+48.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.3
+24.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -58445,7 +58425,7 @@ Tenerife
 31.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.8
+29.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -58530,10 +58510,10 @@ Equip
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-59.4
+59.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-22.6
+22.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 18.0
@@ -58596,7 +58576,7 @@ Saragossa
 25.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.4
+34.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Rayo Vallecano
@@ -58616,7 +58596,7 @@ Espanyol
 18.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-7.6
+7.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Saragossa
@@ -58636,7 +58616,7 @@ Castelló
 26.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.7
+43.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Saragossa
@@ -58650,13 +58630,13 @@ Saragossa
 Saragossa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-38.8
+38.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.6
+33.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Fuenlabrada
@@ -58670,7 +58650,7 @@ Fuenlabrada
 Sporting
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-55.6
+55.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 25.5
@@ -58696,7 +58676,7 @@ Saragossa
 24.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.1
+29.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -58716,7 +58696,7 @@ Cartagena
 22.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.3
+23.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Saragossa
@@ -58736,7 +58716,7 @@ Saragossa
 27.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.6
+32.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Logronyés
@@ -58776,7 +58756,7 @@ Saragossa
 24.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.7
+25.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Ponferradina
@@ -58810,7 +58790,7 @@ Saragossa
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.1
+35.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.7
@@ -58830,13 +58810,13 @@ Saragossa
 Saragossa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-49.7
+49.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 24.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.7
+25.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -58876,7 +58856,7 @@ Saragossa
 28.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.3
+31.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -58896,7 +58876,7 @@ Rayo Vallecano
 23.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.1
+24.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Saragossa
@@ -58936,7 +58916,7 @@ Logronyés
 26.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.9
+25.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Saragossa
@@ -58956,7 +58936,7 @@ Saragossa
 24.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.8
+35.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Cartagena
@@ -58990,10 +58970,10 @@ Saragossa
 Saragossa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.6
+31.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.5
+26.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 42.0
@@ -59010,13 +58990,13 @@ Almeria
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-51.0
+50.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.8
+25.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.3
+23.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Saragossa
@@ -59033,10 +59013,10 @@ Saragossa
 31.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.9
+28.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.3
+39.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sporting
@@ -59050,13 +59030,13 @@ Sporting
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.5
+46.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 24.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.2
+29.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Saragossa
@@ -59090,13 +59070,13 @@ Espanyol
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.1
+48.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 24.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.3
+27.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Saragossa
@@ -59110,13 +59090,13 @@ Saragossa
 Saragossa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-60.8
+60.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 22.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16.6
+16.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Castelló
@@ -59130,7 +59110,7 @@ Castelló
 Mallorca
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-64.6
+64.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 23.5
@@ -60543,7 +60523,7 @@ Equip
 Sporting
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-47.8
+47.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.6
@@ -60603,13 +60583,13 @@ Sabadell
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.5
+32.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.3
+36.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sporting
@@ -60626,10 +60606,10 @@ Sporting
 53.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.1
+29.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16.9
+17.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Albacete
@@ -60649,7 +60629,7 @@ Espanyol
 31.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-13.2
+13.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sporting
@@ -60663,7 +60643,7 @@ Sporting
 Sporting
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-55.6
+55.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 25.5
@@ -60703,7 +60683,7 @@ Leganés
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.2
+31.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.5
@@ -60723,7 +60703,7 @@ Sporting
 Sporting
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-45.5
+45.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.4
@@ -60766,10 +60746,10 @@ Sporting
 48.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.2
+28.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.4
+23.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Cartagena
@@ -60803,13 +60783,13 @@ Sporting
 Sporting
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.1
+46.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 34.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-19.9
+20.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -60843,7 +60823,7 @@ Sporting
 Sporting
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.6
+21.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 36.4
@@ -60863,13 +60843,13 @@ Espanyol
 Ponferradina
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.9
+27.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.8
+40.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sporting
@@ -60903,13 +60883,13 @@ Mallorca
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.2
+23.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-44.1
+44.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sporting
@@ -60926,10 +60906,10 @@ Sporting
 55.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.3
+27.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16.7
+16.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -60943,7 +60923,7 @@ Alcorcón
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.5
+35.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.4
@@ -60969,7 +60949,7 @@ Sporting
 29.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-19.7
+19.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -60983,7 +60963,7 @@ Mirandés
 Tenerife
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.9
+31.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 35.2
@@ -61003,13 +60983,13 @@ Sporting
 Sporting
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.5
+46.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.0
+23.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -61026,10 +61006,10 @@ Saragossa
 31.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.9
+28.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.3
+39.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sporting
@@ -61069,7 +61049,7 @@ Sporting
 27.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.9
+19.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -61083,13 +61063,13 @@ Lugo
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.8
+34.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.0
+34.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.2
+31.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sporting
@@ -61103,13 +61083,13 @@ Sporting
 Sporting
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-51.3
+50.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.5
+28.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.1
+20.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -61123,13 +61103,13 @@ Las Palmas
 Fuenlabrada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.1
+34.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 34.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.8
+31.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sporting
@@ -61149,7 +61129,7 @@ Sporting
 32.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.0
+28.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Almeria
@@ -66430,7 +66410,7 @@ Ponferradina
 32.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.1
+32.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -66464,10 +66444,10 @@ Saragossa
 Fuenlabrada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-51.1
+51.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.8
+27.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 21.1
@@ -66487,7 +66467,7 @@ Ponferradina
 26.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.4
+33.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 40.3
@@ -66524,13 +66504,13 @@ Ponferradina
 Ponferradina
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-38.7
+38.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.8
+27.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.5
+33.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -66544,10 +66524,10 @@ Las Palmas
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.4
+48.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.0
+26.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 25.6
@@ -66584,13 +66564,13 @@ Oviedo
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-60.0
+59.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 24.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-15.9
+16.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Ponferradina
@@ -66604,13 +66584,13 @@ Ponferradina
 Ponferradina
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.2
+33.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.5
+36.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -66650,7 +66630,7 @@ Saragossa
 24.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.7
+25.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Ponferradina
@@ -66664,13 +66644,13 @@ Ponferradina
 Ponferradina
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.8
+43.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.4
+28.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -66704,13 +66684,13 @@ Ponferradina
 Ponferradina
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-38.7
+38.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.7
+32.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -66724,7 +66704,7 @@ Mirandés
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-53.4
+53.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 25.4
@@ -66744,13 +66724,13 @@ Ponferradina
 Ponferradina
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.9
+27.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.8
+40.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sporting
@@ -66784,7 +66764,7 @@ Ponferradina
 Ponferradina
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.7
+27.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.6
@@ -66810,7 +66790,7 @@ Oviedo
 25.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.6
+20.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Ponferradina
@@ -66844,13 +66824,13 @@ Logronyés
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.0
+51.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.5
+27.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.5
+20.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Ponferradina
@@ -66924,13 +66904,13 @@ Lugo
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-49.8
+50.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.0
+23.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Ponferradina
@@ -66944,7 +66924,7 @@ Ponferradina
 Ponferradina
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.4
+42.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.2
@@ -66990,7 +66970,7 @@ Ponferradina
 27.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-59.6
+59.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Espanyol
@@ -67004,7 +66984,7 @@ Espanyol
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.1
+37.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.3
@@ -67030,7 +67010,7 @@ Ponferradina
 31.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-49.7
+49.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -69810,10 +69790,10 @@ Equip
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-59.4
+59.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-22.6
+22.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 18.0
@@ -69830,13 +69810,13 @@ Saragossa
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-54.7
+54.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-19.1
+19.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -69870,13 +69850,13 @@ Almeria
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-50.0
+49.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.3
+20.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -69890,7 +69870,7 @@ Tenerife
 Oviedo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.2
+36.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.5
@@ -69930,13 +69910,13 @@ Mallorca
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.7
+27.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.7
+43.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Almeria
@@ -69973,7 +69953,7 @@ Espanyol
 57.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.4
+28.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 13.8
@@ -69990,13 +69970,13 @@ Almeria
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-60.0
+59.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 24.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-15.9
+16.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Ponferradina
@@ -70010,7 +69990,7 @@ Ponferradina
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.0
+38.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 34.6
@@ -70030,7 +70010,7 @@ Almeria
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-62.9
+62.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 24.1
@@ -70050,7 +70030,7 @@ Sabadell
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-69.0
+68.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 21.0
@@ -70090,13 +70070,13 @@ Almeria
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-55.0
+54.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.5
+25.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-19.5
+19.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -70116,7 +70096,7 @@ Mallorca
 33.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.9
+19.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Almeria
@@ -70136,7 +70116,7 @@ Almeria
 24.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.1
+18.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -70150,13 +70130,13 @@ Lugo
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.4
+34.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.3
+33.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Almeria
@@ -70173,10 +70153,10 @@ Almeria
 59.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.1
+24.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-15.9
+16.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -70190,7 +70170,7 @@ Alcorcón
 Ponferradina
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.7
+27.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.6
@@ -70230,7 +70210,7 @@ Leganés
 Màlaga
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.2
+31.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 33.4
@@ -70250,13 +70230,13 @@ Almeria
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-51.3
+51.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-22.0
+22.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Rayo Vallecano
@@ -70270,10 +70250,10 @@ Rayo Vallecano
 Saragossa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.6
+31.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.5
+26.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 42.0
@@ -70290,13 +70270,13 @@ Almeria
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.0
+22.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 33.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.5
+43.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Espanyol
@@ -70310,13 +70290,13 @@ Espanyol
 Mirandés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.8
+31.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-38.7
+38.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Almeria
@@ -70330,7 +70310,7 @@ Almeria
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-49.9
+49.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.6
@@ -70390,7 +70370,7 @@ Albacete
 Cartagena
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.4
+37.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.4
@@ -70436,7 +70416,7 @@ Sporting
 32.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.0
+28.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Almeria
@@ -72008,39 +71988,19 @@ Equip
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-11
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Girona
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-47.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-28.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-24.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
-Las Palmas
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
 12
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.6
+40.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.0
+28.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -72054,13 +72014,13 @@ Tenerife
 Sabadell
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.4
+32.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.8
+38.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -72074,13 +72034,13 @@ Las Palmas
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-44.4
+44.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.0
+27.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mirandés
@@ -72094,13 +72054,13 @@ Mirandés
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.5
+32.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.3
+36.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sporting
@@ -72114,13 +72074,13 @@ Sporting
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.0
+42.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.5
+26.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30.5
+30.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -72134,13 +72094,13 @@ Las Palmas
 Ponferradina
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-38.7
+38.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.8
+27.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.5
+33.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -72154,13 +72114,13 @@ Las Palmas
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-49.7
+50.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.0
+23.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Alcorcón
@@ -72174,13 +72134,13 @@ Alcorcón
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.1
+47.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.3
+26.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.5
+25.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -72194,13 +72154,13 @@ Las Palmas
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16.2
+16.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.5
+28.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-55.3
+54.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Espanyol
@@ -72214,13 +72174,13 @@ Espanyol
 Mallorca
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-59.9
+59.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.1
+27.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-13.0
+13.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -72234,13 +72194,13 @@ Las Palmas
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30.6
+30.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 33.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.0
+35.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Leganés
@@ -72254,13 +72214,13 @@ Leganés
 Mirandés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.4
+42.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.7
+27.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.9
+29.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -72274,13 +72234,13 @@ Las Palmas
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-53.6
+53.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.8
+26.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-19.7
+19.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sabadell
@@ -72294,13 +72254,13 @@ Sabadell
 Almeria
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-55.0
+54.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.5
+25.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-19.5
+19.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -72314,13 +72274,13 @@ Las Palmas
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.7
+41.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.2
+32.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Cartagena
@@ -72334,13 +72294,13 @@ Cartagena
 Castelló
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.3
+26.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.9
+44.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -72354,13 +72314,13 @@ Las Palmas
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.7
+41.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.9
+31.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Rayo Vallecano
@@ -72374,13 +72334,13 @@ Rayo Vallecano
 Fuenlabrada
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.2
+45.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.7
+28.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.2
+25.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -72394,13 +72354,13 @@ Las Palmas
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-38.4
+39.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.9
+31.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -72414,13 +72374,13 @@ Girona
 Tenerife
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.4
+43.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30.0
+30.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.6
+26.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -72434,13 +72394,13 @@ Las Palmas
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.9
+47.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.0
+25.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.1
+26.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Lugo
@@ -72454,13 +72414,13 @@ Lugo
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-22.1
+22.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.5
+32.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-45.4
+45.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Mallorca
@@ -72474,13 +72434,13 @@ Mallorca
 Oviedo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.4
+47.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.8
+26.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.8
+25.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -72494,13 +72454,13 @@ Las Palmas
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.6
+40.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.0
+27.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Màlaga
@@ -72514,13 +72474,13 @@ Màlaga
 Espanyol
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-69.7
+69.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.6
+21.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-8.7
+8.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -72534,13 +72494,13 @@ Las Palmas
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-49.8
+50.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 26.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.0
+23.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Ponferradina
@@ -72554,13 +72514,13 @@ Ponferradina
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-38.6
+38.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 27.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.5
+33.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -72574,13 +72534,13 @@ Las Palmas
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.1
+48.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 24.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.3
+27.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Saragossa
@@ -72594,13 +72554,13 @@ Saragossa
 Sporting
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-51.3
+50.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.5
+28.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.1
+20.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -72614,13 +72574,13 @@ Las Palmas
 Las Palmas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.1
+48.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-27.8
+27.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.1
+23.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Albacete
@@ -72634,13 +72594,13 @@ Albacete
 Logronyés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-45.2
+44.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.7
+28.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.1
+26.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
@@ -72725,13 +72685,13 @@ Equip
 Girona
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.8
+42.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.4
+31.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-25.8
+26.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Logronyés
@@ -72751,7 +72711,7 @@ Logronyés
 28.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.0
+18.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Sabadell
@@ -72765,7 +72725,7 @@ Sabadell
 Tenerife
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.4
+39.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.9
@@ -72805,7 +72765,7 @@ Albacete
 Mallorca
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-54.7
+54.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.1
@@ -72845,7 +72805,7 @@ Ponferradina
 Rayo Vallecano
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.8
+43.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.0
@@ -72871,7 +72831,7 @@ Logronyés
 32.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-50.3
+50.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Espanyol
@@ -72885,13 +72845,13 @@ Espanyol
 Màlaga
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.9
+37.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 34.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.0
+28.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Logronyés
@@ -72931,7 +72891,7 @@ Saragossa
 27.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.6
+32.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Logronyés
@@ -72951,7 +72911,7 @@ Logronyés
 30.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.4
+29.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Oviedo
@@ -73005,13 +72965,13 @@ Sporting
 Alcorcón
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.1
+35.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.7
+34.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Logronyés
@@ -73025,7 +72985,7 @@ Logronyés
 Lugo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.1
+39.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 28.9
@@ -73071,7 +73031,7 @@ Albacete
 31.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.7
+33.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Logronyés
@@ -73085,7 +73045,7 @@ Logronyés
 Logronyés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.0
+40.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 33.6
@@ -73131,7 +73091,7 @@ Logronyés
 26.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.9
+25.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Saragossa
@@ -73165,13 +73125,13 @@ Logronyés
 Logronyés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.1
+41.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 32.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.3
+26.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Tenerife
@@ -73185,13 +73145,13 @@ Tenerife
 Mirandés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.4
+39.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 30.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30.3
+30.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Logronyés
@@ -73205,7 +73165,7 @@ Logronyés
 Logronyés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.7
+41.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 29.3
@@ -73251,7 +73211,7 @@ Castelló
 30.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-44.4
+44.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Logronyés
@@ -73265,13 +73225,13 @@ Logronyés
 Logronyés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-39.1
+39.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 31.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-29.0
+28.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Girona
@@ -73285,13 +73245,13 @@ Girona
 Leganés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-45.7
+45.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 33.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.4
+20.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Logronyés
@@ -73311,7 +73271,7 @@ Logronyés
 31.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.2
+28.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Fuenlabrada
@@ -73345,13 +73305,13 @@ Logronyés
 Logronyés
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-45.2
+44.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.7
+28.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.1
+26.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;font-weight: bold;&#34;&gt;
 Las Palmas
