@@ -14,7 +14,7 @@ d <- suppressMessages(read_csv("~/Google Drive/Futbol/data_trajectories.csv", co
 teams <- suppressMessages(read_csv("~/Google Drive/Futbol/teamlist.csv", col_types = cols())) %>% select(-fullname)
 d <- d %>% left_join(teams, by = "team") %>% select(shortname, points, round)
 names(d) <- c("Club", "Punts.Projectats", "Jornada")
-levels <- d %>% filter(Jornada == max(Jornada)) %>% arrange(desc(Punts.Projectats)) %>% select(Club)
+levels <- d %>%  group_by(Club) %>% arrange(desc(Jornada)) %>% slice(1) %>% arrange(desc(Punts.Projectats))
 levels <- levels$Club
 d$Club <- factor(d$Club, levels = levels)
 h <- read.csv('~/Google Drive/Futbol/data_tables.csv') %>% filter(league == 'primera_division_femenina')
