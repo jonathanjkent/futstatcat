@@ -15,6 +15,7 @@ teams <- suppressMessages(read_csv("~/Google Drive/Futbol/teamlist.csv", col_typ
 d <- d %>% left_join(teams, by = "team") %>% select(shortname, points, round)
 names(d) <- c("Club", "Punts.Projectats", "Jornada")
 levels <- d %>% filter(Jornada == max(Jornada)) %>% arrange(desc(Punts.Projectats)) %>% select(Club)
+if (length(unique(d$Club)) != nrow(levels)){levels <- d %>% filter(Jornada == (max(Jornada)-1)) %>% arrange(desc(Punts.Projectats)) %>% select(Club)}
 levels <- levels$Club
 d$Club <- factor(d$Club, levels = levels)
 plot <- ggplot() + geom_line(data = d, aes(Jornada, Punts.Projectats, color = Club)) + theme_minimal()
