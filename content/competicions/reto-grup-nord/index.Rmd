@@ -5,28 +5,49 @@ image:
   caption: 
   focal_point: Smart
   preview_only: true
-summary: Projecció del primer fase de 2020-2021 
+summary: Projecció del segon fase de 2020-2021 
 tags:
 - 2020-2021
 - Femenina
-title: Reto, Grup Nord B
-subtitle: Projecció del primer fase de 2020-2021 
+title: Reto, Grup Nord
+subtitle: Projecció del segon fase de 2020-2021 
 ---
- | [Trajectòria dels equips](/competicions/reto-grup-nord-trajectoria/) |
-<br>
-<br>
+<!--  | [Trajectòria dels equips](/competicions/reto-grup-nord-trajectoria/) | -->
+<!-- <br> -->
+<!-- <br> -->
+
+### Fase Ascens
 
 ```{r echo=F}
 suppressMessages(library(dplyr))
 suppressMessages(library(kableExtra))
 teamnames <- read.csv("~/Google Drive/Futbol/teamlist.csv")
-table <- read.csv("~/Google Drive/Futbol/data_tables.csv") %>% filter(league == "primera_division_b_femenina_1")
+table <- read.csv("~/Google Drive/Futbol/data_tables.csv") %>% filter(league == "primera_division_b_femenina")
+table <- table[1:8,]
 table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
 table <- table[complete.cases(table),]
 table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
 table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
 table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
 table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
-table <- table %>% select(-shortname,-fullname,-league,-typex,-type2,-linkteam)
-kable(table, digits = 1, align = 'lccccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Fase Ascens', 'Fase Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Probabilitat (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
+table <- table %>% select(-shortname,-fullname,-league,-typex,-type2,-type3,-linkteam)
+kable(table, digits = 1, align = 'lcccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Campió', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Prob. (%)' = 1, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(4, border_right = T)
+```
+
+### Fase Permanència
+
+```{r echo=F}
+suppressMessages(library(dplyr))
+suppressMessages(library(kableExtra))
+teamnames <- read.csv("~/Google Drive/Futbol/teamlist.csv")
+table <- read.csv("~/Google Drive/Futbol/data_tables.csv") %>% filter(league == "primera_division_b_femenina")
+table <- table[9:17,]
+table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
+table <- table[complete.cases(table),]
+table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
+table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
+table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
+table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
+table <- table %>% select(-shortname,-fullname,-league,-typex,-type2,-type3,-linkteam)
+kable(table, digits = 1, align = 'lcccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Perm.', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Prob. (%)' = 1, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(4, border_right = T)
 ```
