@@ -1,8 +1,8 @@
 ---
 date: "2020-06-17"
 title: "FC Barcelona B"
-subtitle: 'NA'
-summary: 'NA'
+subtitle: 'Reto, Grup Nord'
+summary: 'Reto, Grup Nord'
 ---
 ### Trajectòria
 ```{r fig.width=8, fig.height=5, echo=F,warning=FALSE,message=FALSE}
@@ -10,8 +10,8 @@ suppressMessages(library(dplyr))
 suppressMessages(library(ggplot2))
 d <- read.csv('~/Google Drive/Futbol/data_trajectories.csv') %>% filter(team == '/Barcelona-B-Femenino')
 h <- read.csv('~/Google Drive/Futbol/data_tables.csv') %>% filter(league == 'primera_division_b_femenina')
-type1 <- as.numeric(h[NA,2] + h[NA,2])/2
-p <- ggplot(data=d) + geom_line(aes(round,points), size = 1.5, color = 'blue') + geom_hline(aes(yintercept=type1), linetype='dashed', color='#5c5c5c') + annotate('text',0,type1,label = 'NA', vjust = -.5, hjust = 'left', color='#5c5c5c')
+type1 <- as.numeric(h[1,2] + h[2,2])/2
+p <- ggplot(data=d) + geom_line(aes(round,points), size = 1.5, color = 'blue') + geom_hline(aes(yintercept=type1), linetype='dashed', color='#5c5c5c') + annotate('text',0,type1,label = 'Campió', vjust = -.5, hjust = 'left', color='#5c5c5c')
 if (nrow(d)>0){p + theme_minimal() + labs(x = "Jornada", y = "Punts Projectats")}
 ```
  

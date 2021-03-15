@@ -10,8 +10,8 @@ suppressMessages(library(dplyr))
 suppressMessages(library(ggplot2))
 d <- read.csv('~/Google Drive/Futbol/data_trajectories.csv') %>% filter(team == '/U-E-Sant-Ildefons')
 h <- read.csv('~/Google Drive/Futbol/data_tables.csv') %>% filter(league == 'primera_catalana_3')
-type1 <- as.numeric(h[4,2] + h[5,2])/2
-p <- ggplot(data=d) + geom_line(aes(round,points), size = 1.5, color = 'blue') + geom_hline(aes(yintercept=type1), linetype='dashed', color='#5c5c5c') + annotate('text',0,type1,label = 'Fase Ascens', vjust = -.5, hjust = 'left', color='#5c5c5c')
+type1 <- as.numeric(h[1,2] + h[2,2])/2
+p <- ggplot(data=d) + geom_line(aes(round,points), size = 1.5, color = 'blue') + geom_hline(aes(yintercept=type1), linetype='dashed', color='#5c5c5c') + annotate('text',0,type1,label = 'Campió', vjust = -.5, hjust = 'left', color='#5c5c5c')
 if (nrow(d)>0){p + theme_minimal() + labs(x = "Jornada", y = "Punts Projectats")}
 ```
  

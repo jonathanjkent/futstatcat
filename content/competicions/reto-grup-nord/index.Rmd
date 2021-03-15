@@ -16,7 +16,7 @@ subtitle: Projecció del segon fase de 2020-2021
 <!-- <br> -->
 <!-- <br> -->
 
-### Fase Ascens
+### Per Ascens
 
 ```{r echo=F}
 suppressMessages(library(dplyr))
@@ -34,7 +34,7 @@ table <- table %>% select(-shortname,-fullname,-league,-typex,-type2,-type3,-lin
 kable(table, digits = 1, align = 'lcccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Campió', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Prob. (%)' = 1, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(4, border_right = T)
 ```
 
-### Fase Permanència
+### Per Permanència
 
 ```{r echo=F}
 suppressMessages(library(dplyr))
