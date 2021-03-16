@@ -1,8 +1,8 @@
 ---
 date: "2020-06-17"
 title: "AE Prat"
-subtitle: 'Reto, Grup Nord'
-summary: 'Reto, Grup Nord'
+subtitle: 'Segona B, Grup III'
+summary: 'Segona B, Grup III'
 ---
 ### Trajectòria
 ```{r fig.width=8, fig.height=5, echo=F,warning=FALSE,message=FALSE}
@@ -10,9 +10,9 @@ suppressMessages(library(dplyr))
 suppressMessages(library(ggplot2))
 d <- read.csv('~/Google Drive/Futbol/data_trajectories.csv') %>% filter(team == '/Prat')
 h <- read.csv('~/Google Drive/Futbol/data_tables.csv') %>% filter(league == 'segundab_2')
-type1 <- as.numeric(h[5,2] + h[6,2])/2
-type2 <- as.numeric(h[4,2] + h[3,2])/2
-p <- ggplot(data=d) + geom_line(aes(round,points), size = 1.5, color = 'blue') + geom_hline(aes(yintercept=type1), linetype='dashed', color='#5c5c5c') + annotate('text',0,type1,label = 'Permanència', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=type2), linetype='dashed', color='#5c5c5c') + annotate('text',0,type2,label = 'Top 3', vjust = -.5, hjust = 'left', color='#5c5c5c')
+type1 <- as.numeric(h[3,2] + h[4,2])/2
+type2 <- as.numeric(h[8,2] + h[7,2])/2
+p <- ggplot(data=d) + geom_line(aes(round,points), size = 1.5, color = 'blue') + geom_hline(aes(yintercept=type1), linetype='dashed', color='#5c5c5c') + annotate('text',0,type1,label = 'Fase Ascens', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=type2), linetype='dashed', color='#5c5c5c') + annotate('text',0,type2,label = 'Fase Descens', vjust = -.5, hjust = 'left', color='#5c5c5c')
 if (nrow(d)>0){p + theme_minimal() + labs(x = "Jornada", y = "Punts Projectats")}
 ```
  
