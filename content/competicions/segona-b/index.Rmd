@@ -12,8 +12,6 @@ tags:
 - Masculina
 title: Segona B, Grup III
 ---
- | [Trajectòria dels equips](/competicions/segona-b-trajectoria/) |
-<br>
 
 ### Per Ascens a Segona
 
