@@ -27,7 +27,7 @@ table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
 table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
 table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
 table <- table %>% select(-fullname,-shortname, -league, -type2, -type3, -typex, -linkteam)
-kable(table, digits = 1, align = 'lcccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Campió', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció del Primer Fase' = 1, 'Projecció' = 2, 'Prob. (%)' = 1, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(4, border_right = T)
+kable(table, digits = 1, align = 'lcccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Campió', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Projecció' = 2, 'Prob. (%)' = 1, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(4, border_right = T)
 ```
 
 ### Subgrup 1-B
@@ -41,7 +41,7 @@ table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
 table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
 table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
 table <- table %>% select(-fullname,-shortname, -league, -type2, -type3, -typex, -linkteam)
-kable(table, digits = 1, align = 'lcccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Campió', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció del Primer Fase' = 1, 'Projecció' = 2, 'Prob. (%)' = 1, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(4, border_right = T)
+kable(table, digits = 1, align = 'lcccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Campió', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Prob. (%)' = 1, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(4, border_right = T)
 ```
 
 ### Subgrup 2-A
@@ -55,7 +55,7 @@ table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
 table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
 table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
 table <- table %>% select(-fullname,-shortname, -league, -type2, -type3, -typex, -linkteam)
-kable(table, digits = 1, align = 'lcccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Campió', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció del Primer Fase' = 1, 'Projecció' = 2, 'Prob. (%)' = 1, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(4, border_right = T)
+kable(table, digits = 1, align = 'lcccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Campió', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Prob. (%)' = 1, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(4, border_right = T)
 ```
 
 ### Subgrup 2-B
@@ -69,5 +69,5 @@ table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
 table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
 table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
 table <- table %>% select(-fullname,-shortname, -league, -type2, -type3, -typex, -linkteam)
-kable(table, digits = 1, align = 'lcccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Campió', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció del Primer Fase' = 1, 'Projecció' = 2, 'Prob. (%)' = 1, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(4, border_right = T)
+kable(table, digits = 1, align = 'lcccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Campió', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Prob. (%)' = 1, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(4, border_right = T)
 ```
