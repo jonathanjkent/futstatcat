@@ -4,7 +4,6 @@ title: "UE Sant Andreu"
 subtitle: 'Tercera, Grup V'
 summary: 'Tercera, Grup V'
 ---
-### Trajectòria
 ```{r fig.width=8, fig.height=5, echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(dplyr))
 suppressMessages(library(ggplot2))
@@ -13,7 +12,7 @@ h <- read.csv('~/Google Drive/Futbol/data_tables.csv') %>% filter(league == 'ter
 type1 <- as.numeric(h[3,2] + h[4,2])/2
 type2 <- as.numeric(h[7,2] + h[6,2])/2
 p <- ggplot(data=d) + geom_line(aes(round,points), size = 1.5, color = 'blue') + geom_hline(aes(yintercept=type1), linetype='dashed', color='#5c5c5c') + annotate('text',0,type1,label = 'Fase Ascens', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=type2), linetype='dashed', color='#5c5c5c') + annotate('text',0,type2,label = 'Fase Descens', vjust = -.5, hjust = 'left', color='#5c5c5c')
-if (nrow(d)>0){p + theme_minimal() + labs(x = "Jornada", y = "Punts Projectats")}
+if (nrow(d)>2){p + theme_minimal() + labs(x = "Jornada", y = "Punts Projectats")}
 ```
  
 ### Pròxims partits
