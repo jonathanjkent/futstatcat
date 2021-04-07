@@ -12,38 +12,59 @@ tags:
 - Masculina
 title: Tercera, Grup V
 ---
- | [Trajectòria dels equips](/competicions/tercera-trajectoria/) |
-<br>
 
-### Subgrup A
+### Per Ascens a Segona RFEF
+
+```{r echo=F,warning=FALSE,message=FALSE}
+suppressMessages(library(dplyr))
+suppressMessages(library(kableExtra))
+playoff <- read.csv("~/Google Drive/Futbol/tercera_playoff.csv")
+teamnames <- read.csv("~/Google Drive/Futbol/teamlist.csv")
+data <- read.csv("~/Google Drive/Futbol/data_tables.csv")
+table <- data %>% filter(league == 'tercera_ascenso_segunda_rfef')
+table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points)) %>% left_join(playoff, by = "team")
+table <- table[complete.cases(table),]
+table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
+table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
+table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
+table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
+table <- table %>% select(team,proj.points,gd,type1,ascens,off.rank,def.rank,qualitat)
+kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Dir.', 'Play.', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Ascens Prob. (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
+```
+
+### Per Playoff
 
 ```{r echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(dplyr))
 suppressMessages(library(kableExtra))
 teamnames <- read.csv("~/Google Drive/Futbol/teamlist.csv")
 data <- read.csv("~/Google Drive/Futbol/data_tables.csv")
-table <- data %>% filter(league == 'tercera_4')
-table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
+table <- data %>% filter(league == 'tercera_fase_segunda_rfef')
+table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points)) %>% left_join(playoff, by = "team")
 table <- table[complete.cases(table),]
 table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
 table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
 table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
 table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
-table <- table %>% select(-shortname,-fullname,-linkteam, -league,-typex)
-kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', '1-3', '4-6','7-11', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Probabilitat (%)' = 3, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(6, border_right = T)
+table <- table %>% select(team,proj.points,gd,type1,ascens,off.rank,def.rank,qualitat)
+kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Playoff','Ascens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Prob. (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
 ```
 
-### Subgrup B
+### Per Permanència (Tercera RFEF)
 
 ```{r echo=F,warning=FALSE,message=FALSE}
-table <- data %>% filter(league == 'tercera_5')
+suppressMessages(library(dplyr))
+suppressMessages(library(kableExtra))
+teamnames <- read.csv("~/Google Drive/Futbol/teamlist.csv")
+data <- read.csv("~/Google Drive/Futbol/data_tables.csv")
+table <- data %>% filter(league == 'tercera_fase_permanencia_tercera_rfef')
 table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
 table <- table[complete.cases(table),]
 table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
 table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
 table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
 table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
-table <- table %>% select(-shortname,-fullname,-linkteam, -league,-typex)
-kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', '1-3', '4-6','7-11', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Probabilitat (%)' = 3, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(6, border_right = T)
+table <- table %>% select(-shortname,-fullname,-linkteam, -league,-typex,-type2,-type3)
+kable(table, digits = 1, align = 'lcccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Perm.', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Prob. (%)' = 1, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(4, border_right = T)
 ```
 

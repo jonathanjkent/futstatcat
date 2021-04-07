@@ -7,7 +7,7 @@ summary: 'Primera Nacional, Grup V'
 ```{r fig.width=8, fig.height=5, echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(dplyr))
 suppressMessages(library(ggplot2))
-d <- read.csv('~/Google Drive/Futbol/data_trajectories.csv') %>% filter(team == '/Son-Sardina-Femenino')
+d <- read.csv('~/Google Drive/Futbol/data_trajectories.csv') %>% filter(league != 'tercera' & team == '/Son-Sardina-Femenino')
 h <- read.csv('~/Google Drive/Futbol/data_tables.csv') %>% filter(league == 'segunda_division_femenina')
 type1 <- as.numeric(h[1,2] + h[2,2])/2
 type2 <- as.numeric(h[12,2] + h[11,2])/2
