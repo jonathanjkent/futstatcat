@@ -5,8 +5,8 @@ image:
   caption: 
   focal_point: Smart
   preview_only: true
-summary: Projecció del segon fase de 2020-2021
-subtitle: Projecció del segon fase de 2020-2021
+summary: Projecció del segona fase de 2020-2021
+subtitle: Projecció del segona fase de 2020-2021
 tags:
 - 2020-2021
 - Masculina

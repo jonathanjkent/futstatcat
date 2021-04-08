@@ -5,12 +5,12 @@ image:
   caption: 
   focal_point: Smart
   preview_only: true
-summary: Projecció del segon fase de 2020-2021 
+summary: Projecció del segona fase de 2020-2021 
 tags:
 - 2020-2021
 - Femenina
 title: Reto, Grup Nord
-subtitle: Projecció del segon fase de 2020-2021 
+subtitle: Projecció del segona fase de 2020-2021 
 ---
 <!--  | [Trajectòria dels equips](/competicions/reto-grup-nord-trajectoria/) | -->
 <!-- <br> -->
