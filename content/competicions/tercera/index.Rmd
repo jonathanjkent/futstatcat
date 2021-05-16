@@ -30,6 +30,7 @@ table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
 table$linkteam <- gsub("[[:space:]]", "-", table$linkteam)
 table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"-",table$league,")")
 table <- table %>% select(team,proj.points,gd,type1,ascens,off.rank,def.rank,qualitat)
+table$type1[2:3] <- c(100,0)
 kable(table, digits = 1, align = 'lccccccc', row.names = FALSE, col.names = c('Club', 'Punts', 'GD', 'Dir.', 'Play.', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Final' = 2, 'Ascens Prob. (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
 ```
 
