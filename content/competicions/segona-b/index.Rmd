@@ -5,8 +5,8 @@ image:
   caption: 
   focal_point: Smart
   preview_only: true
-summary: Projecció del segona fase de 2020-2021
-subtitle: Projecció del segona fase de 2020-2021
+summary: Ascens, Eivissa
+subtitle: Ascens, Eivissa
 tags:
 - 2020-2021
 - Masculina
