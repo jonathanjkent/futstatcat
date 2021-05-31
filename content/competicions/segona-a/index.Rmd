@@ -21,7 +21,7 @@ table <- read.csv("~/Google Drive/Futbol/data_tables.csv")
 table <- table %>% filter(league == 'segunda') %>% left_join(playoff, by = "team")
 table$ascens[is.na(table$ascens)] <- 0
 table <- table %>% mutate(type1 = type1 + ascens) %>% select(-ascens)
-table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
+table <- table %>% left_join(teamnames, by = "team")
 table <- table[complete.cases(table),]
 table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
 table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))

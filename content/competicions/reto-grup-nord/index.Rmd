@@ -22,7 +22,7 @@ subtitle: Projecció del segona fase de 2020-2021
 suppressMessages(library(dplyr))
 suppressMessages(library(kableExtra))
 teamnames <- read.csv("~/Google Drive/Futbol/teamlist.csv")
-table <- read.csv("~/Google Drive/Futbol/data_tables.csv") %>% filter(league == "primera_division_b_femenina")
+table <- read.csv("~/Downloads/data_tables.csv") %>% filter(league == "primera_division_b_femenina")
 table <- table[1:8,]
 table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
 table <- table[complete.cases(table),]
@@ -40,7 +40,8 @@ kable(table, digits = 1, align = 'lcccccccc', row.names = FALSE, col.names = c('
 suppressMessages(library(dplyr))
 suppressMessages(library(kableExtra))
 teamnames <- read.csv("~/Google Drive/Futbol/teamlist.csv")
-table <- read.csv("~/Google Drive/Futbol/data_tables.csv") %>% filter(league == "primera_division_b_femenina")
+######################### Not Downloads  
+table <- read.csv("~/Downloads/data_tables.csv") %>% filter(league == "primera_division_b_femenina")
 table <- table[9:17,]
 table <- teamnames %>% left_join(table, by = "team") %>% arrange(desc(proj.points))
 table <- table[complete.cases(table),]
