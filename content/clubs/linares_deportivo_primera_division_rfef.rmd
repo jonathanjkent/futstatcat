@@ -1,0 +1,35 @@
+---
+date: "2021-01-01"
+title: 'Linares Deportivo'
+subtitle: 'Primera RFEF'
+summary: 'Primera RFEF'
+---
+```{r fig.width=8, fig.height=4, echo=F,warning=FALSE,message=FALSE}
+suppressMessages(library(dplyr))
+suppressMessages(library(ggplot2))
+traj <- read.csv('~/Google Drive/Futbol/futstat_trajs.csv') %>% filter(team == '/Linares-Deportivo') %>% filter(date > as.Date('2021-08-01'))
+if (nrow(traj) > 2){
+  table <- read.csv('~/Google Drive/Futbol/futstat_tables.csv') %>% filter(league == 'primera_division_rfef_2')
+  league <- read.csv('~/Google Drive/Futbol/ligas.csv') %>% filter(league == 'primera_division_rfef' & group == 2)
+  t1.line <- (table$pts[league$t1.max] + table$pts[league$t1.max+1])/2
+  t2.line <- (table$pts[league$t2.max] + table$pts[league$t2.max+1])/2
+  des.line <- (table$pts[league$des.min] + table$pts[league$des.min-1])/2
+  p <- ggplot(data=traj) + geom_line(aes(date,pts, group = 1), size = 1.5, color = 'blue') + geom_hline(aes(yintercept=t1.line), linetype='dashed', color='#5c5c5c') + annotate('text',0,t1.line,label = 'Ascens', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=t2.line), linetype='dashed', color='#5c5c5c') + annotate('text',0,t2.line,label = 'Playoff', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=des.line), linetype='dashed', color='#5c5c5c') + annotate('text',0,des.line,label = 'Descens', vjust = -.5, hjust = 'left', color='#5c5c5c')
+  p + theme_minimal() + labs(x = NULL, y = "Punts Projectats") + theme(axis.text.x=element_blank())
+}
+```
+ 
+### Classificació projectada
+```{r fig.width=8, fig.height=3, echo=F,warning=FALSE,message=FALSE}
+hist <- read.csv("~/Google Drive/Futbol/futstat_hists.csv") %>% filter(team == '/Linares-Deportivo')
+p <- ggplot(hist, aes(rank)) + geom_histogram(binwidth = 1, fill = '#004d98')
+p + theme_minimal() + labs(y = "Simulacions", x = "Classificació") + theme(axis.text.y=element_blank())
+```
+ 
+### Pròxims partits
+```{r echo=F,warning=FALSE,message=FALSE}
+suppressMessages(library(kableExtra))
+teamnames <- read.csv("~/Google Drive/Futbol/teamlist.csv") %>% select(-fullname) %>% rename(team1 = team, shortname1 = shortname)
+games <- read.csv("~/Google Drive/Futbol/futstat_odds.csv")  %>% filter(team1 == '/Linares-Deportivo' | team2 == '/Linares-Deportivo') %>% left_join(teamnames, by = 'team1') %>% left_join(teamnames %>% rename(team2 = team1, shortname2 = shortname1), by = 'team2') %>% select(shortname1,p1,pd,p2,shortname2) %>% mutate(p1 = p1*100, pd = pd*100, p2 = p2*100)
+kable(games, digits = 1, align = "c", row.names = FALSE, col.names = c("Equip", "Guanyar", "Empatar", "Guanyar", "Equip")) %>% add_header_above(c("Local" = 2, "(%)" = 1, "Visitant" = 2)) %>% column_spec(1, bold = T) %>% column_spec(5, bold = T)
+```
