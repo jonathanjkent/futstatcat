@@ -5,8 +5,8 @@ image:
   caption: 
   focal_point: Smart
   preview_only: true
-summary: Ascens, Europa i Terrassa + Playoff
-subtitle: Ascens, Europa i Terrassa + Playoff
+summary: Ascens, Europa, Terrassa i Cerdanyola
+subtitle: Ascens, Europa, Terrassa i Cerdanyola
 tags:
 - 2020-2021
 - Masculina
