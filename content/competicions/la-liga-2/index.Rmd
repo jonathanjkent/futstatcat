@@ -7,7 +7,6 @@ tags:
   - 2021-2022
 title: La Liga 2
 ---
-## Grup I
 ```{r echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(dplyr))
 suppressMessages(library(kableExtra))

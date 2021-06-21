@@ -21,5 +21,5 @@ table <- table %>% select(-shortname,-fullname,-league,-linkteam,-t3,-t4)
 table$t1[is.na(table$t1)] <- 0
 table$t2[is.na(table$t2)] <- 0
 table$des[is.na(table$des)] <- 0
-kable(table, digits = 1, align = 'lcccccccc', row.names = FALSE, col.names = c('Club', 'Class.', 'Punts', 'Ascens Dir', 'Playoff', 'Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Mitjana' = 2, 'Probabilitat (%)' = 3, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(6, border_right = T)
+kable(table, digits = 1, align = 'lcccccccc', row.names = FALSE, col.names = c('Club', 'Class.', 'Punts', 'Ascens Dir.', 'Playoff', 'Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Mitjana' = 2, 'Probabilitat (%)' = 3, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(6, border_right = T)
 ```
