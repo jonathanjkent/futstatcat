@@ -8,18 +8,6 @@
   url = ""
   weight = 10
 
-[[main]]
-  name = "Masculina"
-  url = "tags/masculina/"
-  weight = 20
-
-[[main]]
-  name = "Femenina"
-  url = "tags/femenina/"
-  weight = 21
-
-
-
 
 
 

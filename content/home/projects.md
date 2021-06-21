@@ -21,15 +21,6 @@ title = "Competicions"
   filter_default = 0
   
 
-
-  [[content.filter_button]]
-    name = "Masculina"
-    tag = "Masculina"
-
- [[content.filter_button]]
-    name = "Femenina"
-    tag = "Femenina"
- 
   [[content.filter_button]]
     name = "2021-2022"
     tag = "2021-2022"
