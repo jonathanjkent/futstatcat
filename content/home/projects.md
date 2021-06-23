@@ -22,8 +22,12 @@ title = "Competicions"
   
 
   [[content.filter_button]]
-    name = "2021-2022"
+    name = "Futbol 2021-2022"
     tag = "2021-2022"
+    
+  [[content.filter_button]]
+    name = "Altres Esports"
+    tag = "Altres Esports"
     
     
 
