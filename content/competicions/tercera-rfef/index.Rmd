@@ -4,7 +4,7 @@ image:
   preview_only: true
 summary: Projecció de 2021-2022
 tags:
-  - 2021-2022
+  - Futbol Masculí
 title: Tercera RFEF, Grup V
 ---
 ```{r echo=F,warning=FALSE,message=FALSE}
@@ -18,8 +18,5 @@ table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
 table$linkteam <- gsub("[[:space:]]", "_", table$linkteam)
 table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"_",table$league,")")
 table <- table %>% select(-shortname,-fullname,-league,-linkteam,-t3,-t4,-playoff.ascens)
-table$t1[is.na(table$t1)] <- 0
-table$t2[is.na(table$t2)] <- 0
-table$des[is.na(table$des)] <- 0
 kable(table, digits = 1, align = 'lcccccccc', row.names = FALSE, col.names = c('Club', 'Class.', 'Punts', 'Ascens', 'Playoff', 'Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Mitjana' = 2, 'Probabilitat (%)' = 3, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(6, border_right = T)
 ```

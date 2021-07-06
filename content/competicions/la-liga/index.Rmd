@@ -4,7 +4,7 @@ image:
   preview_only: true
 summary: Projecció de 2021-2022
 tags:
-  - 2021-2022
+  - Futbol Masculí
 title: La Liga
 ---
 ```{r echo=F,warning=FALSE,message=FALSE}
@@ -18,11 +18,6 @@ table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
 table$linkteam <- gsub("[[:space:]]", "_", table$linkteam)
 table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"_",table$league,")")
 table <- table %>% select(-shortname,-fullname,-league,-linkteam)
-table$t1[is.na(table$t1)] <- 0
-table$t2[is.na(table$t2)] <- 0
-table$t3[is.na(table$t3)] <- 0
-table$t4[is.na(table$t4)] <- 0
-table$des[is.na(table$des)] <- 0
 kable(table, digits = 1, align = 'lcccccccccc', row.names = FALSE, col.names = c('Club', 'Class.', 'Punts', 'Campió', 'UCL', "Europa", "Conf", 'Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció' = 1, 'Mitjana' = 2, 'Probabilitat (%)' = 5, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(8, border_right = T)
 ```
 
