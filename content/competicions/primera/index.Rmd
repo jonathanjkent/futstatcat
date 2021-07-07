@@ -1,0 +1,23 @@
+---
+date: "2020-06-17"
+image:
+  preview_only: true
+summary: Projecció de 2021-2022
+tags:
+  - Futbol Femení
+title: Primera
+---
+```{r echo=F,warning=FALSE,message=FALSE}
+suppressMessages(library(dplyr))
+suppressMessages(library(kableExtra))
+suppressMessages(library(stringr))
+teamnames <- read.csv("~/Google Drive/Futbol/teamlist.csv")
+table <- read.csv("~/Google Drive/Futbol/futstat_tables.csv") %>% filter(league == 'primera_division_femenina2022_1') %>% left_join(teamnames, by = "team") %>% arrange(rank) %>% mutate(league = str_sub(league,1,-3))
+table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
+table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
+table$linkteam <- gsub("[[:space:]]", "_", table$linkteam)
+table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"_",table$league,")")
+table <- table %>% select(-shortname,-fullname,-league,-linkteam,-t3,-t4)
+kable(table, digits = 1, align = 'lcccccccc', row.names = FALSE, col.names = c('Club', 'Class.', 'Punts', 'Campió', 'UCL', 'Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció' = 1, 'Mitjana' = 2, 'Probabilitat (%)' = 3, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(6, border_right = T)
+```
+
