@@ -8,6 +8,17 @@
   url = ""
   weight = 10
 
+[[main]]
+  name = "Masculí"
+  url = "/tags/futbol-masculi/"
+  weight = 20
+
+[[main]]
+  name = "Femení"
+  url = "/tags/futbol-femeni/"
+  weight = 30
+
+
 
 
 
