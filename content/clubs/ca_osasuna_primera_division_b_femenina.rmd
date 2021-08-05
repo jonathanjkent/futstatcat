@@ -14,7 +14,7 @@ if (nrow(traj) > 2){
   t1.line <- (table$pts[league$t1.max] + table$pts[league$t1.max+1])/2
   t2.line <- (table$pts[league$t2.max] + table$pts[league$t2.max+1])/2
   des.line <- (table$pts[league$des.min] + table$pts[league$des.min-1])/2
-  p <- ggplot(data=traj) + geom_line(aes(date,pts, group = 1), size = 1.5, color = 'blue') + geom_hline(aes(yintercept=t1.line), linetype='dashed', color='#5c5c5c') + annotate('text',0,t1.line,label = 'Campió', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=t2.line), linetype='dashed', color='#5c5c5c') + annotate('text',0,t2.line,label = 'NA', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=des.line), linetype='dashed', color='#5c5c5c') + annotate('text',0,des.line,label = 'Descens', vjust = -.5, hjust = 'left', color='#5c5c5c')
+  p <- ggplot(data=traj) + geom_line(aes(date,pts, group = 1), size = 1.5, color = '#f66f5c') + geom_line(aes(date,qualitat, group = 1), size = 1, color = '#f66f5c', alpha = .1, linetype = 'dashed') + geom_hline(aes(yintercept=t1.line), linetype='dashed', color='#5c5c5c') + annotate('text',0,t1.line,label = 'Campió', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=t2.line), linetype='dashed', color='#5c5c5c') + annotate('text',0,t2.line,label = 'NA', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=des.line), linetype='dashed', color='#5c5c5c') + annotate('text',0,des.line,label = 'Descens', vjust = -.5, hjust = 'left', color='#5c5c5c')
   p + theme_minimal() + labs(x = NULL, y = "Punts Projectats") + theme(axis.text.x=element_blank())
 }
 ```
@@ -22,7 +22,7 @@ if (nrow(traj) > 2){
 ### Classificació projectada
 ```{r, hist, fig.width=8, fig.height=3, echo=F,warning=FALSE,message=FALSE}
 hist <- read.csv("~/Google Drive/Futbol/futstat_hists.csv") %>% filter(team == '/Atletico-Osasuna-Femenino')
-p <- ggplot(hist, aes(as.factor(rank))) + geom_bar(fill = "#004d98")
+p <- ggplot(hist, aes(as.factor(rank))) + geom_bar(fill = "#f66f5c")
 p + theme_minimal() + labs(y = "Simulacions", x = "Classificació") + theme(axis.text.y=element_blank())
 ```
  
