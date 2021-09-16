@@ -18,6 +18,11 @@
   url = "/tags/futbol-femeni/"
   weight = 30
 
+[[main]]
+  name = "Mapa"
+  url = "/mapa/"
+  weight = 40
+
 
 
 
