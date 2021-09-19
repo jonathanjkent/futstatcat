@@ -23,6 +23,11 @@
   url = "/mapa/"
   weight = 40
 
+[[main]]
+  name = "Explora les Dades"
+  url = "/explora/"
+  weight = 50
+
 
 
 
