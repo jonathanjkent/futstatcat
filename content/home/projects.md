@@ -28,6 +28,10 @@ title = "Competicions"
   [[content.filter_button]]
     name = "Futbol Femení"
     tag = "Futbol Femení"
+    
+  [[content.filter_button]]
+    name = "Altres Esports"
+    tag = "Altres Esports"    
 
     
     
