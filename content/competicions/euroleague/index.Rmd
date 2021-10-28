@@ -10,7 +10,7 @@ title: EuroLeague Bàsquet
 ```{r echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(dplyr))
 suppressMessages(library(kableExtra))
-table <- readRDS("~/Google Drive/Futbol/basket_table_euro.rds") 
+table <- readRDS("~/Google Drive/Futbol/basket_table_euro.rds") %>% filter(league == "league") %>% select(-league)
 table$linkteam <- iconv(table$cat.team,to="ASCII//TRANSLIT")
 table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
 table$linkteam <- gsub("[[:space:]]", "_", table$linkteam)

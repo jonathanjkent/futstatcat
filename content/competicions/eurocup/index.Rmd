@@ -1,0 +1,21 @@
+---
+date: "2020-06-16"
+image:
+  preview_only: true
+summary: Projecció de 2021-2022
+tags:
+  - Altres Esports
+title: EuroCup Bàsquet
+---
+```{r echo=F,warning=FALSE,message=FALSE}
+suppressMessages(library(dplyr))
+suppressMessages(library(kableExtra))
+table <- readRDS("~/Google Drive/Futbol/basket_table_euro.rds") %>% filter(league == "cup") %>% select(-league)
+table$linkteam <- iconv(table$cat.team,to="ASCII//TRANSLIT")
+table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
+table$linkteam <- gsub("[[:space:]]", "_", table$linkteam)
+table$cat.team <- paste0("[", table$cat.team, "](/clubs/", table$linkteam,"_basquet)")
+table <- table %>% select(-linkteam)
+kable(table, digits = 1, align = 'lcccccc', row.names = FALSE, col.names = c('Club','Qualitat', 'Class.', 'G-P', 'Campió',"EuroLeague","Playoff")) %>% add_header_above(c('Projecció' = 2, 'Mitjana' = 2, 'Probabilitat (%)' = 3)) %>% column_spec(1, bold = T) %>% column_spec(2, border_right = T) %>% column_spec(4, border_right = T)
+```
+
