@@ -2,22 +2,25 @@
 date: "2020-06-17"
 image:
   preview_only: true
-summary: Projecció de 2021-2022 de Grup V
+summary: Projecció de 2021-2022 de Grup II
 tags:
   - Futbol Masculí
-title: Tercera RFEF
+title: Primera RFEF
 ---
-## Grup V
+## Grup II
 ```{r echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(dplyr))
 suppressMessages(library(kableExtra))
 suppressMessages(library(stringr))
-teamnames <- readRDS("~/Google Drive/Futbol/teamlist.rds")
-table <- readRDS("~/Google Drive/Futbol/futstat_tables.rds") %>% filter(league == 'tercera_division_rfef_5') %>% left_join(teamnames, by = "team") %>% arrange(rank) %>% mutate(league = str_sub(league,1,-3)) %>% left_join(readRDS("~/Google Drive/Futbol/futstat_playoff.rds"), by = "team") %>% mutate(playoff.ascens = playoff.ascens/2, t1a = rowSums(cbind(t1, playoff.ascens), na.rm = T)) 
+teamnames <- readRDS("~/GoogleDrive/Futbol/teamlist.rds")
+table <- readRDS("~/GoogleDrive/Futbol/futstat_tables.rds") %>% filter(league == 'primera_division_rfef_2') %>% left_join(teamnames, by = "team") %>% arrange(rank) %>% mutate(league = str_sub(league,1,-3))  %>% left_join(readRDS("~/GoogleDrive/Futbol/futstat_playoff.rds"), by = "team") %>% mutate(playoff.ascens = playoff.ascens/2, t1a = rowSums(cbind(t1, playoff.ascens), na.rm = T)) 
 table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
 table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
 table$linkteam <- gsub("[[:space:]]", "_", table$linkteam)
 table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"_",table$league,")")
 table <- table %>% select(team,rank,pts,t1a,t1,t2,des,xGF,xGA,qualitat)
+table$t1[is.na(table$t1)] <- 0
+table$t2[is.na(table$t2)] <- 0
+table$des[is.na(table$des)] <- 0
 kable(table, digits = 1, align = 'lccccccccc', row.names = FALSE, col.names = c('Club', 'Class.', 'Punts', 'Ascens','Asc.Dir.', 'Playoff', 'Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Mitjana' = 2, 'Probabilitat (%)' = 4, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(7, border_right = T)
 ```

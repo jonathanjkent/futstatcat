@@ -9,7 +9,7 @@ suppressMessages(library(tmap))
 suppressMessages(library(sf))
 suppressMessages(tmap_mode("view"))
 
-Clubs <- readRDS("~/Google Drive/Futbol/teamlist_coord.rds") %>% left_join(readRDS("~/Google Drive/Futbol/futstat_tables.rds"), by = "team") %>% na.omit() %>% filter(!str_detect(league,"femenina")) %>% mutate(category = ifelse(str_detect(league, "catalana"),6, ifelse(str_detect(league, "tercera"), 5, ifelse(str_detect(league,"segunda_d"),4, ifelse(str_detect(league,"primera_d"),3, ifelse(str_detect(league, "segunda_1"),2,1)))))) %>% mutate(cat.rank = (6-category)*50+qualitat) %>% arrange(cat.rank) %>% mutate(Classificació = 71:1, lat = ifelse(team %in% c("/Palamos-Cf","/Vic-Riuprimer-Refo-Fc"),lat - .001,lat)) %>% select(fullname,everything()) %>% st_as_sf(coords = c("lon", "lat"), crs = 4326)
+Clubs <- readRDS("~/GoogleDrive/Futbol/teamlist_coord.rds") %>% left_join(readRDS("~/GoogleDrive/Futbol/futstat_tables.rds"), by = "team") %>% na.omit() %>% filter(!str_detect(league,"femenina")) %>% mutate(category = ifelse(str_detect(league, "catalana"),6, ifelse(str_detect(league, "tercera"), 5, ifelse(str_detect(league,"segunda_d"),4, ifelse(str_detect(league,"primera_d"),3, ifelse(str_detect(league, "segunda_1"),2,1)))))) %>% mutate(cat.rank = (6-category)*50+qualitat) %>% arrange(cat.rank) %>% mutate(Classificació = 71:1, lat = ifelse(team %in% c("/Palamos-Cf","/Vic-Riuprimer-Refo-Fc"),lat - .001,lat)) %>% select(fullname,everything()) %>% st_as_sf(coords = c("lon", "lat"), crs = 4326)
 
 tm_basemap("CartoDB.Positron") + 
   tm_shape(Clubs) + 
