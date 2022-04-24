@@ -33,5 +33,5 @@ p + theme_minimal() + labs(y = "Simulacions", x = "Classificació") + theme(axis
 suppressMessages(library(kableExtra))
 teamnames <- readRDS("~/GoogleDrive/Futbol/teamlist.rds") %>% select(-fullname) %>% rename(team1 = team, shortname1 = shortname)
 games <- readRDS('~/GoogleDrive/Futbol/futstat_odds.rds')  %>% filter(team1 == '/Alaves' | team2 == '/Alaves') %>% left_join(teamnames, by = 'team1') %>% left_join(teamnames %>% rename(team2 = team1, shortname2 = shortname1), by = 'team2') %>% select(shortname1,p1,pd,p2,shortname2) %>% mutate(p1 = p1*100, pd = pd*100, p2 = p2*100)
-kable(games, digits = 1, align = "c", row.names = FALSE, col.names = c("Equip", "Guanyar", "Empatar", "Guanyar", "Equip")) %>% add_header_above(c("Local" = 2, "(%)" = 1, "Visitant" = 2)) %>% column_spec(1, bold = T) %>% column_spec(5, bold = T)
+if(nrow(games)>0){kable(games, digits = 1, align = "c", row.names = FALSE, col.names = c("Equip", "Guanyar", "Empatar", "Guanyar", "Equip")) %>% add_header_above(c("Local" = 2, "(%)" = 1, "Visitant" = 2)) %>% column_spec(1, bold = T) %>% column_spec(5, bold = T)}
 ```
