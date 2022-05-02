@@ -17,7 +17,7 @@ table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
 table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
 table$linkteam <- gsub("[[:space:]]", "_", table$linkteam)
 table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"_",table$league,")")
-table <- table %>% select(-shortname,-fullname,-league,-linkteam,-t3,-t4,-des)
-kable(table, digits = 1, align = 'lcccccccc', row.names = FALSE, col.names = c('Club', 'Class.', 'Punts', 'Campió', 'UCL', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció' = 1, 'Mitjana' = 2, 'Probabilitat (%)' = 2, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(5, border_right = T)
+table <- table %>% select(-shortname,-fullname,-league,-linkteam,-t3,-t4)
+kable(table, digits = 1, align = 'lccccccccc', row.names = FALSE, col.names = c('Club', 'Class.', 'Punts', 'Campió', 'UCL', 'Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció' = 1, 'Mitjana' = 2, 'Probabilitat (%)' = 3, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(6, border_right = T)
 ```
 
