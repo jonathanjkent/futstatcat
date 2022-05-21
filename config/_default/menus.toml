@@ -67,11 +67,6 @@
   weight = 303
 
 [[main]]
-  name = "Mapa"
-  url = "/mapa/"
-  weight = 40
-
-[[main]]
   name = "Explora les Dades"
   url = "/explora/"
   weight = 50
