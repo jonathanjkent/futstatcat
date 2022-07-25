@@ -2,9 +2,10 @@
 date: "2020-06-17"
 image:
   preview_only: true
-summary: Projecció de 2021-2022 de Grup III
+summary: Projecció de 2022-2023 de Grup III
 tags:
   - Futbol Masculí
+  - Competicions
 title: Segona RFEF
 ---
 ## Grup III

@@ -22,12 +22,9 @@ title = "Competicions"
   
 
   [[content.filter_button]]
-    name = "Futbol Masculí"
-    tag = "Futbol Masculí"
+    name = "Competicions"
+    tag = "Competicions"
     
-  [[content.filter_button]]
-    name = "Futbol Femení"
-    tag = "Futbol Femení"
 
 
     

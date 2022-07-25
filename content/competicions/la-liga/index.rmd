@@ -1,10 +1,11 @@
 ---
-date: "2020-06-17"
+date: "2020-06-19"
 image:
   preview_only: true
-summary: Projecció de 2021-2022
+summary: Projecció de 2022-2023
 tags:
   - Futbol Masculí
+  - Competicions
 title: La Liga
 ---
 ```{r echo=F,warning=FALSE,message=FALSE}

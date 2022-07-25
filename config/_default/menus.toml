@@ -9,62 +9,47 @@
   weight = 10
 
 [[main]]
-  name = "Masculí"
-  url = "/tags/futbol-masculi/"
+  name = "Competicions"
+  url = "/tags/competicions/"
   weight = 20
 
 [[main]]
-  parent = "Masculí"
+  parent = "Competicions"
   name = "La Liga"
   url = "competicions/la-liga/"
+  weight = 200
+
+
+[[main]]
+  parent = "Competicions"
+  name = "Primera"
+  url = "competicions/primera/"
   weight = 201
 
 [[main]]
-  parent = "Masculí"
+  parent = "Competicions"
   name = "La Liga 2"
   url = "competicions/la-liga-2/"
   weight = 202
 
 [[main]]
-  parent = "Masculí"
+  parent = "Competicions"
   name = "Primera RFEF"
   url = "competicions/primera-rfef/"
   weight = 203
 
 [[main]]
-  parent = "Masculí"
+  parent = "Competicions"
   name = "Segona RFEF"
   url = "competicions/segona-rfef/"
   weight = 204
 
 [[main]]
-  parent = "Masculí"
+  parent = "Competicions"
   name = "Tercera RFEF"
   url = "competicions/tercera-rfef/"
   weight = 205
 
-[[main]]
-  name = "Femení"
-  url = "/tags/futbol-femeni/"
-  weight = 30
-
-[[main]]
-  parent = "Femení"
-  name = "Primera"
-  url = "competicions/primera/"
-  weight = 301
-
-[[main]]
-  parent = "Femení"
-  name = "Segona Pro"
-  url = "competicions/segona-pro/"
-  weight = 302
-
-[[main]]
-  parent = "Femení"
-  name = "Primera Nacional"
-  url = "competicions/primera-nacional/"
-  weight = 303
 
 [[main]]
   name = "Explora les Dades"
