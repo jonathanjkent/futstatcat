@@ -1,6 +1,6 @@
 ---
 date: "2021-01-01"
-title: "SD Logroñés"
+title: "SD Logronyés"
 subtitle: 'Primera RFEF'
 summary: 'Primera RFEF'
 ---
@@ -15,7 +15,7 @@ if (nrow(traj) > 2){
   t1.line <- (table$pts[league$t1.max] + table$pts[league$t1.max+1])/2
   t2.line <- (table$pts[league$t2.max] + table$pts[league$t2.max+1])/2
   des.line <- (table$pts[league$des.min] + table$pts[league$des.min-1])/2
-  p <- ggplot(data=traj) + geom_line(aes(date,pts, group = 1), size = 1.5, color = '#f66f5c') + geom_line(aes(date,qualitat, group = 1), size = 1, color = '#f66f5c', alpha = .1, linetype = 'dashed') + geom_hline(aes(yintercept=t1.line), linetype='dashed', color='#5c5c5c') + annotate('text',min(traj$date),t1.line,label = 'Ascens', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=t2.line), linetype='dashed', color='#5c5c5c') + annotate('text',min(traj$date),t2.line,label = 'Playoff', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=des.line), linetype='dashed', color='#5c5c5c') + annotate('text',min(traj$date),des.line,label = 'Descens', vjust = -.5, hjust = 'left', color='#5c5c5c')
+  p <- ggplot(data=traj) + geom_line(aes(date,pts, group = 1), size = 1.5, color = '#f66f5c') + geom_hline(aes(yintercept=t1.line), linetype='dashed', color='#5c5c5c') + annotate('text',min(traj$date),t1.line,label = 'Ascens', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=t2.line), linetype='dashed', color='#5c5c5c') + annotate('text',min(traj$date),t2.line,label = 'Playoff', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=des.line), linetype='dashed', color='#5c5c5c') + annotate('text',min(traj$date),des.line,label = 'Descens', vjust = -.5, hjust = 'left', color='#5c5c5c')
   p + theme_minimal() + labs(x = "Temporada 2021-22", y = "Punts Projectats") + theme(axis.text.x=element_blank())
 }
 ```
