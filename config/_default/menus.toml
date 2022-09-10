@@ -22,8 +22,8 @@
 
 [[main]]
   parent = "Competicions"
-  name = "Primera"
-  url = "competicions/primera/"
+  name = "La Liga F"
+  url = "competicions/la-liga-f/"
   weight = 201
 
 [[main]]

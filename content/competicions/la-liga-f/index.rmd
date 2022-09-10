@@ -6,7 +6,7 @@ summary: Projecció de 2022-2023
 tags:
   - Futbol Femení
   - Competicions
-title: Primera
+title: La Liga F
 ---
 ```{r echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(dplyr))
