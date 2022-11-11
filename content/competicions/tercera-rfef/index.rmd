@@ -18,7 +18,8 @@ table <- readRDS("~/GoogleDrive/Futbol/futstat_tables.rds") %>% filter(league ==
 table$linkteam <- iconv(table$fullname,to="ASCII//TRANSLIT")
 table$linkteam <- tolower(gsub("[[:punct:]]", "", table$linkteam))
 table$linkteam <- gsub("[[:space:]]", "_", table$linkteam)
+table$form <- paste0("![](bars/",tolower(gsub("[[:punct:]]", "", table$team)),".png)")
 table$team <- paste0("[", table$shortname, "](/clubs/", table$linkteam,"_",table$league,")")
-table <- table %>% select(team,rank,pts,t1a,t1,t2,des,xGF,xGA,qualitat)
-kable(table, digits = 1, align = 'lccccccccc', row.names = FALSE, col.names = c('Club', 'Class.', 'Punts', 'Ascens','Asc.Dir.', 'Playoff', 'Descens', 'Favor', 'Contra', 'Qualitat')) %>% add_header_above(c('Projecció de la Classificació' = 1, 'Mitjana' = 2, 'Probabilitat (%)' = 4, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(3, border_right = T) %>% column_spec(7, border_right = T)
+table <- table %>% select(team,form,rank,pts,t1a,t1,t2,des,xGF,xGA,qualitat)
+kable(table, digits = 1, align = 'lcccccccccc', row.names = FALSE, col.names = c('Club','Forma','Class.','Punts','Ascens','Asc.Dir.','Playoff','Descens','F','C','Qual.')) %>% add_header_above(c('Temporada' = 4, 'Probabilitat (%)' = 4, 'xGols' = 3)) %>% column_spec(1, bold = T) %>% column_spec(4, border_right = T) %>% column_spec(8, border_right = T)
 ```
