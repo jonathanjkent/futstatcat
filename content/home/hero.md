@@ -42,4 +42,4 @@ hero_media = "heroimg.png"
 +++
 ## Projeccions del Futbol Català
 
-Les projeccions aquí es basen en la investigació de [Dixon & Coles](https://rss.onlinelibrary.wiley.com/doi/10.1111/1467-9876.00065). Fem servir [goalmodel.R](https://github.com/opisthokonta/goalmodel) i 10.000 simulacions Monte Carlo dels pròxims partits per projectar els resultats. 
+Les projeccions aquí es basen en la investigació de [Dixon & Coles](https://rss.onlinelibrary.wiley.com/doi/10.1111/1467-9876.00065). Fem servir [goalmodel.R](https://github.com/opisthokonta/goalmodel) i 10.000 simulacions Monte Carlo dels pròxims partits per projectar els resultats. També fem servir els [soccerbars](https://sn.ethz.ch/research/soccerbars.html) de Ulrik Brandes per visualitzar forma recent. Gràcies a tots!
