@@ -2,7 +2,7 @@
 date: "2020-06-19"
 image:
   preview_only: true
-summary: Projecció de 2022-2023
+summary: Projecció de 2023-2024
 tags:
   - Futbol Masculí
   - Competicions

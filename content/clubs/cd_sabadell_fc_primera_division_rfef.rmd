@@ -10,8 +10,8 @@ suppressMessages(library(ggplot2))
 traj <- readRDS('~/GoogleDrive/Futbol/futstat_trajs.rds') %>% filter(team == '/Sabadell') %>% filter(date > as.POSIXct('2021-08-01'))
 
 if (nrow(traj) > 2){
-  table <- readRDS('~/GoogleDrive/Futbol/futstat_tables.rds') %>% filter(league == 'primera_division_rfef_2')
-  league <- readRDS('~/GoogleDrive/Futbol/ligas.rds') %>% filter(league == 'primera_division_rfef' & group == 2)
+  table <- readRDS('~/GoogleDrive/Futbol/futstat_tables.rds') %>% filter(league == 'primera_division_rfef_1')
+  league <- readRDS('~/GoogleDrive/Futbol/ligas.rds') %>% filter(league == 'primera_division_rfef' & group == 1)
   t1.line <- (table$pts[league$t1.max] + table$pts[league$t1.max+1])/2
   t2.line <- (table$pts[league$t2.max] + table$pts[league$t2.max+1])/2
   des.line <- (table$pts[league$des.min] + table$pts[league$des.min-1])/2
