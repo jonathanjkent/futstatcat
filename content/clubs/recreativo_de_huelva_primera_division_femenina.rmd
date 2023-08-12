@@ -1,8 +1,8 @@
 ---
 date: "2021-01-01"
 title: "Recreativo de Huelva"
-subtitle: 'Primera'
-summary: 'Primera'
+subtitle: 'La Liga F'
+summary: 'La Liga F'
 ---
 ```{r, traj, fig.width=8, fig.height=4, echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(dplyr))

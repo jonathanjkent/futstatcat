@@ -8,7 +8,7 @@ tags:
   - Competicions
 title: Primera RFEF
 ---
-## Grup II
+## Grup I
 ```{r echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(dplyr))
 suppressMessages(library(kableExtra))
