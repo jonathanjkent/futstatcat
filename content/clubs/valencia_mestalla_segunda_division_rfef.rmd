@@ -16,7 +16,7 @@ if (nrow(traj) > 2){
   t2.line <- (table$pts[league$t2.max] + table$pts[league$t2.max+1])/2
   des.line <- (table$pts[league$des.min] + table$pts[league$des.min-1])/2
   p <- traj %>% mutate(Timestamp = date, Points = pts) %>% ggplot() + geom_line(aes(Timestamp,Points, group = 1), linewidth = 1.5, color = '#f66f5c') + geom_hline(aes(yintercept=t1.line), linetype='dashed', color='#dbdbdb') + annotate('text',min(traj$date),t1.line,label = 'Ascens Dir', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=t2.line), linetype='dashed', color='#dbdbdb') + annotate('text',min(traj$date),t2.line,label = 'Playoff', vjust = -.5, hjust = 'left', color='#5c5c5c') + geom_hline(aes(yintercept=des.line), linetype='dashed', color='#dbdbdb') + annotate('text',min(traj$date),des.line,label = 'Descens', vjust = -.5, hjust = 'left', color='#5c5c5c')
-  plotly::ggplotly(p + theme_minimal() + labs(x = "Temporada", y = "Punts Projectats") + theme(axis.text.x=element_blank()))
+  plotly::ggplotly(p + theme_minimal() + labs(x = "Temporada", y = "Punts Projectats") + theme(axis.text.x=element_blank()), tooltip = c("Timestamp","Points"))
 }
 ```
 
