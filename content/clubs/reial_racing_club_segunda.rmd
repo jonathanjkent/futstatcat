@@ -7,7 +7,7 @@ summary: 'La Liga 2'
 ```{r, traj, fig.width=8, fig.height=4, echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(dplyr))
 suppressMessages(library(ggplot2))
-traj <- readRDS('~/GoogleDrive/Futbol/futstat_trajs.rds') %>% filter(team == '/Racing') %>% filter(date > as.POSIXct('2021-08-01'))
+traj <- readRDS('~/GoogleDrive/Futbol/futstat_trajs.rds') %>% filter(team == '/Racing')
 
 if (nrow(traj) > 2){
   table <- readRDS('~/GoogleDrive/Futbol/futstat_tables.rds') %>% filter(league == 'segunda_1')
