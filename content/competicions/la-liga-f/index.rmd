@@ -2,7 +2,7 @@
 date: "2020-06-18"
 image:
   preview_only: true
-summary: Projecció de 2024-2025
+summary: Projecció de 2025-2026
 tags:
   - Futbol Femení
   - Competicions
